@@ -1,3 +1,13 @@
 theme: jekyll-theme-primer
 title: Ars Astronomica
 description: First English translations of historical Hebrew and Latin works in astronomy, cosmology, and natural philosophy.
+twitter:
+  card: summary
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /logo-with-name.png
+        width: 1061
+        height: 1061

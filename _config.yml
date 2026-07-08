@@ -1,6 +1,16 @@
 theme: jekyll-theme-primer
+lang: en
 title: Ars Astronomica
 description: First English translations of historical Hebrew and Latin works in astronomy, cosmology, and natural philosophy.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Paste the token from Search Console / Bing Webmaster Tools ("HTML tag" method)
+# to have jekyll-seo-tag emit the verification <meta> tags, then submit sitemap.xml.
+# webmaster_verifications:
+#   google: YOUR_GOOGLE_TOKEN
+#   bing: YOUR_BING_TOKEN
 twitter:
   username: ArsAstronomica
   card: summary_large_image

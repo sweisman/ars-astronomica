@@ -5,6 +5,8 @@ author: "David Gans"
 author_slug: "david-gans"
 date_label: "c. 1613"
 date_year: "1613"
+seo:
+  type: WebPage
 permalink: /works/david-gans-nechmad-ve-naim/
 description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs bringing European science to a Hebrew-reading audience."
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_ve-Naim.pdf"

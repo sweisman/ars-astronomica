@@ -5,6 +5,8 @@ author: "Jacob ben Samson (attrib.)"
 author_slug: "jacob-ben-samson"
 date_label: "c. 1123 (composition; this is a later manuscript copy)"
 date_year: "1123"
+seo:
+  type: WebPage
 permalink: /works/jacob-ben-samson-perush-sod-ha-ibbur/
 description: "An early Ashkenazi commentary on the computation of the Hebrew calendar, attributed to a scholar of Rashi's circle and surviving in the North French Hebrew Miscellany."
 pdf: "https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_ha-Ibbur.pdf"

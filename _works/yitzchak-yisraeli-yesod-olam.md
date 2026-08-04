@@ -5,6 +5,8 @@ author: "R. Yitzchak Yisraeli"
 author_slug: "yitzchak-yisraeli"
 date_label: "c. 1310"
 date_year: "1310"
+seo:
+  type: WebPage
 permalink: /works/yitzchak-yisraeli-yesod-olam/
 description: "A complete system of mathematical astronomy built from geometry upward to the rules of the Hebrew calendar, composed in Toledo in the early fourteenth century."
 pdf: "https://books.arsastronomica.com/Yitzchak_Yisraeli_Yesod_Olam.pdf"

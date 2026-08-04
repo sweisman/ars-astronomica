@@ -5,6 +5,8 @@ author: "Christoph Scheiner"
 author_slug: "christoph-scheiner"
 date_label: "1617"
 date_year: "1617"
+seo:
+  type: WebPage
 permalink: /works/christoph-scheiner-refractiones-coelestes/
 description: "Why the setting Sun looks flattened: Scheiner's geometrical account of horizontal refraction, and the corrections it forces on measured solar altitudes and diameters."
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes.pdf"

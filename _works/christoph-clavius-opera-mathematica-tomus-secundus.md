@@ -5,6 +5,8 @@ author: "Christoph Clavius"
 author_slug: "christoph-clavius"
 date_label: "1611"
 date_year: "1611"
+seo:
+  type: WebPage
 permalink: /works/christoph-clavius-opera-mathematica-tomus-secundus/
 description: "Volume Two: Clavius's applied-mathematics curriculum — surveying and measurement, a full course in computation, and cossist algebra — as taught in the Jesuit colleges."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Secundus.pdf"

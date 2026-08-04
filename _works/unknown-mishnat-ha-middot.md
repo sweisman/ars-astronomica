@@ -4,6 +4,8 @@ title: "Mishnat ha-Middot"
 author: "Unknown"
 author_slug: "unknown"
 date_label: "c. 150–850 CE"
+seo:
+  type: WebPage
 permalink: /works/unknown-mishnat-ha-middot/
 description: "The earliest known Hebrew treatise on geometry — terse mensuration rules, each with a labeled figure and a worked example, and an early value for π. Its date is disputed by centuries."
 pdf: "https://books.arsastronomica.com/Unknown_Mishnat_ha-Middot.pdf"

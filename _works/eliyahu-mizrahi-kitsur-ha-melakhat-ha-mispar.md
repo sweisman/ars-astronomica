@@ -5,6 +5,8 @@ author: "R. Eliyahu Mizrahi"
 author_slug: "eliyahu-mizrahi"
 date_label: "c. 1500"
 date_year: "1500"
+seo:
+  type: WebPage
 permalink: /works/eliyahu-mizrahi-kitsur-ha-melakhat-ha-mispar/
 description: "A Hebrew arithmetic textbook by the chief rabbi of the Ottoman Empire — the operations, fractions, proportion and roots, taught step by step with checking methods."
 pdf: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_ha-Melakhat_ha-Mispar.pdf"

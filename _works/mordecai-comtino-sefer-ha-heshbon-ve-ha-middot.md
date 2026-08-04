@@ -4,6 +4,8 @@ title: "Sefer ha-Ḥeshbon ve-ha-Middot"
 author: "R. Mordecai Comtino"
 author_slug: "mordecai-comtino"
 date_label: "15th c. (composition; this is a later manuscript copy)"
+seo:
+  type: WebPage
 permalink: /works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/
 description: "Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites. No English translation was previously known."
 pdf: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_ha-Heshbon_ve-ha-Middot.pdf"

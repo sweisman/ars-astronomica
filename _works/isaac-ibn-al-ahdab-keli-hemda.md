@@ -4,6 +4,8 @@ title: "Keli Ḥemda"
 author: "R. Isaac ibn al-Aḥdab"
 author_slug: "isaac-ibn-al-ahdab"
 date_label: "late 14th c. (composition; this is a later manuscript copy)"
+seo:
+  type: WebPage
 permalink: /works/isaac-ibn-al-ahdab-keli-hemda/
 description: "A treatise on the equatorium — an instrument for computing planetary positions geometrically rather than by table — in two parts, on making it and on using it."
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda.pdf"

@@ -5,6 +5,8 @@ author: "R. Jacob ben Machir ibn Tibbon"
 author_slug: "jacob-ben-machir-ibn-tibbon"
 date_label: "c. 1288 (composition; this is a later manuscript copy)"
 date_year: "1288"
+seo:
+  type: WebPage
 permalink: /works/jacob-ben-machir-ibn-tibbon-roba-yisrael/
 description: "The quadrans novus — an improved astronomical quadrant of the author's own invention — described in sixteen gates. It passed into Latin and was cited by Renaissance astronomers."
 pdf: "https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael.pdf"

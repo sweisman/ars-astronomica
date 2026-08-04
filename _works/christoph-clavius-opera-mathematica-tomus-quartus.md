@@ -5,6 +5,8 @@ author: "Christoph Clavius"
 author_slug: "christoph-clavius"
 date_label: "1612"
 date_year: "1612"
+seo:
+  type: WebPage
 permalink: /works/christoph-clavius-opera-mathematica-tomus-quartus/
 description: "Volume Four: the Gnomonices in eight books — the most exhaustive Renaissance treatise on sundials, their geometry, and the instrument for laying them out."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quartus.pdf"

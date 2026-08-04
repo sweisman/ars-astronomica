@@ -5,6 +5,8 @@ author: "R. Avraham ibn Ezra"
 author_slug: "avraham-ibn-ezra"
 date_label: "c. 1148"
 date_year: "1148"
+seo:
+  type: WebPage
 permalink: /works/avraham-ibn-ezra-keli-ha-nechoshet/
 description: "The earliest surviving Hebrew treatise on the astrolabe — thirty-four gates on building and using the instrument, with a star catalogue. A matching astrolabe surfaced in Verona in 2024."
 pdf: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_ha-Nechoshet.pdf"

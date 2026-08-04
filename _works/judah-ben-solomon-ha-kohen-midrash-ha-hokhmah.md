@@ -5,6 +5,8 @@ author: "R. Judah ben Solomon ha-Kohen"
 author_slug: "judah-ben-solomon-ha-kohen"
 date_label: "c. 1247 (Hebrew self-translation from the author's earlier Arabic; this is a 14th-c. manuscript copy)"
 date_year: "1247"
+seo:
+  type: WebPage
 permalink: /works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/
 description: "A thirteenth-century Hebrew encyclopedia of the sciences, self-translated from the author's own Arabic — logic, natural science and astronomy gathered for a Hebrew readership."
 pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_ha-Hokhmah.pdf"

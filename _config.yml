@@ -14,6 +14,11 @@ plugins:
 twitter:
   username: ArsAstronomica
   card: summary_large_image
+# One page per work, so each book has its own indexable URL. Pages are
+# generated from the private repo by publish.py; do not edit _works/ by hand.
+collections:
+  works:
+    output: true
 defaults:
   - scope:
       path: ""

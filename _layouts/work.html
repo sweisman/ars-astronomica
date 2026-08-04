@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<nav aria-label="Breadcrumb">
+  <a href="{{ "/" | relative_url }}">Ars Astronomica</a> &rsaquo; <span>{{ page.title }}</span>
+</nav>
+
+<h1>{{ page.title }}</h1>
+
+<p><strong>{{ page.author }}</strong>{% if page.date_label %} &middot; {{ page.date_label }}{% endif %}</p>
+
+<p>
+  <a href="{{ page.pdf }}">Read the translation (PDF)</a>
+  {% if page.footnotes %} &middot; <a href="{{ page.footnotes }}">Editorial footnotes (PDF)</a>{% endif %}
+</p>
+
+{{ content }}
+
+<hr>
+
+<dl>
+  {% if page.source_title %}
+  <dt>Source</dt>
+  <dd>
+    {% if page.source_url %}<a href="{{ page.source_url }}">{{ page.source_title }}</a>
+    {% else %}{{ page.source_title }}{% endif %}
+  </dd>
+  {% endif %}
+  {% if page.translator_version %}
+  <dt>Translator version</dt>
+  <dd>{{ page.translator_version }}</dd>
+  {% endif %}
+</dl>
+
+<p><a href="{{ "/" | relative_url }}">&larr; All works in the corpus</a></p>

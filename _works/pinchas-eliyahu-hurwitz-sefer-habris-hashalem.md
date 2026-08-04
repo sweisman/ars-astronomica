@@ -4,6 +4,7 @@ title: "Sefer HaBris HaShalem"
 author: "R. Pinchas Eliyahu Hurwitz"
 author_slug: "pinchas-eliyahu-hurwitz"
 date_label: "1797"
+date_year: "1797"
 permalink: /works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/
 description: "A sweeping Hebrew encyclopedia of science and mysticism from 1797 — Enlightenment natural science in one part, Lurianic Kabbalah in the other, including early Jewish writing on extraterrestrial life."
 pdf: "https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem.pdf"

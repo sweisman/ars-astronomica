@@ -4,6 +4,7 @@ title: "Tzemach David"
 author: "David Gans"
 author_slug: "david-gans"
 date_label: "1592 (first composed/printed Prague, שנ\"ב; this is a later reprint)"
+date_year: "1592"
 permalink: /works/david-gans-tzemach-david/
 description: "The first history book printed in Hebrew (Prague, 1592) — Jewish history in one part, world history in the other, with a preface defending the study of the gentile past."
 pdf: "https://books.arsastronomica.com/David_Gans_Tzemach_David.pdf"

@@ -4,6 +4,7 @@ title: "Sefer Tsurat ha-Arets"
 author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
 date_label: "c. 1132"
+date_year: "1132"
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-ha-arets/
 description: "One of the first scientific works written in Hebrew rather than Arabic — the shape of the cosmos, the paths of sun and moon, and the geography of the inhabited world."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_ha-Arets.pdf"

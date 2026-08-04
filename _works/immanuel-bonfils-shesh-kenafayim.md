@@ -4,6 +4,7 @@ title: "Shesh Kenafayim"
 author: "R. Immanuel Bonfils"
 author_slug: "immanuel-bonfils"
 date_label: "c. 1365"
+date_year: "1365"
 permalink: /works/immanuel-bonfils-shesh-kenafayim/
 description: "Six sets of tables — the 'wings' — for computing sun and moon, predicting eclipses and converting calendars, using decimal fractions long before Europe adopted them."
 pdf: "https://books.arsastronomica.com/Immanuel_Bonfils_Shesh_Kenafayim.pdf"

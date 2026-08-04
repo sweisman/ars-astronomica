@@ -4,6 +4,7 @@ title: "Astronomiae Instauratae Progymnasmata"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
 date_label: "1610"
+date_year: "1610"
 permalink: /works/tycho-brahe-astronomiae-instauratae-progymnasmata/
 description: "Brahe's fullest observational program — solar and lunar theory, the best pre-telescopic star catalogue, and the new star of 1572 — left unfinished and carried to press by Kepler."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Progymnasmata.pdf"

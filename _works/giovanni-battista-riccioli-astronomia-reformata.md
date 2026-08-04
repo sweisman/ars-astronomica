@@ -4,6 +4,7 @@ title: "Astronomia Reformata"
 author: "Giovanni Battista Riccioli"
 author_slug: "giovanni-battista-riccioli"
 date_label: "1665"
+date_year: "1665"
 permalink: /works/giovanni-battista-riccioli-astronomia-reformata/
 description: "Riccioli's two-tome sequel to the Almagestum Novum — telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables, and marshalled against a moving Earth."
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata.pdf"

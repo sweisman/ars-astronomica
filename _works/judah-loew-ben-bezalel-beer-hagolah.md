@@ -4,6 +4,7 @@ title: "Be'er HaGolah"
 author: "R. Judah Loew ben Bezalel (Maharal)"
 author_slug: "judah-loew-ben-bezalel"
 date_label: "1598"
+date_year: "1598"
 permalink: /works/judah-loew-ben-bezalel-beer-hagolah/
 description: "The Maharal of Prague defends the Aggadah against critics who read its stories as absurd and its science as discredited — seven 'wells' sunk toward a single spring."
 pdf: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf"

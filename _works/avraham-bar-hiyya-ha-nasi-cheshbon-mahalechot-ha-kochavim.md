@@ -4,6 +4,7 @@ title: "Cheshbon Mahalechot ha-Kochavim"
 author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
 date_label: "c. 1136"
+date_year: "1136"
 permalink: /works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-ha-kochavim/
 description: "Twenty gates of mathematical astronomy in Hebrew, from arithmetic and chords to the courses of the planets — and to converting between the Hebrew, Muslim, Greek and Roman eras."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_ha-Kochavim.pdf"

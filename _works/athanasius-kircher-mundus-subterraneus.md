@@ -4,6 +4,7 @@ title: "Mundus Subterraneus"
 author: "Athanasius Kircher"
 author_slug: "athanasius-kircher"
 date_label: "1665"
+date_year: "1665"
 permalink: /works/athanasius-kircher-mundus-subterraneus/
 description: "Kircher's twelve-book anatomy of the interior of the Earth — volcanoes, subterranean rivers, minerals, fossils and alchemy — grounded in his own descent into the crater of Vesuvius."
 pdf: "https://books.arsastronomica.com/Athanasius_Kircher_Mundus_Subterraneus.pdf"

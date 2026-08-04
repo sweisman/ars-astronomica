@@ -4,6 +4,7 @@ title: "Epistolarum Astronomicarum Libri"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
 date_label: "1596"
+date_year: "1596"
 permalink: /works/tycho-brahe-epistolarum-astronomicarum-libri/
 description: "Before journals existed, astronomers argued by letter — Brahe's correspondence with Landgrave Wilhelm IV and Christoph Rothmann, two observatories testing each other in real time."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri.pdf"

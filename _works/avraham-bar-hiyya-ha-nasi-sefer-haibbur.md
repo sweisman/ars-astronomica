@@ -4,6 +4,7 @@ title: "Sefer HaIbbur"
 author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
 date_label: "c. 1122"
+date_year: "1122"
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/
 description: "The earliest systematic Hebrew treatise on the science of the calendar — the model later calendar scholars copied for centuries, written in twelfth-century Barcelona."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf"

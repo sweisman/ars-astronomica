@@ -4,6 +4,7 @@ title: "Sefer HaTechunah"
 author: "R. Levi ben Gershom"
 author_slug: "levi-ben-gershom"
 date_label: "c. 1328"
+date_year: "1328"
 permalink: /works/levi-ben-gershom-sefer-hatechunah/
 description: "136 chapters of mathematical astronomy built on the author's own instruments and observations, willing to overturn Ptolemy where measurement demands. Never printed; survives only in manuscript."
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah.pdf"

@@ -4,6 +4,7 @@ title: "Eratosthenes Batavus"
 author: "Willebrord Snellius"
 author_slug: "willebrord-snellius"
 date_label: "1617"
+date_year: "1617"
 permalink: /works/willebrord-snellius-eratosthenes-batavus/
 description: "The founding text of modern geodesy: Snellius measures the Earth by chaining triangles across Holland, and reconstructs the ancient attempts he means to surpass."
 pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf"

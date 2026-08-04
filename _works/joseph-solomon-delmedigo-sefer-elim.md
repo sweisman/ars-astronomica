@@ -4,6 +4,7 @@ title: "Sefer Elim"
 author: "Joseph Solomon Delmedigo"
 author_slug: "joseph-solomon-delmedigo"
 date_label: "1629"
+date_year: "1629"
 permalink: /works/joseph-solomon-delmedigo-sefer-elim/
 description: "Twelve major questions and seventy minor ones on mathematics, astronomy and physics — an early Hebrew witness to logarithms and post-Copernican astronomy."
 pdf: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim.pdf"

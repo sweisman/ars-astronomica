@@ -4,6 +4,7 @@ title: "De Mundi Aetherei Recentioribus Phaenomenis"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
 date_label: "1588"
+date_year: "1588"
 permalink: /works/tycho-brahe-de-mundi-aetherei-recentioribus-phaenomenis/
 description: "The comet of 1577 showed no parallax — so it moved where the crystalline spheres were supposed to be. Brahe draws the consequence and sets out his own system of the world."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_De_Mundi_Aetherei_Recentioribus_Phaenomenis.pdf"

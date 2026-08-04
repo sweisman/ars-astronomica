@@ -4,6 +4,7 @@ title: "Opera Mathematica, Tomus Primus (Euclid, Theodosius, trigonometry)"
 author: "Christoph Clavius"
 author_slug: "christoph-clavius"
 date_label: "1611"
+date_year: "1611"
 permalink: /works/christoph-clavius-opera-mathematica-tomus-primus/
 description: "Volume One of Clavius's collected works: the standard Renaissance Euclid, the commentary on Theodosius's Spherics, and the trigonometry of sines, tangents and secants."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Primus.pdf"

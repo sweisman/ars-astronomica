@@ -4,6 +4,7 @@ title: "Opera Mathematica, Tomus Quintus (Gregorian calendar reform)"
 author: "Christoph Clavius"
 author_slug: "christoph-clavius"
 date_label: "1612"
+date_year: "1612"
 permalink: /works/christoph-clavius-opera-mathematica-tomus-quintus/
 description: "Volume Five: the architect of the Gregorian calendar explains it in full, then defends it in two books against Maestlin and answers Scaliger, Germanus and Viète."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quintus.pdf"

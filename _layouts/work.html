@@ -2,6 +2,48 @@
 layout: default
 ---
 
+{%- comment -%}
+Structured data. Strings go through `jsonify` so titles containing quotes or
+Hebrew cannot break the document. Optional members carry their own leading
+comma, since the required ones above them are always present.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "author": { "@type": "Person", "name": {{ page.author | jsonify }} },
+  "translator": { "@type": "Person", "name": "Scott Weisman" },
+  "publisher": { "@type": "Organization", "name": "Ars Astronomica", "url": {{ "/" | absolute_url | jsonify }} },
+  "inLanguage": "en",
+  "description": {{ page.description | jsonify }}
+  {%- if page.date_year %},
+  "datePublished": {{ page.date_year | jsonify }}
+  {%- endif %}
+  {%- if page.source_url %},
+  "isBasedOn": {{ page.source_url | jsonify }}
+  {%- endif %}
+  {%- if page.pdf %},
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": {{ page.pdf | jsonify }},
+    "encodingFormat": "application/pdf"
+  }
+  {%- endif %}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Ars Astronomica", "item": {{ "/" | absolute_url | jsonify }} },
+    { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
+  ]
+}
+</script>
+
 <nav aria-label="Breadcrumb">
   <a href="{{ "/" | relative_url }}">Ars Astronomica</a> &rsaquo; <span>{{ page.title }}</span>
 </nav>

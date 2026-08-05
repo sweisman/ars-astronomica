@@ -4,6 +4,46 @@ A scholarly imprint producing first English translations of historical Hebrew an
 
 These texts span centuries, and most have never appeared in English. One -- Gersonides' 136-chapter mathematical astronomy -- was never printed and survives only in manuscript. They cite and answer one another, addressing the same cosmological questions, yet until now no one could read them side by side in a single language.
 
+**[Browse the corpus](#the-corpus)** -- 37 works, each with a page of its own.
+
+## About the translations
+
+Every text is translated in full into fluent modern English -- nothing dropped, summarized, or invented -- with technical vocabulary anchored to its modern equivalents and mathematical content reproduced cell by cell and degree by degree. The PDFs are prepublication texts; the diagrams are still in progress.
+
+[Read more about how the translations are made](https://arsastronomica.com/about/).
+
+## Updates
+
+**2026-08-06**
+
+- Twenty-two works have been reissued. A pass of mechanical edits brought the English into a more consistent modern register — smoothing constructions that had come through the translation reading stiffly or archaically — without altering the sense of the text.
+
+**2026-08-04**
+
+- Added *Be'er HaGolah* (R. Judah Loew ben Bezalel, the Maharal of Prague, 1598) — his defense of the Aggadah, the non-legal portions of the Talmud, against the critics of his age who read its stories as absurd and its science as discredited.
+
+**2026-07-31**
+
+- Added two works: Clavius's *Opera Mathematica*, Tomus V — his own account of the Gregorian calendar reform he principally engineered — and Willebrord Snellius's *Eratosthenes Batavus* (Leiden, 1617), the first modern measurement of the Earth's circumference by triangulation.
+- Every work has been reissued. Greek passages quoted inside the Latin texts were audited page by page and corrected throughout, and some editorial scaffolding that had been showing through into the reading text has been cleaned out.
+
+[Earlier updates](https://arsastronomica.com/updates/)
+
+## Support this project
+
+> Upright reason dictates that the recipients of the good, of whatever type and level of beneficence it may be, must show gratitude and blessing to the beneficent person in every way possible, commensurate with the value of the beneficence. And one who has benefited all the people of the world -- for example, one who invented a new instrument for the good of the world, or a good book -- it is fitting for every discerning person, out of the obligation of love of fellow beings, to at least purchase it, so that the man will profit and his heart will be encouraged thereby to invent yet more good instruments in the world. And similarly, all other wise-hearted people will likewise strive and exert themselves to invent good things and instruments needed for the repair of the world and its perfection.
+>
+> And therefore, whoever says: "What do I need this new instrument for?" -- he does not act well towards the world. For if not for the man who invented it, where would you be? And what would your city do? And more than this, if the man did not exert himself, what would the world do?
+
+R. Pinchas Eliyahu Hurwitz, _Sefer HaBris_
+
+If you find these translations useful, you can [support me on Ko-fi](https://ko-fi.com/arsastronomica).
+
+## Contact
+
+- Email: **ArsAstronomica@protonmail.com**
+- X: [@ArsAstronomica](https://x.com/ArsAstronomica)
+
 ## The corpus
 
 | Date | Author | Work | Source | Description | Translator Version |
@@ -45,70 +85,6 @@ These texts span centuries, and most have never appeared in English. One -- Gers
 | 1596 | Tycho Brahe | [*Epistolarum Astronomicarum Libri*](/works/tycho-brahe-epistolarum-astronomicarum-libri/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri_Footnotes.pdf) | [Internet Archive — tychonisbrahedan00brah](https://archive.org/details/tychonisbrahedan00brah) | Before scientific journals existed, astronomers argued, boasted, and traded discoveries by letter. | 2 |
 | c. 150–850 CE | Unknown | [*Mishnat ha-Middot*](/works/unknown-mishnat-ha-middot/)<br>[PDF](https://books.arsastronomica.com/Unknown_Mishnat_ha-Middot.pdf) · [footnotes](https://books.arsastronomica.com/Unknown_Mishnat_ha-Middot_Footnotes.pdf) | [HebrewBooks.org — ID 39044](https://hebrewbooks.org/39044) | The earliest known Hebrew treatise on geometry — a concise practical manual of mensuration covering the areas and perimeters of plane figures, the measurement of circles and segments, and an early value for π. | 2 |
 | 1617 | Willebrord Snellius | [*Eratosthenes Batavus*](/works/willebrord-snellius-eratosthenes-batavus/)<br>[PDF](https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf) · [footnotes](https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf) | [e-rara / ETH-Bibliothek Zürich, Rar 4426](https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205) | The founding text of modern geodesy. | 2 |
-
-## Updates
-
-**2026-08-06**
-
-- Twenty-two works have been reissued. A pass of mechanical edits brought the English into a more consistent modern register — smoothing constructions that had come through the translation reading stiffly or archaically — without altering the sense of the text.
-
-**2026-08-04**
-
-- Added *Be'er HaGolah* (R. Judah Loew ben Bezalel, the Maharal of Prague, 1598) — his defense of the Aggadah, the non-legal portions of the Talmud, against the critics of his age who read its stories as absurd and its science as discredited.
-
-**2026-07-31**
-
-- Added two works: Clavius's *Opera Mathematica*, Tomus V — his own account of the Gregorian calendar reform he principally engineered — and Willebrord Snellius's *Eratosthenes Batavus* (Leiden, 1617), the first modern measurement of the Earth's circumference by triangulation.
-- Every work has been reissued. Greek passages quoted inside the Latin texts were audited page by page and corrected throughout, and some editorial scaffolding that had been showing through into the reading text has been cleaned out.
-
-**2026-07-30**
-
-- Added seven works to the corpus: *Midrash ha-Ḥokhmah* (Judah ben Solomon ha-Kohen), Tomes I–IV of Clavius's *Opera Mathematica*, and *Refractiones Coelestes* and *Rosa Ursina sive Sol* (Scheiner).
-- *Sefer HaBris HaShalem* (Hurwitz) was retitled from its earlier heading, *Sefer HaBrit HaShalem*.
-- Every work has been reissued. The translator version is unchanged, but proper names and technical vocabulary are now held to one consistent form across the whole corpus; earlier printings let variants through.
-
-**2026-07-05**
-
-- Added eight works to the corpus: *Milchamot HaShem* (Gersonides), *Sefer HaBris HaShalem* (Hurwitz), *Tzemach David* (Gans), *Keli Ḥemda* and *Orah Selulah* (ibn al-Aḥdab), *Roba' Yisrael* (ibn Tibbon), *Perush Sod ha-Ibbur* (Jacob ben Samson), and *Sefer ha-Ḥeshbon ve-ha-Middot* (Comtino).
-- *Cheshbon Mahalechot ha-Kochavim* (bar Ḥiyya ha-Nasi) was retitled from its earlier heading, *Po'al ha-Shem ve-Cheshbon Mahalechot ha-Kochavim*.
-- Some works now carry improved source records -- *Nechmad ve-Na'im*, for one, now cites the National Library of Israel's own digitized exemplar.
-
-**2026-06-29**
-
-- All translations are now at **version 2**, regenerated with the corrected pipeline. Version 1 turned out to be an intermediate stage and has been superseded.
-- Added new works to the corpus -- most recently *Sefer Tsurat ha-Arets*, *Kitsur ha-Melakhat ha-Mispar*, and *Sefer Elim*.
-- Draft editorial footnotes are now available for download from a **footnotes** link beneath each work's title.
-
-## About the translations
-
-Translations are produced with an automated, AI-assisted pipeline that runs each text through a multi-stage workflow before final collation. For technical details, see the translator's [translation-pipeline](https://github.com/sweisman/translation-pipeline) repo.
-
-These translations are prepublication texts -- nearly publication-ready, pending the diagrams and illustrations still in progress.
-
-The goal is fluent, readable modern English -- a text an educated reader can follow without reaching for the Latin or Hebrew, not one written only for specialists. Rather than reproduce the long periodic sentences and deferred verbs of the originals, the translations carry the author's meaning, argument, and tone into natural contemporary prose: where Tycho builds a single sentence whose main verb arrives only after four nested clauses, the translation breaks it into the two or three a modern writer would use. Fidelity comes first, though -- nothing is dropped, summarized, or invented, and negations, numbers, technical terms, and the author's own examples and analogies are preserved exactly. Readability never comes at the cost of changing what the source says.
-
-Technical vocabulary stays precise and is anchored to its modern equivalents. A key Latin or Hebrew term of art is glossed on its first occurrence -- the original shown alongside the English rendering -- and thereafter carried in settled English. Historical names, star names, and specialized vocabulary carry inline identifications: Tycho's "Lucida Vulturis volantis" is identified as Altair in Aquila; Gersonides' medieval Hebrew astronomical terminology is mapped to the Ptolemaic system it describes.
-
-Mathematical and astronomical content -- sexagesimal values, spherical triangle computations, calendar arithmetic, tabular data -- is reproduced with the precision of the originals, cell by cell and degree by degree. Compositor errors in the source are corrected inline with `[recte: ...]` notation rather than silently emended. Uncertain readings due to ink damage, worn type, or ambiguous letterforms are marked with `[?]`, preserving the translator's best reading while flagging it for editorial review.
-
-### Illustrations and diagrams
-
-The publicly available PDFs are text-only. Geometric figures, instrument schematics, concentric-sphere charts, and other diagrams from the source works are extracted and replaced with structured descriptions identifying every label, arc, point, and geometric relationship visible in the original woodcut or engraving. Tycho's _De Mundi Aetherei_, for example, carries 93 such figures, from spherical-astronomy constructions to the two-circle hypothesis of the comet's eccentric orbit within the solar sphere. For a high-quality illustrated print edition of any of these works, please get in touch using the contact details below.
-
-## Support this project
-
-> Upright reason dictates that the recipients of the good, of whatever type and level of beneficence it may be, must show gratitude and blessing to the beneficent person in every way possible, commensurate with the value of the beneficence. And one who has benefited all the people of the world -- for example, one who invented a new instrument for the good of the world, or a good book -- it is fitting for every discerning person, out of the obligation of love of fellow beings, to at least purchase it, so that the man will profit and his heart will be encouraged thereby to invent yet more good instruments in the world. And similarly, all other wise-hearted people will likewise strive and exert themselves to invent good things and instruments needed for the repair of the world and its perfection.
->
-> And therefore, whoever says: "What do I need this new instrument for?" -- he does not act well towards the world. For if not for the man who invented it, where would you be? And what would your city do? And more than this, if the man did not exert himself, what would the world do?
-
-R. Pinchas Eliyahu Hurwitz, _Sefer HaBris_
-
-If you find these translations useful, you can [support me on Ko-fi](https://ko-fi.com/arsastronomica).
-
-## Contact
-
-- Email: **ArsAstronomica@protonmail.com**
-- X: [@ArsAstronomica](https://x.com/ArsAstronomica)
 
 ## License
 

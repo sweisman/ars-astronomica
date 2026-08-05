@@ -48,6 +48,10 @@ These texts span centuries, and most have never appeared in English. One -- Gers
 
 ## Updates
 
+**2026-08-06**
+
+- Twenty-two works have been reissued. A pass of mechanical edits brought the English into a more consistent modern register — smoothing constructions that had come through the translation reading stiffly or archaically — without altering the sense of the text.
+
 **2026-08-04**
 
 - Added *Be'er HaGolah* (R. Judah Loew ben Bezalel, the Maharal of Prague, 1598) — his defense of the Aggadah, the non-legal portions of the Talmud, against the critics of his age who read its stories as absurd and its science as discredited.

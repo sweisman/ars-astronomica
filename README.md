@@ -4,7 +4,7 @@ A scholarly imprint producing first English translations of historical Hebrew an
 
 These texts span centuries, and most have never appeared in English. One -- Gersonides' 136-chapter mathematical astronomy -- was never printed and survives only in manuscript. They cite and answer one another, addressing the same cosmological questions, yet until now no one could read them side by side in a single language.
 
-**[Browse the corpus](#the-corpus)** -- 37 works, each with a page of its own.
+**[Browse the corpus](#the-corpus)** -- 38 works, each with a page of its own.
 
 ## About the translations
 
@@ -14,9 +14,10 @@ Every text is translated in full into fluent modern English -- nothing dropped, 
 
 ## Updates
 
-**2026-08-06**
+**2026-08-07**
 
-- Twenty-two works have been reissued. A pass of mechanical edits brought the English into a more consistent modern register — smoothing constructions that had come through the translation reading stiffly or archaically — without altering the sense of the text.
+- Added Pedro Nunes's *Opera* (Coimbra, 1573) — the collected Latin works of the royal cosmographer of Portugal and the leading mathematician of the age of discoveries, in the author's own final edition: the two books on the art and science of navigation, the annotations on Peurbach's planetary theory and on Aristotle's mechanical problem of the rowed ship, the critique of Oronce Finé, and the treatise on twilight with Alhazen's book on its causes.
+- The rest of the corpus has been reissued. A pass of mechanical edits brought the English into a more consistent modern register — many fixes of archaic wording and grammar, smoothing constructions that had come through the translation reading stiffly — without altering the sense of the text.
 
 **2026-08-04**
 
@@ -62,6 +63,7 @@ If you find these translations useful, you can [support me on Ko-fi](https://ko-
 | c. 1123 (composition; this is a later manuscript copy) | Jacob ben Samson (attrib.) | [*Perush Sod ha-Ibbur*](/works/jacob-ben-samson-perush-sod-ha-ibbur/)<br>[PDF](https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_ha-Ibbur.pdf) · [footnotes](https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_ha-Ibbur_Footnotes.pdf) | [OPenn UPenn-hosted digitization of the British Library manuscript — British Library Add MS 11639, ff. 511r–545v](https://openn.library.upenn.edu/Data/0047/) | An early Ashkenazi commentary on the "secret of the calendar" (*sod ha-ibbur*) — the computation of the Hebrew calendar: the molad (lunar conjunction), the tequfot (seasonal points), the nineteen-year intercalation cycle, and the rules governing leap years and festival dates. | 2 |
 | 1629 | Joseph Solomon Delmedigo | [*Sefer Elim*](/works/joseph-solomon-delmedigo-sefer-elim/)<br>[PDF](https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim.pdf) · [footnotes](https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim_Footnotes.pdf) | [Internet Archive — seferelim00delmuoft](https://archive.org/details/seferelim00delmuoft) | A wide-ranging Hebrew scientific compendium, framed as a reply to questions put by the Karaite scholar Zerah ben Nathan. | 2 |
 | 1640 | Longomontanus | [*Astronomia Danica*](/works/longomontanus-astronomia-danica/)<br>[PDF](https://books.arsastronomica.com/Longomontanus_Astronomia_Danica.pdf) · [footnotes](https://books.arsastronomica.com/Longomontanus_Astronomia_Danica_Footnotes.pdf) | [Internet Archive — astronomiadanica00long](https://archive.org/details/astronomiadanica00long) | A comprehensive textbook of astronomy and the definitive technical account of the Tychonic system — Earth at rest, the Sun circling it, the planets circling the Sun. | 2 |
+| 1573 | Pedro Nunes | [*Opera (Coimbra, 1573)*](/works/pedro-nunes-opera/)<br>[PDF](https://books.arsastronomica.com/Pedro_Nunes_Opera.pdf) · [footnotes](https://books.arsastronomica.com/Pedro_Nunes_Opera_Footnotes.pdf) | [Internet Archive — `bub_gb_N7WJTq-MwDQC`](https://archive.org/details/bub_gb_N7WJTq-MwDQC) | The collected Latin works of Pedro Nunes, royal cosmographer of Portugal and the leading mathematician of the age of discoveries, in the author's own final edition. | 2 |
 | 1654 | Pierre Gassendi | [*Tychonis Brahei Vita*](/works/pierre-gassendi-tychonis-brahei-vita/)<br>[PDF](https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita.pdf) · [footnotes](https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita_Footnotes.pdf) | [Internet Archive — den-kbd-pil-130018157889-001](https://archive.org/details/den-kbd-pil-130018157889-001) | A life of the Danish astronomer Tycho Brahe (1546–1601): his fabled observatory on the island of Hven, the magnificent instruments he built, the campaigns of observation that remade astronomy, his bold model of the cosmos, and his turbulent final years in Prague. | 2 |
 | c. 1136 | R. Avraham bar Ḥiyya ha-Nasi | [*Cheshbon Mahalechot ha-Kochavim*](/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-ha-kochavim/)<br>[PDF](https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_ha-Kochavim.pdf) · [footnotes](https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_ha-Kochavim_Footnotes.pdf) | [HebrewBooks.org — ID 22072](https://hebrewbooks.org/22072) | A medieval Hebrew treatise on mathematical astronomy and the computation of the Jewish calendar. | 2 |
 | c. 1122 | R. Avraham bar Ḥiyya ha-Nasi | [*Sefer HaIbbur*](/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/)<br>[PDF](https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf) · [footnotes](https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur_Footnotes.pdf) | [HebrewBooks.org — ID 21292](https://hebrewbooks.org/21292) | The earliest systematic Hebrew treatise on the science of the calendar, written in early-twelfth-century Barcelona. | 2 |

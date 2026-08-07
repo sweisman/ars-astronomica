@@ -9,9 +9,10 @@ permalink: /updates/
 
 # Updates
 
-**2026-08-06**
+**2026-08-07**
 
-- Twenty-two works have been reissued. A pass of mechanical edits brought the English into a more consistent modern register — smoothing constructions that had come through the translation reading stiffly or archaically — without altering the sense of the text.
+- Added Pedro Nunes's *Opera* (Coimbra, 1573) — the collected Latin works of the royal cosmographer of Portugal and the leading mathematician of the age of discoveries, in the author's own final edition: the two books on the art and science of navigation, the annotations on Peurbach's planetary theory and on Aristotle's mechanical problem of the rowed ship, the critique of Oronce Finé, and the treatise on twilight with Alhazen's book on its causes.
+- The rest of the corpus has been reissued. A pass of mechanical edits brought the English into a more consistent modern register — many fixes of archaic wording and grammar, smoothing constructions that had come through the translation reading stiffly — without altering the sense of the text.
 
 **2026-08-04**
 

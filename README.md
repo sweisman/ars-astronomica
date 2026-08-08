@@ -10,6 +10,8 @@ These texts span centuries, and most have never appeared in English. One -- Gers
 
 Every text is translated in full into fluent modern English -- nothing dropped, summarized, or invented -- with technical vocabulary anchored to its modern equivalents and mathematical content reproduced cell by cell and degree by degree. The PDFs are prepublication texts; the diagrams are still in progress.
 
+These are **reading-grade** editions: complete and accurate in substance, good enough to work from and to read for pleasure, but not yet line-by-line verified against the printed page to the standard a scholar should cite. Quality is measured rather than asserted -- about one defect per thousand words on good Latin print, and some nine thousand numerals verified across Clavius's tables with essentially no misreadings.
+
 [Read more about how the translations are made](https://arsastronomica.com/about/).
 
 ## Updates

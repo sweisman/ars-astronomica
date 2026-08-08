@@ -27,3 +27,10 @@ defaults:
         path: /logo-with-name.png
         width: 1200
         height: 630
+  # The Search Console verification file is not a page; keep it out of the
+  # sitemap. It has to be served byte-for-byte, so it cannot carry front matter
+  # and has to be excluded from here instead.
+  - scope:
+      path: google30e8504600ff322d.html
+    values:
+      sitemap: false

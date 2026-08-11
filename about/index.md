@@ -21,7 +21,7 @@ It is useful to distinguish between two standards for this kind of work.
 
 **Citation grade** is stricter. It means that every line has been independently checked against the printed or manuscript page and that the remaining uncertainties are known and explicitly recorded. That is the standard required before a translation can be treated as a critical scholarly text.
 
-No work in this corpus is currently offered as citation grade. Where a passage carries substantial scholarly weight, it should be checked against the original source, which is linked from every work's page.
+No work in this corpus is citation grade, and none is offered as one. Where a passage carries substantial scholarly weight, it should be checked against the original source, which is linked from every work's page.
 
 The distinction matters because errors in machine-assisted translation are not necessarily visible in the finished prose. A system that misreads a word may still produce fluent English, and a bad reading can look just as natural as a good one. Fluency therefore says little by itself about reliability. The more important question is how the translation was checked.
 
@@ -42,7 +42,7 @@ Verification therefore has to be verified as well.
 | Latin printed prose, institutional greyscale scans | about 1 |
 | Hebrew printed prose, one-bit thresholded scans | about 10 |
 
-Much of the difference between those figures appears to come from the scans rather than the languages themselves. A greyscale scan can preserve a faint impression; a one-bit scan may erase it entirely. Once information has disappeared from the source image, later processing cannot recover it. The Hebrew figure therefore reflects the quality of the available digitization as much as the difficulty of the text.
+Much of the difference between those figures appears to come from the scans rather than the languages themselves. A greyscale scan can preserve a faint impression; a one-bit scan may erase it entirely. Once information has disappeared from the source image, later processing cannot recover it. The Hebrew figure therefore reflects the quality of the available digitization more than the difficulty of the text. Those figures are a floor, not a verdict on Hebrew.
 
 Where the source material is clean and regular, the results can be considerably better. Five sets of Clavius's numerical tables were checked exhaustively -- roughly nine thousand numerals -- with essentially no transcription errors. The few apparent exceptions turned out to be places where the translation had correctly repaired errors made by the original printer.
 
@@ -50,13 +50,13 @@ The intuitive concern about Hebrew numerals and *gematria*, where numbers appear
 
 One book has been tested much more extensively than the rest. It was translated twice, independently, from two different digitizations, with neither translation having access to the other. The resulting English texts were then collated across about two hundred thousand words of parallel text.
 
-That comparison located several hundred genuine disagreements that had survived both translations' internal review. It also revealed the limit of the technique: sometimes both translations make the same mistake. Comparison between independent translations can find many errors, but it cannot replace checking the original page.
+That comparison located several hundred genuine disagreements that had survived both translations' internal review. It also revealed the limit of the technique: the two translations are wrong together in roughly a sixth of cases, and no amount of comparison finds those. Comparison between independent translations can find many errors, but it cannot replace checking the original page.
 
 ## Where it fails
 
 Testing has revealed several limitations that are important when using these editions.
 
-**The machine's own confidence is a poor guide.** Translations mark passages where the system is uncertain, but those marks tend to reflect linguistic difficulty rather than actual output quality. Many heavily marked passages are perfectly legible, while serious errors may appear in passages with no warning at all. The `[?]` marks in these texts should therefore not be read as a map of where the errors are.
+**The machine's own confidence is a poor guide.** Translations mark passages where the system is uncertain, but those marks tend to reflect linguistic difficulty rather than actual output quality. Across the worst-marked passages examined, most of the marks sat on text that was simply legible and hedged, while the worst passage found anywhere carried almost no marks. The `[?]` marks in these texts should therefore not be read as a map of where the errors are.
 
 **Sampling finds defects without proving that unchecked material is clean.** One damaged passage of tables was reviewed twice, first by sampling and then cell by cell. The complete review found several times as many defects, including corrupted material in a block the sample had never examined. A clean sample means only that the material actually checked was clean.
 

@@ -11,6 +11,7 @@ permalink: /works/levi-ben-gershom-sefer-hatechunah/
 description: "136 chapters of mathematical astronomy built on the author's own instruments and observations, willing to overturn Ptolemy where measurement demands. Never printed; survives only in manuscript."
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah.pdf"
 footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah_Footnotes.pdf"
+grade: "reading"
 source_title: "Gallica / BnF — MS Hébreu 724, ff. 1r–257v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10544205n"
 translator_version: "2"

@@ -11,7 +11,8 @@ permalink: /works/pedro-nunes-opera/
 description: "The collected Latin works of Portugal's royal cosmographer, gathered in his own final edition: the mathematics of sailing a constant bearing, the twilight treatise that introduced the nonius, and a demolition of Oronce Finé."
 pdf: "https://books.arsastronomica.com/Pedro_Nunes_Opera.pdf"
 footnotes: "https://books.arsastronomica.com/Pedro_Nunes_Opera_Footnotes.pdf"
-source_title: "Internet Archive — bub_gb_N7WJTq-MwDQC"
+grade: "reading"
+source_title: "Internet Archive — `bub_gb_N7WJTq-MwDQC`"
 source_url: "https://archive.org/details/bub_gb_N7WJTq-MwDQC"
 translator_version: "2"
 ---

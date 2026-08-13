@@ -11,6 +11,7 @@ permalink: /works/david-gans-nechmad-ve-naim/
 description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs bringing European science to a Hebrew-reading audience."
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_ve-Naim.pdf"
 footnotes: "https://books.arsastronomica.com/David_Gans_Nechmad_ve-Naim_Footnotes.pdf"
+grade: "reading"
 source_title: "National Library of Israel — Rosetta IE32709375, shelfmark 35 V 1770 catalog NNL_ALEPH990011964030205171"
 translator_version: "2"
 ---

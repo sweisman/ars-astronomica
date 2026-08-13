@@ -11,6 +11,7 @@ permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-ha-arets/
 description: "One of the first scientific works written in Hebrew rather than Arabic — the shape of the cosmos, the paths of sun and moon, and the geography of the inhabited world."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_ha-Arets.pdf"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_ha-Arets_Footnotes.pdf"
+grade: "reading"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
 translator_version: "2"

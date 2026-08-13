@@ -11,6 +11,7 @@ permalink: /works/pierre-gassendi-tychonis-brahei-vita/
 description: "Gassendi's six-book life of Tycho Brahe — Hven, the instruments, the observations and the final Prague years — with shorter lives of Copernicus, Peurbach and Regiomontanus."
 pdf: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita.pdf"
 footnotes: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita_Footnotes.pdf"
+grade: "reading"
 source_title: "Internet Archive — den-kbd-pil-130018157889-001"
 source_url: "https://archive.org/details/den-kbd-pil-130018157889-001"
 translator_version: "2"

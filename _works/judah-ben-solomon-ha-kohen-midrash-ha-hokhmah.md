@@ -11,6 +11,7 @@ permalink: /works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/
 description: "A thirteenth-century Hebrew encyclopedia of the sciences, self-translated from the author's own Arabic — logic, natural science and astronomy gathered for a Hebrew readership."
 pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_ha-Hokhmah.pdf"
 footnotes: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_ha-Hokhmah_Footnotes.pdf"
+grade: "reading"
 source_title: "NLI Ktiv Palatina partner collection — DocId PNX_MANUSCRIPTS990000837360205171-1"
 source_url: "https://iiif.nli.org.il/IIIFv21/990000837360205171/manifest"
 translator_version: "2"

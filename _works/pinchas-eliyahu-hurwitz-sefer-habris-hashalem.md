@@ -11,6 +11,7 @@ permalink: /works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/
 description: "A sweeping Hebrew encyclopedia of science and mysticism from 1797 — Enlightenment natural science in one part, Lurianic Kabbalah in the other, including early Jewish writing on extraterrestrial life."
 pdf: "https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem.pdf"
 footnotes: "https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem_Footnotes.pdf"
+grade: "reading"
 source_title: "HebrewBooks.org — ID 43670"
 source_url: "https://hebrewbooks.org/43670"
 translator_version: "2"

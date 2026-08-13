@@ -11,6 +11,7 @@ permalink: /works/tycho-brahe-astronomiae-instauratae-mechanica/
 description: "Brahe's illustrated catalogue of the most accurate instruments built before the telescope — each engraved, measured, and described — with a tour of Uraniborg and Stjerneborg."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Mechanica.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Mechanica_Footnotes.pdf"
+grade: "reading"
 source_title: "Internet Archive — gri_tychonisbrah00brah"
 source_url: "https://archive.org/details/gri_tychonisbrah00brah"
 translator_version: "2"

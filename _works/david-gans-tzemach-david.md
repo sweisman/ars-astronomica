@@ -11,6 +11,7 @@ permalink: /works/david-gans-tzemach-david/
 description: "The first history book printed in Hebrew (Prague, 1592) — Jewish history in one part, world history in the other, with a preface defending the study of the gentile past."
 pdf: "https://books.arsastronomica.com/David_Gans_Tzemach_David.pdf"
 footnotes: "https://books.arsastronomica.com/David_Gans_Tzemach_David_Footnotes.pdf"
+grade: "reading"
 source_title: "National Library of Israel — Rosetta IE90688593 record labeled \"Vol.1-3\""
 translator_version: "2"
 ---

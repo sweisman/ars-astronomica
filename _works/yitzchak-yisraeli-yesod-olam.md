@@ -11,6 +11,7 @@ permalink: /works/yitzchak-yisraeli-yesod-olam/
 description: "A complete system of mathematical astronomy built from geometry upward to the rules of the Hebrew calendar, composed in Toledo in the early fourteenth century."
 pdf: "https://books.arsastronomica.com/Yitzchak_Yisraeli_Yesod_Olam.pdf"
 footnotes: "https://books.arsastronomica.com/Yitzchak_Yisraeli_Yesod_Olam_Footnotes.pdf"
+grade: "reading"
 source_title: "Digital Bodleian — MS. Huntington 299"
 source_url: "https://digital.bodleian.ox.ac.uk/objects/aa14af19-443e-4f76-99da-7f3a4cd067a0/"
 translator_version: "2"

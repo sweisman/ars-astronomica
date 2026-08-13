@@ -11,6 +11,7 @@ permalink: /works/christoph-scheiner-refractiones-coelestes/
 description: "Why the setting Sun looks flattened: Scheiner's geometrical account of horizontal refraction, and the corrections it forces on measured solar altitudes and diameters."
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes_Footnotes.pdf"
+grade: "reading"
 source_title: "Universitätsbibliothek Freiburg — *diglit* `scheiner1617`"
 source_url: "https://dl.ub.uni-freiburg.de/diglit/scheiner1617"
 translator_version: "2"

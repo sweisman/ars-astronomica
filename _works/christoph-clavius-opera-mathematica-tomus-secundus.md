@@ -11,6 +11,7 @@ permalink: /works/christoph-clavius-opera-mathematica-tomus-secundus/
 description: "Volume Two: Clavius's applied-mathematics curriculum — surveying and measurement, a full course in computation, and cossist algebra — as taught in the Jesuit colleges."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Secundus.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Secundus_Footnotes.pdf"
+grade: "reading"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496545"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496545"
 translator_version: "2"

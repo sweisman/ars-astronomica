@@ -11,6 +11,7 @@ permalink: /works/giovanni-battista-riccioli-astronomia-reformata/
 description: "Riccioli's two-tome sequel to the Almagestum Novum — telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables, and marshalled against a moving Earth."
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata_Footnotes.pdf"
+grade: "reading"
 source_title: "e-rara ETH-Bibliothek Zürich — title-info 141744"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/141744"
 translator_version: "2"

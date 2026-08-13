@@ -11,6 +11,7 @@ permalink: /works/eliyahu-mizrahi-kitsur-ha-melakhat-ha-mispar/
 description: "A Hebrew arithmetic textbook by the chief rabbi of the Ottoman Empire — the operations, fractions, proportion and roots, taught step by step with checking methods."
 pdf: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_ha-Melakhat_ha-Mispar.pdf"
 footnotes: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_ha-Melakhat_ha-Mispar_Footnotes.pdf"
+grade: "reading"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
 translator_version: "2"

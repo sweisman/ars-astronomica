@@ -11,6 +11,7 @@ permalink: /works/christoph-clavius-opera-mathematica-tomus-tertius/
 description: "Volume Three: Clavius's commentary on Sacrobosco's Sphere — the most influential Renaissance astronomy textbook — together with his full treatise on the astrolabe."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius_Footnotes.pdf"
+grade: "reading"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496546"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496546"
 translator_version: "2"

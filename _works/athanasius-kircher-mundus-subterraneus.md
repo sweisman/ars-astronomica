@@ -11,6 +11,7 @@ permalink: /works/athanasius-kircher-mundus-subterraneus/
 description: "Kircher's twelve-book anatomy of the interior of the Earth — volcanoes, subterranean rivers, minerals, fossils and alchemy — grounded in his own descent into the crater of Vesuvius."
 pdf: "https://books.arsastronomica.com/Athanasius_Kircher_Mundus_Subterraneus.pdf"
 footnotes: "https://books.arsastronomica.com/Athanasius_Kircher_Mundus_Subterraneus_Footnotes.pdf"
+grade: "reading"
 source_title: "Internet Archive — athanasiikircher12kirc"
 source_url: "https://archive.org/details/athanasiikircher12kirc"
 translator_version: "2"

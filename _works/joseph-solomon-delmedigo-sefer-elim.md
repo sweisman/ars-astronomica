@@ -11,6 +11,7 @@ permalink: /works/joseph-solomon-delmedigo-sefer-elim/
 description: "Twelve major questions and seventy minor ones on mathematics, astronomy and physics — an early Hebrew witness to logarithms and post-Copernican astronomy."
 pdf: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim.pdf"
 footnotes: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim_Footnotes.pdf"
+grade: "reading"
 source_title: "Internet Archive — seferelim00delmuoft"
 source_url: "https://archive.org/details/seferelim00delmuoft"
 translator_version: "2"

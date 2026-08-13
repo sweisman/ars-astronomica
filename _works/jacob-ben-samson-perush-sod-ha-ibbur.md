@@ -11,6 +11,7 @@ permalink: /works/jacob-ben-samson-perush-sod-ha-ibbur/
 description: "An early Ashkenazi commentary on the computation of the Hebrew calendar, attributed to a scholar of Rashi's circle and surviving in the North French Hebrew Miscellany."
 pdf: "https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_ha-Ibbur.pdf"
 footnotes: "https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_ha-Ibbur_Footnotes.pdf"
+grade: "reading"
 source_title: "OPenn UPenn-hosted digitization of the British Library manuscript — British Library Add MS 11639, ff. 511r–545v"
 source_url: "https://openn.library.upenn.edu/Data/0047/"
 translator_version: "2"

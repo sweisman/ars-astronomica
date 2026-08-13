@@ -9,6 +9,10 @@ permalink: /updates/
 
 # Updates
 
+**2026-08-13**
+
+- *Be'er HaGolah* (Maharal of Prague) is now citation grade, the first work in the corpus read complete against its source rather than sampled. 5,711 sentences were collated clause by clause against the Hebrew; the 38 defects found, four of them meaning-changing, are fixed. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
+
 **2026-08-07**
 
 - Added Pedro Nunes's *Opera* (Coimbra, 1573) — the collected Latin works of the royal cosmographer of Portugal and the leading mathematician of the age of discoveries, in the author's own final edition: the two books on the art and science of navigation, the annotations on Peurbach's planetary theory and on Aristotle's mechanical problem of the rowed ship, the critique of Oronce Finé, and the treatise on twilight with Alhazen's book on its causes.
@@ -18,13 +22,13 @@ permalink: /updates/
 
 - Added *Be'er HaGolah* (R. Judah Loew ben Bezalel, the Maharal of Prague, 1598) — his defense of the Aggadah, the non-legal portions of the Talmud, against the critics of his age who read its stories as absurd and its science as discredited.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-07-31**
 
 - Added two works: Clavius's *Opera Mathematica*, Tomus V — his own account of the Gregorian calendar reform he principally engineered — and Willebrord Snellius's *Eratosthenes Batavus* (Leiden, 1617), the first modern measurement of the Earth's circumference by triangulation.
 - Every work has been reissued. Greek passages quoted inside the Latin texts were audited page by page and corrected throughout, and some editorial scaffolding that had been showing through into the reading text has been cleaned out.
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-07-30**
 

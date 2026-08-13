@@ -21,7 +21,9 @@ It is useful to distinguish between two standards for this kind of work.
 
 **Citation grade** is stricter. It means that every line has been independently checked against the printed or manuscript page and that the remaining uncertainties are known and explicitly recorded. That is the standard required before a translation can be treated as a critical scholarly text.
 
-No work in this corpus is citation grade, and none is offered as one. Where a passage carries substantial scholarly weight, it should be checked against the original source, which is linked from every work's page.
+One work in this corpus is citation grade: the Maharal's *Be'er HaGolah*, which has been read complete against the Hebrew. The rest are reading grade and are not offered as more. Where a passage in them carries scholarly weight, it should be checked against the original source, which is linked from every work's page.
+
+Grade is independent of the translator version recorded in the corpus table. The version tracks the rules that produced the English; the grade records how thoroughly the result was checked afterwards. *Be'er HaGolah* reached citation grade at an unchanged translator version -- the text was not retranslated, but independently re-read and adjudicated.
 
 The distinction matters because errors in machine-assisted translation are not necessarily visible in the finished prose. A system that misreads a word may still produce fluent English, and a bad reading can look just as natural as a good one. Fluency therefore says little by itself about reliability. The more important question is how the translation was checked.
 
@@ -66,13 +68,15 @@ For final verification, the page itself has to be read.
 
 ## What is possible
 
-Citation-grade verification has not yet been completed across the corpus, but it has been demonstrated on a smaller scale.
+One work has now been carried the whole way. The Maharal's *Be'er HaGolah* was collated clause by clause against the Hebrew -- 5,711 sentences, the complete book rather than a sample.
 
-One shorter work received complete rather than sampled treatment, with every batch checked line by line against the original. That pass found something to correct in every batch, including a systematic problem with inline Greek that sampling had failed to expose.
+That pass found 38 defects, four of which changed meaning. All were fixed. About 1,150 citations were checked against the verses themselves rather than against their labels, and none was wrong. Several hundred enumerations -- a fourteen-member derashah, a seven-tradent sugya, the seven Noahide commandments -- were counted in Hebrew against English, and every one was complete. The only text dropped anywhere in the book was at word scale: two words and one relative clause. Where the copy-text diverges from the Masoretic text or the received Gemara, the translation follows the copy-text, consistently throughout.
 
-The result was a text in which the remaining uncertainties were known and could be listed explicitly rather than simply assumed to be absent.
+The four meaning-changing defects are the argument for reading all of it rather than sampling: they share no signature. One inverted a polarity, one flipped a speaker, one dropped a word, one presented a struck sentence as an editorial supplement. There was no pattern to extrapolate from. Three of the four contradicted the translation's own rendering of a parallel phrase a few lines away -- the text disagreed with itself in places where nothing marked a difficulty.
 
-Bringing an entire book to that standard requires reading the full translation against the source page by page. The automated pipeline makes the production of the initial English text inexpensive enough that this final verification becomes practical. That is the standard toward which these editions can ultimately be developed.
+One qualification on these figures: this work was translated from a fully digitized Hebrew text rather than from page images, so none of its defects originate in a misread scan. The rates in the table above are dominated by what the scan destroyed. This pass measures something else -- what survives translation when the source text itself is not in doubt.
+
+The result is a text whose remaining uncertainties are written down rather than assumed absent. Bringing another book to that standard takes the same thing: reading all of it against the source. The pipeline makes producing the first English text cheap enough that this final pass is the affordable part.
 
 ## Fidelity and readability
 

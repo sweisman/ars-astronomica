@@ -11,6 +11,7 @@ permalink: /works/willebrord-snellius-eratosthenes-batavus/
 description: "The founding text of modern geodesy: Snellius measures the Earth by chaining triangles across Holland, and reconstructs the ancient attempts he means to surpass."
 pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf"
+grade: "reading"
 source_title: "e-rara / ETH-Bibliothek Zürich, Rar 4426"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205"
 translator_version: "2"

@@ -11,6 +11,7 @@ permalink: /works/isaac-ibn-al-ahdab-orah-selulah/
 description: "Tables for the true conjunctions and oppositions of Sun and Moon — one of the most widely copied Hebrew table-works, surviving in some twenty-five manuscripts."
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Orah_Selulah.pdf"
 footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Orah_Selulah_Footnotes.pdf"
+grade: "reading"
 source_title: "Gallica / BnF — Hébreu 1086"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b105395090"
 translator_version: "2"

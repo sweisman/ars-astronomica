@@ -10,6 +10,7 @@ permalink: /works/isaac-ibn-al-ahdab-keli-hemda/
 description: "A treatise on the equatorium — an instrument for computing planetary positions geometrically rather than by table — in two parts, on making it and on using it."
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda.pdf"
 footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda_Footnotes.pdf"
+grade: "reading"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 208r–215v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
 translator_version: "2"

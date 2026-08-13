@@ -11,6 +11,8 @@ permalink: /works/judah-loew-ben-bezalel-beer-hagolah/
 description: "The Maharal of Prague defends the Aggadah against critics who read its stories as absurd and its science as discredited — seven 'wells' sunk toward a single spring."
 pdf: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf"
 footnotes: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah_Footnotes.pdf"
+grade: "citation"
+grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 source_title: "Sefaria — Be'er HaGolah"
 source_url: "https://www.sefaria.org/Be%27er_HaGolah"
 translator_version: "2"

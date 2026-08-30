@@ -1,23 +1,25 @@
 ---
 layout: work
-title: "Midrash ha-Ḥokhmah"
+title: "Midrash HaḤokhmah"
 author: "R. Judah ben Solomon ha-Kohen"
 author_slug: "judah-ben-solomon-ha-kohen"
 date_label: "c. 1247 (Hebrew self-translation from the author's earlier Arabic; this is a 14th-c. manuscript copy)"
 date_year: "1247"
 seo:
   type: WebPage
-permalink: /works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/
+permalink: /works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/
 description: "A thirteenth-century Hebrew encyclopedia of the sciences, self-translated from the author's own Arabic — logic, natural science and astronomy gathered for a Hebrew readership."
-pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_ha-Hokhmah.pdf"
-footnotes: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_ha-Hokhmah_Footnotes.pdf"
+pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah.pdf"
+redirect_from:
+  - "/works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/"
+footnotes: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah_Footnotes.pdf"
 grade: "reading"
 source_title: "NLI Ktiv Palatina partner collection — DocId PNX_MANUSCRIPTS990000837360205171-1"
 source_url: "https://iiif.nli.org.il/IIIFv21/990000837360205171/manifest"
 translator_version: "2"
 ---
 
-The first scientific encyclopedia written in Hebrew. *Midrash ha-Ḥokhmah* —
+The first scientific encyclopedia written in Hebrew. *Midrash HaḤokhmah* —
 "The Exposition of Wisdom" — is the work of Judah ben Solomon ha-Kohen (Ibn
 Matḳah) of Toledo, who wrote it first in Arabic and then rendered it into Hebrew
 himself around 1247.

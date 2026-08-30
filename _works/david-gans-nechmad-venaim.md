@@ -1,17 +1,20 @@
 ---
 layout: work
-title: "Nechmad ve-Na'im"
+title: "Nechmad VeNa'im"
 author: "David Gans"
 author_slug: "david-gans"
 date_label: "c. 1613"
 date_year: "1613"
 seo:
   type: WebPage
-permalink: /works/david-gans-nechmad-ve-naim/
+permalink: /works/david-gans-nechmad-venaim/
 description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs bringing European science to a Hebrew-reading audience."
-pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_ve-Naim.pdf"
-footnotes: "https://books.arsastronomica.com/David_Gans_Nechmad_ve-Naim_Footnotes.pdf"
-grade: "reading"
+pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf"
+redirect_from:
+  - "/works/david-gans-nechmad-ve-naim/"
+footnotes: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim_Footnotes.pdf"
+grade: "citation"
+grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 source_title: "National Library of Israel — Rosetta IE32709375, shelfmark 35 V 1770 catalog NNL_ALEPH990011964030205171"
 translator_version: "2"
 ---
@@ -42,7 +45,7 @@ astronomy, presented in Hebrew for readers who had no access to it in Latin.
 
 Gans is the point of contact between two worlds that are usually described as
 separate. He was a Prague scholar at home in rabbinic literature who also went to
-Benátky to visit Tycho Brahe, and *Nechmad ve-Na'im* is what that contact
+Benátky to visit Tycho Brahe, and *Nechmad VeNa'im* is what that contact
 produced: a serious astronomical textbook that assumes both the medieval
 Jewish cosmological tradition and the observational astronomy of its own
 moment, and treats neither as an intrusion on the other.

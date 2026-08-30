@@ -1,23 +1,25 @@
 ---
 layout: work
-title: "Kitsur ha-Melakhat ha-Mispar"
+title: "Kitsur HaMelakhat HaMispar"
 author: "R. Eliyahu Mizrahi"
 author_slug: "eliyahu-mizrahi"
 date_label: "c. 1500"
 date_year: "1500"
 seo:
   type: WebPage
-permalink: /works/eliyahu-mizrahi-kitsur-ha-melakhat-ha-mispar/
+permalink: /works/eliyahu-mizrahi-kitsur-hamelakhat-hamispar/
 description: "A Hebrew arithmetic textbook by the chief rabbi of the Ottoman Empire — the operations, fractions, proportion and roots, taught step by step with checking methods."
-pdf: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_ha-Melakhat_ha-Mispar.pdf"
-footnotes: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_ha-Melakhat_ha-Mispar_Footnotes.pdf"
+pdf: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_HaMelakhat_HaMispar.pdf"
+redirect_from:
+  - "/works/eliyahu-mizrahi-kitsur-ha-melakhat-ha-mispar/"
+footnotes: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_HaMelakhat_HaMispar_Footnotes.pdf"
 grade: "reading"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
 translator_version: "2"
 ---
 
-*Kitsur ha-Melakhat ha-Mispar* ("Compendium of the Art of Number") is a Hebrew
+*Kitsur HaMelakhat HaMispar* ("Compendium of the Art of Number") is a Hebrew
 arithmetic textbook by Rabbi Eliyahu Mizrahi (ca. 1455–1526), the chief rabbi of
 the Ottoman Empire and one of the foremost Jewish mathematicians of his age.
 

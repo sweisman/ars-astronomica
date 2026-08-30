@@ -1,15 +1,17 @@
 ---
 layout: work
-title: "Sefer ha-Ḥeshbon ve-ha-Middot"
+title: "Sefer HaḤeshbon VeHaMiddot"
 author: "R. Mordecai Comtino"
 author_slug: "mordecai-comtino"
 date_label: "15th c. (composition; this is a later manuscript copy)"
 seo:
   type: WebPage
-permalink: /works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/
+permalink: /works/mordecai-comtino-sefer-haheshbon-vehamiddot/
 description: "Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites. No English translation was previously known."
-pdf: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_ha-Heshbon_ve-ha-Middot.pdf"
-footnotes: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_ha-Heshbon_ve-ha-Middot_Footnotes.pdf"
+pdf: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot.pdf"
+redirect_from:
+  - "/works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/"
+footnotes: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot_Footnotes.pdf"
 grade: "reading"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 26r–65r"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"

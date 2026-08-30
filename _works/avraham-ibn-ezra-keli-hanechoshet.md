@@ -1,16 +1,18 @@
 ---
 layout: work
-title: "Keli ha-Nechoshet"
+title: "Keli HaNechoshet"
 author: "R. Avraham ibn Ezra"
 author_slug: "avraham-ibn-ezra"
 date_label: "c. 1148"
 date_year: "1148"
 seo:
   type: WebPage
-permalink: /works/avraham-ibn-ezra-keli-ha-nechoshet/
+permalink: /works/avraham-ibn-ezra-keli-hanechoshet/
 description: "The earliest surviving Hebrew treatise on the astrolabe — thirty-four gates on building and using the instrument, with a star catalogue. A matching astrolabe surfaced in Verona in 2024."
-pdf: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_ha-Nechoshet.pdf"
-footnotes: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_ha-Nechoshet_Footnotes.pdf"
+pdf: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet.pdf"
+redirect_from:
+  - "/works/avraham-ibn-ezra-keli-ha-nechoshet/"
+footnotes: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet_Footnotes.pdf"
 grade: "reading"
 source_title: "HebrewBooks.org — ID 20850"
 source_url: "https://hebrewbooks.org/20850"

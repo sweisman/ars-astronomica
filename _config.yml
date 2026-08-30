@@ -5,6 +5,7 @@ description: First English translations of historical Hebrew and Latin works in 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Paste the token from Search Console / Bing Webmaster Tools ("HTML tag" method)
 # to have jekyll-seo-tag emit the verification <meta> tags, then submit sitemap.xml.

@@ -8,7 +8,7 @@ date_year: "1613"
 seo:
   type: WebPage
 permalink: /works/david-gans-nechmad-venaim/
-description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs bringing European science to a Hebrew-reading audience."
+description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs, with the author's own preface and approbations restored from the lost 1612 prospectus."
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf"
 redirect_from:
   - "/works/david-gans-nechmad-ve-naim/"
@@ -56,4 +56,34 @@ The book was not printed in the author's lifetime. It first appeared at Jessnitz
 1743, more than a century after it was written, and never again — the volume
 opens with an apologia by the rabbi who brought it to press. That printing carries
 a Latin preface by the Leipzig Hebraist Johann Christian Hebenstreit, a sign of
-how far outside its own community the work was expected to travel.
+how far outside its own community the work was expected to travel. The base
+text here is that edition, from the National Library of Israel's copy.
+
+Set at the front of this edition is the author's own front matter, which the 1743
+volume does not contain. In 1612 Gans printed a prospectus at Prague to
+advertise the book, under the title he had chosen for it: *Magen David*. Those
+few leaves were the only part of the work he ever saw in print. He died the
+following year; the book was not set in type for another hundred and thirty, and
+by then it had acquired the name it now carries. The prospectus survives in a
+single damaged copy at the Bodleian Library, edited by Pavel Sládek in *Aleph*
+22.1–2 (2022).
+
+From it this edition restores the **approbations** — among them R. Yitzchak Katz,
+the Maharal's son-in-law, who rests his endorsement on astronomy he had
+studied in his own youth, and a long commendation by R. Yom Tov Lipmann
+Heller, author of the *Tosafos Yom Tov* — and **Gans's own preface**: the
+dedication to his two sons, his account of why he wrote the book, and his three
+reasons for calling it *Magen David*. The last of those leaves is the author's own
+testimony about what he called his work, signed a year before his death.
+
+This makes the edition a critical one in a limited sense: a single base text, with a
+second witness set beside it rather than merged into it. The inserted material is
+bracketed front and back by editorial notice, so that no reader can mistake the
+1612 leaves for part of the 1743 printing; the modern edition's section numbers
+are kept so passages can be cited; and nothing within the insertion is reordered
+or abridged, the gap at §§1–2 being the damage to the prospectus's first leaf.
+
+The work is accompanied here by a separate volume of editorial footnotes.
+
+This work is **citation grade**: read complete against the source rather than
+sampled.

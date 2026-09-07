@@ -46,7 +46,7 @@ his cosmology of spheres belong to one person and one century, and the technical
 astronomy was not a youthful diversion he outgrew.
 
 For the corpus, the book stands with the other Hebrew astronomical texts —
-Gersonides, Yesod Olam, Nechmad ve-Na'im — as evidence of how thoroughly the
+Gersonides, Yesod Olam, Nechmad VeNa'im — as evidence of how thoroughly the
 science of the heavens was pursued inside the Jewish learned tradition.
 
 ## About this edition

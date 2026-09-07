@@ -59,3 +59,8 @@ misleading.
 The translated source is the 1665 printing in two tomes, which opens with a
 dedicatory title page and epistle and supplies two separate indexes — one of the
 books, and a fuller one of books and chapters following the prolegomena.
+
+The work is accompanied here by a separate volume of editorial footnotes.
+
+This work is **citation grade**: read complete against the source rather
+than sampled.

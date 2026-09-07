@@ -45,7 +45,7 @@ been wrong, and that their authority in other matters fell with it.
 
 That places this book squarely in the corpus's central question. Maharal was in
 Prague in the years when David Gans, his younger contemporary, was visiting
-Tycho Brahe at Benátky; *Be'er HaGolah* and *Nechmad ve-Na'im* are two
+Tycho Brahe at Benátky; *Be'er HaGolah* and *Nechmad VeNa'im* are two
 responses to the same pressure, one arguing about how the tradition should be
 read, the other bringing the new science into Hebrew directly.
 
@@ -53,3 +53,6 @@ read, the other bringing the new science into Hebrew directly.
 
 The translation is made from the Sefaria text of *Be'er HaGolah*. The work is
 accompanied here by a separate volume of editorial footnotes.
+
+This work is **citation grade**: read complete against the source rather
+than sampled.

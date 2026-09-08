@@ -3,7 +3,7 @@ layout: work
 title: "Sefer Tsurat HaArets"
 author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
-date_label: "c. 1132 (composed; first printed 1546 — see Edition)"
+date_label: "c. 1132"
 date_year: "1132"
 seo:
   type: WebPage

@@ -12,7 +12,8 @@ description: "An English translation of Ernesto Bozzano's Phénomènes psychique
 pdf: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort.pdf"
 footnotes: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort_Footnotes.pdf"
 grade: "reading"
-source_title: "a born-digital re-keying of the 1923 printing OpenOffice export, 2007; 214 A4 pages"
+source_title: "Scribd"
+source_url: "https://www.scribd.com/document/695940648/Les-phenomenes-psychiques-au-moment-de-la-mort"
 translator_version: "2"
 ---
 
@@ -49,5 +50,5 @@ the methods of the natural sciences to the question of survival.
 
 ## About this edition
 
-The translated source is a modern digital re-keying of the French edition of
-1923.
+The translated source is the French edition of 1923, from a copy on
+[Scribd](https://www.scribd.com/document/695940648/Les-phenomenes-psychiques-au-moment-de-la-mort).

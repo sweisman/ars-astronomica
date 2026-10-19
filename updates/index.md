@@ -9,6 +9,13 @@ permalink: /updates/
 
 # Updates
 
+**2026-10-19**
+
+- Added the *Thesaurus Observationum*, Tomus Primus and Tomus Secundus (Tycho Brahe, ed. J. L. E. Dreyer, 1923–1924): the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
+- Added the *Ephemerides Brandenburgicae* (David Origanus, 1609): day-by-day positions of the Sun, Moon, and planets for sixty years, 1595–1655, computed on both a Tychonic and a Copernican basis.
+- Added *Phénomènes psychiques au moment de la mort* (Ernesto Bozzano, 1923): a methodical collection of cases reporting phenomena at and around the moment of death.
+- Every existing work has been reissued with editorial improvements.
+
 **2026-09-08**
 
 - *Astronomiae Instauratae Progymnasmata* and *De Mundi Aetherei Recentioribus Phaenomenis* (Tycho Brahe), *Rosa Ursina sive Sol* (Christoph Scheiner) and *Astronomia Danica* (Longomontanus) are now citation grade, bringing to eight the works read complete against their sources. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
@@ -21,12 +28,12 @@ permalink: /updates/
 - *Nechmad VeNa'im* (David Gans) and *Astronomia Reformata* (Giovanni Battista Riccioli) are now citation grade, bringing to four the works read complete against their sources. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
 - The rest of the corpus has been reissued, with small refinements applied across many works.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-08-13**
 
 - *Be'er HaGolah* (Maharal of Prague) is now citation grade, the first work in the corpus read complete against its source rather than sampled. 5,711 sentences were collated clause by clause against the Hebrew; the 38 defects found, four of them meaning-changing, are fixed. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-08-07**
 

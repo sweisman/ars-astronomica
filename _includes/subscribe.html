@@ -1,0 +1,17 @@
+<div class="subscribe">
+  <form action="https://buttondown.com/api/emails/embed-subscribe/arsastronomica" method="post" target="popupwindow">
+    <label for="bd-email">Hear about new translations and occasional news by email:</label>
+    <div class="subscribe-row">
+      <input type="email" name="email" id="bd-email" placeholder="you@example.com" required>
+      <input type="hidden" value="1" name="embed">
+      <button type="submit">Subscribe</button>
+    </div>
+  </form>
+</div>
+<style>
+  .subscribe { margin: 1.5em 0 2em; padding: 1em; border: 1px solid #d0d7de; border-radius: 6px; }
+  .subscribe label { display: block; margin-bottom: .5em; }
+  .subscribe-row { display: flex; gap: .5em; flex-wrap: wrap; }
+  .subscribe input[type=email] { flex: 1 1 16em; padding: .4em .6em; font: inherit; border: 1px solid #d0d7de; border-radius: 6px; }
+  .subscribe button { padding: .4em 1em; font: inherit; color: #fff; background: #24292f; border: 0; border-radius: 6px; cursor: pointer; }
+</style>

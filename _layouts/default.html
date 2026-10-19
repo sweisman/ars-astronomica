@@ -23,7 +23,16 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {{ content }}
+      {%- comment -%}
+        On the front page the email signup sits after Updates, ahead of the
+        Support heading. The README stays plain Markdown (GitHub strips forms).
+      {%- endcomment -%}
+      {% if page.url == "/" %}
+        {% capture subscribe %}{% include subscribe.html %}{% endcapture %}
+        {{ content | replace: '<h2 id="support-this-project">', subscribe | append: '<h2 id="support-this-project">' }}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

@@ -24,15 +24,20 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {%- comment -%}
+        Email signup: disabled until the Buttondown setup is tested. To enable,
+        replace the `{{ content }}` line below with this block.
+
         On the front page the email signup sits after Updates, ahead of the
         Support heading. The README stays plain Markdown (GitHub strips forms).
+
+        {% if page.url == "/" %}
+          {% capture subscribe %}{% include subscribe.html %}{% endcapture %}
+          {{ content | replace: '<h2 id="support-this-project">', subscribe | append: '<h2 id="support-this-project">' }}
+        {% else %}
+          {{ content }}
+        {% endif %}
       {%- endcomment -%}
-      {% if page.url == "/" %}
-        {% capture subscribe %}{% include subscribe.html %}{% endcapture %}
-        {{ content | replace: '<h2 id="support-this-project">', subscribe | append: '<h2 id="support-this-project">' }}
-      {% else %}
-        {{ content }}
-      {% endif %}
+      {{ content }}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

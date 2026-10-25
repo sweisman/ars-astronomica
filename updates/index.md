@@ -9,6 +9,11 @@ permalink: /updates/
 
 # Updates
 
+**2026-10-25**
+
+- Added four works on witchcraft and superstition: *Quaestio de Strigibus* (Bartolomeo Spina, 1523), the Dominican answer to the sceptics; *Tractatus de Superstitionibus* (Martín de Arles, c. 1510), a Navarrese archdeacon's field report on the popular religion of his own parishes; *Flagellum Haereticorum Fascinariorum* (Nicolas Jacquier, 1458), the first sustained inquisitorial defence of the reality of the witches' sabbath; and *De Lamiis* (Thomas Erastus, 1578), a Heidelberg physician's dialogue on what witches can and cannot actually do.
+- Added three works by Govaert Wendelen: *Loxias* (1626), on the obliquity of the ecliptic; *Arcanorum Caelestium Lampas* (1643), four astronomical claims hidden in Latin hexameters and then revealed by anagram; and *Eclipses Lunares* (1644), seventy years of lunar-eclipse observations laid down as the foundation for his *Tabulae Atlanticae*.
+
 **2026-10-19**
 
 - Added the *Thesaurus Observationum*, Tomus Primus and Tomus Secundus (Tycho Brahe, ed. J. L. E. Dreyer, 1923–1924): the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
@@ -22,14 +27,14 @@ permalink: /updates/
 - Every work in the corpus has been reissued in a new page layout, carrying a pass of mechanical repairs across the translations.
 - *Astronomia Danica* is now dated from its first edition of 1622; the scan the translation follows is the revised second edition of 1640, as its edition note records.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-08-30**
 
 - Added *Sefer HaTechunah* (R. Chaim Vital, 1542-1620) -- his treatise on astronomy, from a manuscript written in a rabbinic hand in Damascus in the early seventeenth century, the city where its author spent his last two decades and within a generation of his death. It enters the corpus at **citation grade**, read complete against the manuscript rather than sampled.
 - *Nechmad VeNa'im* (David Gans) and *Astronomia Reformata* (Giovanni Battista Riccioli) are now citation grade, bringing to four the works read complete against their sources. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
 - The rest of the corpus has been reissued, with small refinements applied across many works.
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-08-13**
 

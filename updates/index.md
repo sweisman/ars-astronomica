@@ -9,6 +9,10 @@ permalink: /updates/
 
 # Updates
 
+**2026-10-29**
+
+- Added the *Thesaurus Observationum*, Tomus Tertius and Tomus Quartus (Tycho Brahe, ed. J. L. E. Dreyer, 1925–1926), continuing the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
+
 **2026-10-25**
 
 - Added four works on witchcraft and superstition: *Quaestio de Strigibus* (Bartolomeo Spina, 1523), the Dominican answer to the sceptics; *Tractatus de Superstitionibus* (Martín de Arles, c. 1510), a Navarrese archdeacon's field report on the popular religion of his own parishes; *Flagellum Haereticorum Fascinariorum* (Nicolas Jacquier, 1458), the first sustained inquisitorial defence of the reality of the witches' sabbath; and *De Lamiis* (Thomas Erastus, 1578), a Heidelberg physician's dialogue on what witches can and cannot actually do.
@@ -21,14 +25,14 @@ permalink: /updates/
 - Added *Phénomènes psychiques au moment de la mort* (Ernesto Bozzano, 1923): a methodical collection of cases reporting phenomena at and around the moment of death.
 - Every existing work has been reissued with editorial improvements.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-09-08**
 
 - *Astronomiae Instauratae Progymnasmata* and *De Mundi Aetherei Recentioribus Phaenomenis* (Tycho Brahe), *Rosa Ursina sive Sol* (Christoph Scheiner) and *Astronomia Danica* (Longomontanus) are now citation grade, bringing to eight the works read complete against their sources. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
 - Every work in the corpus has been reissued in a new page layout, carrying a pass of mechanical repairs across the translations.
 - *Astronomia Danica* is now dated from its first edition of 1622; the scan the translation follows is the revised second edition of 1640, as its edition note records.
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-08-30**
 

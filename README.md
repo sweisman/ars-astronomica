@@ -4,7 +4,7 @@ A scholarly imprint producing first English translations of historical Hebrew an
 
 These texts span centuries, and most have never appeared in English. One -- Gersonides' 136-chapter mathematical astronomy -- was never printed and survives only in manuscript. They cite and answer one another, addressing the same cosmological questions, yet until now no one could read them side by side in a single language.
 
-**[Browse the corpus](#the-corpus)** -- 50 works, each with a page of its own.
+**[Browse the corpus](#the-corpus)** -- 52 works, each with a page of its own.
 
 ## About the translations
 
@@ -15,6 +15,10 @@ These are **reading-grade** editions: complete and accurate in substance, good e
 [Read more about how the translations are made](https://arsastronomica.com/about/).
 
 ## Updates
+
+**2026-10-29**
+
+- Added the *Thesaurus Observationum*, Tomus Tertius and Tomus Quartus (Tycho Brahe, ed. J. L. E. Dreyer, 1925–1926), continuing the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
 
 **2026-10-25**
 
@@ -27,12 +31,6 @@ These are **reading-grade** editions: complete and accurate in substance, good e
 - Added the *Ephemerides Brandenburgicae* (David Origanus, 1609): day-by-day positions of the Sun, Moon, and planets for sixty years, 1595–1655, computed on both a Tychonic and a Copernican basis.
 - Added *Phénomènes psychiques au moment de la mort* (Ernesto Bozzano, 1923): a methodical collection of cases reporting phenomena at and around the moment of death.
 - Every existing work has been reissued with editorial improvements.
-
-**2026-09-08**
-
-- *Astronomiae Instauratae Progymnasmata* and *De Mundi Aetherei Recentioribus Phaenomenis* (Tycho Brahe), *Rosa Ursina sive Sol* (Christoph Scheiner) and *Astronomia Danica* (Longomontanus) are now citation grade, bringing to eight the works read complete against their sources. [What the grades mean](https://arsastronomica.com/about/#reading-grade-not-citation-grade).
-- Every work in the corpus has been reissued in a new page layout, carrying a pass of mechanical repairs across the translations.
-- *Astronomia Danica* is now dated from its first edition of 1622; the scan the translation follows is the revised second edition of 1640, as its edition note records.
 
 [Earlier updates](https://arsastronomica.com/updates/)
 
@@ -103,6 +101,8 @@ If you find these translations useful, you can [support me on Ko-fi](https://ko-
 | 1596 | Tycho Brahe | [*Epistolarum Astronomicarum Libri*](/works/tycho-brahe-epistolarum-astronomicarum-libri/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri_Footnotes.pdf) | [Internet Archive — tychonisbrahedan00brah](https://archive.org/details/tychonisbrahedan00brah) | Before scientific journals existed, astronomers argued, boasted, and traded discoveries by letter. | 2 |
 | 1923 | Tycho Brahe | [*Thesaurus Observationum, Tomus Primus*](/works/tycho-brahe-thesaurus-observationum-tomus-primus/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus_Footnotes.pdf) | [Internet Archive — `operaomniaedidit10brahuoft`](https://archive.org/details/operaomniaedidit10brahuoft) | For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho Brahe and his assistants recorded what they saw. | 2 |
 | 1924 | Tycho Brahe | [*Thesaurus Observationum, Tomus Secundus*](/works/tycho-brahe-thesaurus-observationum-tomus-secundus/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Secundus.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Secundus_Footnotes.pdf) | [Internet Archive — `operaomniaedidit11brahuoft`](https://archive.org/details/operaomniaedidit11brahuoft) | For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho Brahe and his assistants recorded what they saw. | 2 |
+| 1925 | Tycho Brahe | [*Thesaurus Observationum, Tomus Tertius*](/works/tycho-brahe-thesaurus-observationum-tomus-tertius/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius_Footnotes.pdf) | [Internet Archive — `operaomniaedidit12brahuoft`](https://archive.org/details/operaomniaedidit12brahuoft) | For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho Brahe and his assistants recorded what they saw. | 2 |
+| 1926 | Tycho Brahe | [*Thesaurus Observationum, Tomus Quartus*](/works/tycho-brahe-thesaurus-observationum-tomus-quartus/)<br>[PDF](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus.pdf) · [footnotes](https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus_Footnotes.pdf) | [TIB Hannover Technische Informationsbibliothek, record 833138502, shelfmark Astr. 109513](https://goobi.tib.eu/viewer/image/833138502/1/) | For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho Brahe and his assistants recorded what they saw. | 2 |
 | c. 150–850 CE | Unknown | [*Mishnat HaMiddot*](/works/unknown-mishnat-hamiddot/)<br>[PDF](https://books.arsastronomica.com/Unknown_Mishnat_HaMiddot.pdf) · [footnotes](https://books.arsastronomica.com/Unknown_Mishnat_HaMiddot_Footnotes.pdf) | [HebrewBooks.org — ID 39044](https://hebrewbooks.org/39044) | The earliest known Hebrew treatise on geometry — a concise practical manual of mensuration covering the areas and perimeters of plane figures, the measurement of circles and segments, and an early value for π. | 2 |
 | 1617 | Willebrord Snellius | [*Eratosthenes Batavus*](/works/willebrord-snellius-eratosthenes-batavus/)<br>[PDF](https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf) · [footnotes](https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf) | [e-rara / ETH-Bibliothek Zürich, Rar 4426](https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205) | The founding text of modern geodesy. | 2 |
 

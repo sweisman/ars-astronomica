@@ -9,6 +9,11 @@ permalink: /updates/
 
 # Updates
 
+**2026-11-03**
+
+- Added four works on the instruments of computation and observation around Tycho Brahe: his own *Triangulorum Planorum et Sphaericorum Praxis Arithmetica* (1591), the working manual of trigonometry behind the Uraniborg observations; the *Fundamentum Astronomicum* (Nicolaus Reimers Ursus, 1588), whose world system Tycho accused Ursus of stealing from him; and the *Observationes Hassiacae* (ed. Willebrord Snellius, 1618), the Kassel observations of Landgrave Wilhelm IV, the other great body of precision observation from before the telescope.
+- Added the first part of Giovanni Battista Riccioli's *Almagestum Novum* (1651), Books I–VII, with the map of the Moon whose crater names astronomers still use.
+
 **2026-10-29**
 
 - Added the *Thesaurus Observationum*, Tomus Tertius and Tomus Quartus (Tycho Brahe, ed. J. L. E. Dreyer, 1925–1926), continuing the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
@@ -18,15 +23,15 @@ permalink: /updates/
 - Added four works on witchcraft and superstition: *Quaestio de Strigibus* (Bartolomeo Spina, 1523), the Dominican answer to the sceptics; *Tractatus de Superstitionibus* (Martín de Arles, c. 1510), a Navarrese archdeacon's field report on the popular religion of his own parishes; *Flagellum Haereticorum Fascinariorum* (Nicolas Jacquier, 1458), the first sustained inquisitorial defence of the reality of the witches' sabbath; and *De Lamiis* (Thomas Erastus, 1578), a Heidelberg physician's dialogue on what witches can and cannot actually do.
 - Added three works by Govaert Wendelen: *Loxias* (1626), on the obliquity of the ecliptic; *Arcanorum Caelestium Lampas* (1643), four astronomical claims hidden in Latin hexameters and then revealed by anagram; and *Eclipses Lunares* (1644), seventy years of lunar-eclipse observations laid down as the foundation for his *Tabulae Atlanticae*.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-10-19**
 
 - Added the *Thesaurus Observationum*, Tomus Primus and Tomus Secundus (Tycho Brahe, ed. J. L. E. Dreyer, 1923–1924): the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
 - Added the *Ephemerides Brandenburgicae* (David Origanus, 1609): day-by-day positions of the Sun, Moon, and planets for sixty years, 1595–1655, computed on both a Tychonic and a Copernican basis.
 - Added *Phénomènes psychiques au moment de la mort* (Ernesto Bozzano, 1923): a methodical collection of cases reporting phenomena at and around the moment of death.
 - Every existing work has been reissued with editorial improvements.
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-09-08**
 

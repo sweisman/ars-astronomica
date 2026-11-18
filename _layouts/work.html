@@ -50,7 +50,8 @@ comma, since the required ones above them are always present.
 
 <h1>{{ page.title }}</h1>
 
-<p><strong>{{ page.author }}</strong>{% if page.date_label %} &middot; {{ page.date_label }}{% endif %}</p>
+{%- comment -%} date_label and source_title come from PDF metadata and may carry inline Markdown. {%- endcomment -%}
+<p><strong>{{ page.author }}</strong>{% if page.date_label %} &middot; {{ page.date_label | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% endif %}</p>
 
 <p>
   <a href="{{ page.pdf }}">Read the translation (PDF)</a>
@@ -65,8 +66,9 @@ comma, since the required ones above them are always present.
   {% if page.source_title %}
   <dt>Source</dt>
   <dd>
-    {% if page.source_url %}<a href="{{ page.source_url }}">{{ page.source_title }}</a>
-    {% else %}{{ page.source_title }}{% endif %}
+    {% assign source_html = page.source_title | markdownify | remove: "<p>" | remove: "</p>" | strip %}
+    {% if page.source_url %}<a href="{{ page.source_url }}">{{ source_html }}</a>
+    {% else %}{{ source_html }}{% endif %}
   </dd>
   {% endif %}
   {% if page.translator_version %}

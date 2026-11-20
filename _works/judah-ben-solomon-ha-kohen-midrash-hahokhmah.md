@@ -8,7 +8,7 @@ date_year: "1247"
 seo:
   type: WebPage
 permalink: /works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/
-description: "A thirteenth-century Hebrew encyclopedia of the sciences, self-translated from the author's own Arabic — logic, natural science and astronomy gathered for a Hebrew readership."
+description: "An encyclopedia of logic, natural science and astronomy, translated by its author from his own Arabic for Hebrew readers."
 pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah.pdf"
 redirect_from:
   - "/works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/"

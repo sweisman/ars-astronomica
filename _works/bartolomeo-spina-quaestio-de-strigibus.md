@@ -8,7 +8,7 @@ date_year: "1523"
 seo:
   type: WebPage
 permalink: /works/bartolomeo-spina-quaestio-de-strigibus/
-description: "The first complete English translation of Bartolomeo Spina's Quaestio de strigibus (1523): the Dominican case that witches fly bodily to their gatherings and must be burned as heretics, with his four Apologiae against the jurist Ponzinibio."
+description: "The Dominican case that witches fly bodily to their gatherings and must be burned as heretics, with four replies to a jurist who doubted it."
 pdf: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus.pdf"
 footnotes: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus_Footnotes.pdf"
 grade: "reading"

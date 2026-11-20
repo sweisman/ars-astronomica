@@ -8,7 +8,7 @@ date_year: "1132"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/
-description: "One of the first scientific works written in Hebrew rather than Arabic — the shape of the cosmos, the paths of sun and moon, and the geography of the inhabited world."
+description: "One of the first scientific works written in Hebrew rather than Arabic: the shape of the cosmos, the paths of Sun and Moon, and the inhabited world."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_HaArets.pdf"
 redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-ha-arets/"

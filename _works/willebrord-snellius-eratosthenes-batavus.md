@@ -8,7 +8,7 @@ date_year: "1617"
 seo:
   type: WebPage
 permalink: /works/willebrord-snellius-eratosthenes-batavus/
-description: "The first English translation of Snellius's 1617 survey, which measured the Earth by chaining triangles across Holland and founded modern geodesy."
+description: "How the Earth was measured by chaining triangles across Holland, the survey that founded modern geodesy."
 pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf"
 seo_title: "Eratosthenes Batavus (1617): Snellius Measures the Earth"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf"

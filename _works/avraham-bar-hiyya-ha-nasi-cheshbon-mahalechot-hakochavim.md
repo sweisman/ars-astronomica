@@ -8,7 +8,7 @@ date_year: "1136"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/
-description: "Twenty gates of mathematical astronomy in Hebrew, from arithmetic and chords to the courses of the planets — and to converting between the Hebrew, Muslim, Greek and Roman eras."
+description: "Twenty gates of mathematical astronomy in Hebrew, from arithmetic and chords to the planets' courses and the conversion of Hebrew, Muslim and Roman eras."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_HaKochavim.pdf"
 redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-ha-kochavim/"

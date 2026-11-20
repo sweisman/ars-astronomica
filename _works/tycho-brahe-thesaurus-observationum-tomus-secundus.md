@@ -8,7 +8,7 @@ date_year: "1924"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-secundus/
-description: "The first English translation of Tycho Brahe's observation logs for 1586–1589, at the height of the Hven observatory, as edited by J. L. E. Dreyer, with a catalogue of the zodiacal stars."
+description: "Tycho's observation logs for 1586 to 1589, at the height of the Hven observatory, with a catalogue of the zodiacal stars."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Secundus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Secundus_Footnotes.pdf"
 grade: "reading"

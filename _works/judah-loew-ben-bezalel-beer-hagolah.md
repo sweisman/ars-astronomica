@@ -8,7 +8,7 @@ date_year: "1598"
 seo:
   type: WebPage
 permalink: /works/judah-loew-ben-bezalel-beer-hagolah/
-description: "The Maharal of Prague defends the Aggadah against critics who read its stories as absurd and its science as discredited — seven 'wells' sunk toward a single spring."
+description: "A defence of the Aggadah against critics who read its stories as absurd and its science as discredited, in seven 'wells' sunk toward one spring."
 pdf: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf"
 footnotes: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah_Footnotes.pdf"
 grade: "citation"

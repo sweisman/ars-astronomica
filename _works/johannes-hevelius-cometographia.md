@@ -8,7 +8,7 @@ date_year: "1668"
 seo:
   type: WebPage
 permalink: /works/johannes-hevelius-cometographia/
-description: "The first English translation of the major pre-Newtonian survey of comets, which argued that they move on curved, near-parabolic paths."
+description: "The major survey of comets before Newton, arguing from a rooftop observatory that they travel curved, near-parabolic paths."
 pdf: "https://books.arsastronomica.com/Johannes_Hevelius_Cometographia.pdf"
 footnotes: "https://books.arsastronomica.com/Johannes_Hevelius_Cometographia_Footnotes.pdf"
 grade: "reading"

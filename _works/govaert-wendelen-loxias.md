@@ -8,7 +8,7 @@ date_year: "1626"
 seo:
   type: WebPage
 permalink: /works/govaert-wendelen-loxias/
-description: "The first English translation of Govaert Wendelen's Loxias (1626): a review of every determination of the obliquity of the ecliptic from Eratosthenes to Tycho, and a rule for how that angle varies over time."
+description: "Every measurement of the tilt of the ecliptic from Eratosthenes to Tycho, reviewed, and a rule for how that angle changes over time."
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias_Footnotes.pdf"
 grade: "reading"

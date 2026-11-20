@@ -8,7 +8,7 @@ date_year: "1365"
 seo:
   type: WebPage
 permalink: /works/immanuel-bonfils-shesh-kenafayim/
-description: "Six sets of tables — the 'wings' — for computing sun and moon, predicting eclipses and converting calendars, using decimal fractions long before Europe adopted them."
+description: "Six sets of tables for the Sun and Moon, eclipses and calendars, using decimal fractions long before Europe adopted them."
 pdf: "https://books.arsastronomica.com/Immanuel_Bonfils_Shesh_Kenafayim.pdf"
 footnotes: "https://books.arsastronomica.com/Immanuel_Bonfils_Shesh_Kenafayim_Footnotes.pdf"
 grade: "reading"

@@ -8,7 +8,7 @@ date_year: "1643"
 seo:
   type: WebPage
 permalink: /works/govaert-wendelen-arcanorum-caelestium-lampas/
-description: "The first English translation of Govaert Wendelen's Arcanorum caelestium lampas (1643): four astronomical claims first hidden in Latin hexameters, then revealed by anagram, staking his priority ahead of the Tabulae Atlanticae."
+description: "Four astronomical claims hidden in Latin hexameters, then revealed by anagram, to stake the author's priority before his tables appeared."
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Arcanorum_Caelestium_Lampas.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Arcanorum_Caelestium_Lampas_Footnotes.pdf"
 grade: "reading"

@@ -8,7 +8,7 @@ date_year: "1588"
 seo:
   type: WebPage
 permalink: /works/nicolaus-reimers-ursus-fundamentum-astronomicum/
-description: "The first English translation of Ursus's Fundamentum astronomicum (1588): a new method of sines and triangles, and the geo-heliocentric world system that Tycho Brahe accused him of stealing."
+description: "A new method of sines and triangles, and the world system Tycho Brahe accused its author of stealing."
 pdf: "https://books.arsastronomica.com/Nicolaus_Reimers_Ursus_Fundamentum_Astronomicum.pdf"
 footnotes: "https://books.arsastronomica.com/Nicolaus_Reimers_Ursus_Fundamentum_Astronomicum_Footnotes.pdf"
 grade: "reading"

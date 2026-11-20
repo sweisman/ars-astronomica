@@ -8,7 +8,7 @@ date_year: "1148"
 seo:
   type: WebPage
 permalink: /works/avraham-ibn-ezra-keli-hanechoshet/
-description: "The earliest surviving Hebrew treatise on the astrolabe — thirty-four gates on building and using the instrument, with a star catalogue. A matching astrolabe surfaced in Verona in 2024."
+description: "The earliest surviving Hebrew treatise on the astrolabe: how to build the instrument and use it, with a star catalogue. A matching astrolabe surfaced in 2024."
 pdf: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet.pdf"
 redirect_from:
   - "/works/avraham-ibn-ezra-keli-ha-nechoshet/"

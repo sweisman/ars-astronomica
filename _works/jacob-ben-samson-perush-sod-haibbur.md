@@ -8,7 +8,7 @@ date_year: "1123"
 seo:
   type: WebPage
 permalink: /works/jacob-ben-samson-perush-sod-haibbur/
-description: "An early Ashkenazi commentary on the computation of the Hebrew calendar, attributed to a scholar of Rashi's circle and surviving in the North French Hebrew Miscellany."
+description: "An early Ashkenazi commentary on computing the Hebrew calendar, from Rashi's circle, preserved in the North French Hebrew Miscellany."
 pdf: "https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_HaIbbur.pdf"
 redirect_from:
   - "/works/jacob-ben-samson-perush-sod-ha-ibbur/"

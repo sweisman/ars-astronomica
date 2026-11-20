@@ -8,7 +8,7 @@ date_year: "1622"
 seo:
   type: WebPage
 permalink: /works/longomontanus-astronomia-danica/
-description: "The fullest pre-Newtonian exposition of the Tychonic system, written by the assistant who had computed at Tycho's side — with tables, trigonometry, and the new stars and comets."
+description: "The fullest account of the Tychonic system, by the assistant who computed at Tycho's side, with tables, trigonometry, new stars and comets."
 pdf: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica.pdf"
 footnotes: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica_Footnotes.pdf"
 grade: "citation"

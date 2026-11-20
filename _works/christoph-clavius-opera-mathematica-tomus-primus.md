@@ -8,7 +8,7 @@ date_year: "1611"
 seo:
   type: WebPage
 permalink: /works/christoph-clavius-opera-mathematica-tomus-primus/
-description: "Volume One of Clavius's collected works: the standard Renaissance Euclid, the commentary on Theodosius's Spherics, and the trigonometry of sines, tangents and secants."
+description: "The standard Renaissance Euclid, a commentary on Theodosius's Spherics, and the trigonometry of sines, tangents and secants."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Primus.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Primus_Footnotes.pdf"
 grade: "reading"

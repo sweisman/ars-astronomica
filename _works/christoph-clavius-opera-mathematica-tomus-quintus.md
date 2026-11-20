@@ -8,7 +8,7 @@ date_year: "1612"
 seo:
   type: WebPage
 permalink: /works/christoph-clavius-opera-mathematica-tomus-quintus/
-description: "Volume Five: the architect of the Gregorian calendar explains it in full, then defends it in two books against Maestlin and answers Scaliger, Germanus and Viète."
+description: "The architect of the Gregorian calendar explains it in full, then defends it against Maestlin, Scaliger and Viète."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quintus.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quintus_Footnotes.pdf"
 grade: "reading"

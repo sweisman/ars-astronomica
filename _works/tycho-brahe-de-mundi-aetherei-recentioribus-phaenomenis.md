@@ -8,7 +8,7 @@ date_year: "1588"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-de-mundi-aetherei-recentioribus-phaenomenis/
-description: "The comet of 1577 showed no parallax — so it moved where the crystalline spheres were supposed to be. Brahe draws the consequence and sets out his own system of the world."
+description: "The comet of 1577 showed no parallax, so it moved where the crystalline spheres were supposed to be. A new system of the world follows."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_De_Mundi_Aetherei_Recentioribus_Phaenomenis.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_De_Mundi_Aetherei_Recentioribus_Phaenomenis_Footnotes.pdf"
 grade: "citation"

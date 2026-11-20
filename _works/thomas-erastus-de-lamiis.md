@@ -8,7 +8,7 @@ date_year: "1578"
 seo:
   type: WebPage
 permalink: /works/thomas-erastus-de-lamiis/
-description: "The first English translation of Thomas Erastus's Disputatio de lamiis (1578): a Heidelberg physician grants that witches exist and deserve death, then dismantles on medical and physical grounds nearly every marvel attributed to them."
+description: "A physician grants that witches exist and deserve death, then dismantles, on medical and physical grounds, nearly every marvel attributed to them."
 pdf: "https://books.arsastronomica.com/Thomas_Erastus_De_Lamiis.pdf"
 footnotes: "https://books.arsastronomica.com/Thomas_Erastus_De_Lamiis_Footnotes.pdf"
 grade: "reading"

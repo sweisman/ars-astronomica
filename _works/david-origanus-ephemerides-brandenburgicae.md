@@ -8,7 +8,7 @@ date_year: "1609"
 seo:
   type: WebPage
 permalink: /works/david-origanus-ephemerides-brandenburgicae/
-description: "The first English translation of David Origanus's Brandenburg Ephemerides (1609): sixty years of daily positions of the Sun, Moon and planets, computed on both Tychonic and Copernican foundations."
+description: "Sixty years of daily positions of the Sun, Moon and planets, computed on both Tychonic and Copernican foundations."
 pdf: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae.pdf"
 footnotes: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae_Footnotes.pdf"
 grade: "reading"

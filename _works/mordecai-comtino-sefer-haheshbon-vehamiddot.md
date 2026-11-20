@@ -7,7 +7,7 @@ date_label: "15th c."
 seo:
   type: WebPage
 permalink: /works/mordecai-comtino-sefer-haheshbon-vehamiddot/
-description: "Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites. No English translation was previously known."
+description: "Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites."
 pdf: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot.pdf"
 redirect_from:
   - "/works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/"

@@ -8,7 +8,7 @@ date_year: "1329"
 seo:
   type: WebPage
 permalink: /works/levi-ben-gershom-milchamot-hashem/
-description: "Gersonides' philosophical masterwork in six books — the soul, prophecy, divine knowledge of particulars, providence, the heavens, and creation — dissenting from Maimonides where reason demands."
+description: "On the soul, prophecy, divine knowledge, providence, the heavens and creation, dissenting from Maimonides wherever reason demands."
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem.pdf"
 footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem_Footnotes.pdf"
 grade: "reading"

@@ -8,7 +8,7 @@ date_year: "1651"
 seo:
   type: WebPage
 permalink: /works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-posterior/
-description: "The first complete English translation of the second part of Riccioli's New Almagest, with its 126 arguments for and against the Earth's motion."
+description: "Comets, new stars and the systems of the world, with 126 arguments for and against the Earth's motion, set out fairly enough that both sides read them."
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Posterior.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Posterior_Footnotes.pdf"
 grade: "reading"

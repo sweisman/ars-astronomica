@@ -7,7 +7,7 @@ date_label: "late 14th c. (composition; this is a later manuscript copy)"
 seo:
   type: WebPage
 permalink: /works/isaac-ibn-al-ahdab-keli-hemda/
-description: "A treatise on the equatorium — an instrument for computing planetary positions geometrically rather than by table — in two parts, on making it and on using it."
+description: "How to make and use the equatorium, an instrument that finds planetary positions geometrically rather than by table."
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda.pdf"
 footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda_Footnotes.pdf"
 grade: "reading"

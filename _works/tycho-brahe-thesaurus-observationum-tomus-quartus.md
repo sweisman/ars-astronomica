@@ -8,7 +8,7 @@ date_year: "1926"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-quartus/
-description: "The first English translation of Tycho Brahe's observation logs for 1596–1601, from the last years on Hven through his exile, as edited from the manuscripts by J. L. E. Dreyer."
+description: "Tycho's observation logs for 1596 to 1601, from the last years on Hven through his exile in Germany and Bohemia."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus_Footnotes.pdf"
 grade: "reading"

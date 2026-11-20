@@ -8,7 +8,7 @@ date_year: "1673"
 seo:
   type: WebPage
 permalink: /works/johannes-hevelius-machina-coelestis-pars-prior/
-description: "The first complete English translation of Hevelius's account of his instruments, whose defence of naked-eye sights drew Hooke's attack and Halley's visit."
+description: "The instruments of Europe's largest observatory after Uraniborg, whose defence of naked-eye sights drew Hooke's attack and Halley's visit."
 pdf: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior.pdf"
 footnotes: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior_Footnotes.pdf"
 grade: "reading"

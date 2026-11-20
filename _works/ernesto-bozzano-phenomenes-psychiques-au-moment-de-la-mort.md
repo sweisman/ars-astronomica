@@ -8,7 +8,7 @@ date_year: "1923"
 seo:
   type: WebPage
 permalink: /works/ernesto-bozzano-phenomenes-psychiques-au-moment-de-la-mort/
-description: "An English translation of Ernesto Bozzano's Phénomènes psychiques au moment de la mort (1923): three monographs classifying deathbed apparitions, telekinesis at deaths, and transcendental music."
+description: "Three studies classifying the phenomena reported at deathbeds: apparitions of the dead, objects moving at the moment of death, and music no one played."
 pdf: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort.pdf"
 footnotes: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort_Footnotes.pdf"
 grade: "reading"

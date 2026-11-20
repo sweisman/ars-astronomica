@@ -8,7 +8,7 @@ date_year: "1618"
 seo:
   type: WebPage
 permalink: /works/willebrord-snellius-observationes-hassiacae/
-description: "The first English translation of the Observationes Hassiacae (1618): the Kassel observations of Landgrave Wilhelm IV of Hesse, edited by Snellius, with the Nuremberg observations of Regiomontanus and Walther."
+description: "The Kassel observations of Landgrave Wilhelm IV, the other great body of pre-telescopic precision, with Regiomontanus's Nuremberg observations."
 pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Observationes_Hassiacae.pdf"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Observationes_Hassiacae_Footnotes.pdf"
 grade: "reading"

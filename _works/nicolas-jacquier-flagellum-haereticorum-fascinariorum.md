@@ -8,7 +8,7 @@ date_year: "1458"
 seo:
   type: WebPage
 permalink: /works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/
-description: "The first complete English translation of Nicolas Jacquier's Flagellum haereticorum fascinariorum (1458): an inquisitor's argument, against the Canon Episcopi, that the witches' gatherings are bodily, real and heretical."
+description: "An inquisitor argues, against the Canon Episcopi, that the witches' sabbath is bodily, real and heretical."
 pdf: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum.pdf"
 footnotes: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum_Footnotes.pdf"
 grade: "reading"

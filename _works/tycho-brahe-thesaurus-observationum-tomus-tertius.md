@@ -8,7 +8,7 @@ date_year: "1925"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-tertius/
-description: "The first English translation of Tycho Brahe's observation logs for 1590–1595, the last full years of the Hven observatory, as edited from the manuscripts by J. L. E. Dreyer."
+description: "Tycho's observation logs for 1590 to 1595, the last full years of the Hven observatory."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius_Footnotes.pdf"
 grade: "reading"

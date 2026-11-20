@@ -8,7 +8,7 @@ date_year: "1647"
 seo:
   type: WebPage
 permalink: /works/pierre-gassendi-institutio-astronomica/
-description: "The first English translation of the standard astronomy textbook of the mid-seventeenth century, which sets the Ptolemaic, Copernican and Tychonic systems side by side."
+description: "The standard astronomy textbook of its generation, setting the Ptolemaic, Copernican and Tychonic systems side by side."
 pdf: "https://books.arsastronomica.com/Pierre_Gassendi_Institutio_Astronomica.pdf"
 footnotes: "https://books.arsastronomica.com/Pierre_Gassendi_Institutio_Astronomica_Footnotes.pdf"
 grade: "reading"

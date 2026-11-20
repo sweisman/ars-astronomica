@@ -8,7 +8,7 @@ date_year: "1500"
 seo:
   type: WebPage
 permalink: /works/eliyahu-mizrahi-kitsur-hamelakhat-hamispar/
-description: "A Hebrew arithmetic textbook by the chief rabbi of the Ottoman Empire — the operations, fractions, proportion and roots, taught step by step with checking methods."
+description: "Arithmetic taught step by step by the chief rabbi of the Ottoman Empire: the operations, fractions, proportion and roots, with methods for checking each."
 pdf: "https://books.arsastronomica.com/Eliyahu_Mizrahi_Kitsur_HaMelakhat_HaMispar.pdf"
 redirect_from:
   - "/works/eliyahu-mizrahi-kitsur-ha-melakhat-ha-mispar/"

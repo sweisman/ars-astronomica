@@ -8,7 +8,7 @@ date_year: "1510"
 seo:
   type: WebPage
 permalink: /works/martin-de-arles-tractatus-de-superstitionibus/
-description: "The first English translation of Martín de Arles's Tractatus de superstitionibus (c. 1510): a Navarrese archdeacon's catalogue of the charms, lucky days, divinations and misplaced devotions he met on visitation, each judged from Aquinas, Gerson and the Decretum."
+description: "A Navarrese archdeacon catalogues the charms, lucky days and divinations he met in his own parishes, and judges each one."
 pdf: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus.pdf"
 footnotes: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus_Footnotes.pdf"
 grade: "reading"

@@ -8,7 +8,7 @@ date_year: "1651"
 seo:
   type: WebPage
 permalink: /works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-prior/
-description: "The first complete English translation of the first part of Riccioli's New Almagest (1651): the sphere, the Sun, the Moon, eclipses, the fixed stars and the planets, with the lunar map whose names astronomers still use."
+description: "The Jesuit encyclopedia of astronomy: the sphere, Sun, Moon, eclipses, stars and planets, with the map whose crater names astronomers still use."
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Prior.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Prior_Footnotes.pdf"
 grade: "reading"

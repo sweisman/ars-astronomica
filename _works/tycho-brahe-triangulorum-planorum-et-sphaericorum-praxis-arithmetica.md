@@ -8,7 +8,7 @@ date_year: "1591"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-triangulorum-planorum-et-sphaericorum-praxis-arithmetica/
-description: "The first English translation of Tycho Brahe's working manual of trigonometry: sixteen rules for solving plane and spherical triangles by arithmetic, the computing behind the Uraniborg observations."
+description: "Sixteen rules for solving plane and spherical triangles by arithmetic: the working trigonometry behind the Uraniborg observations."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Triangulorum_Planorum_et_Sphaericorum_Praxis_Arithmetica.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Triangulorum_Planorum_et_Sphaericorum_Praxis_Arithmetica_Footnotes.pdf"
 grade: "reading"

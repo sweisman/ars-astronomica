@@ -8,7 +8,7 @@ date_year: "1644"
 seo:
   type: WebPage
 permalink: /works/govaert-wendelen-eclipses-lunares/
-description: "The first English translation of Govaert Wendelen's Eclipses lunares (1644): seventy years of lunar-eclipse observations, 1573–1643, laid down as the foundation for his projected Tabulae Atlanticae."
+description: "Seventy years of lunar-eclipse observations, 1573 to 1643, laid down as the foundation for a new set of astronomical tables."
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Eclipses_Lunares.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Eclipses_Lunares_Footnotes.pdf"
 grade: "reading"

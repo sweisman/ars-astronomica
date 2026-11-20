@@ -8,7 +8,7 @@ date_year: "1596"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-epistolarum-astronomicarum-libri/
-description: "Before journals existed, astronomers argued by letter — Brahe's correspondence with Landgrave Wilhelm IV and Christoph Rothmann, two observatories testing each other in real time."
+description: "Before journals, astronomers argued by letter: two observatories, Hven and Kassel, testing each other's work in real time."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri_Footnotes.pdf"
 grade: "reading"

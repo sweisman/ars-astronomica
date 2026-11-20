@@ -8,7 +8,7 @@ date_year: "1647"
 seo:
   type: WebPage
 permalink: /works/johannes-hevelius-selenographia/
-description: "The first English translation of the first lunar atlas drawn from systematic telescopic observation, its plates engraved by the astronomer himself."
+description: "The first lunar atlas drawn from systematic telescopic observation, the Moon night by night through its phases, engraved by the astronomer himself."
 pdf: "https://books.arsastronomica.com/Johannes_Hevelius_Selenographia.pdf"
 footnotes: "https://books.arsastronomica.com/Johannes_Hevelius_Selenographia_Footnotes.pdf"
 grade: "reading"

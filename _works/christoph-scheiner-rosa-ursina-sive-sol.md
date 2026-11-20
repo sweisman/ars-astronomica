@@ -8,7 +8,7 @@ date_year: "1630"
 seo:
   type: WebPage
 permalink: /works/christoph-scheiner-rosa-ursina-sive-sol/
-description: "The first comprehensive treatise on sunspots: Scheiner proves the Sun rotates, fixes the tilt of its axis, and fights Galileo over who saw the spots first."
+description: "The first comprehensive treatise on sunspots: proof that the Sun rotates, the tilt of its axis, and a quarrel with Galileo over who saw the spots first."
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol_Footnotes.pdf"
 grade: "citation"

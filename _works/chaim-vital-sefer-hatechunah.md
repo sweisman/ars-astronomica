@@ -7,7 +7,7 @@ date_label: "late 16th c."
 seo:
   type: WebPage
 permalink: /works/chaim-vital-sefer-hatechunah/
-description: "The first English translation of Sefer HaTechunah, the astronomical treatise of R. Chaim Vital, foremost disciple of the Ari, edited from the earliest known manuscript with the printed tradition collated in the apparatus."
+description: "The astronomy of the Ari's foremost disciple, edited from the earliest known manuscript, with the printed tradition collated beside it."
 pdf: "https://books.arsastronomica.com/Chaim_Vital_Sefer_HaTechunah.pdf"
 redirect_from:
   - "/works/chaim-vital-sefer-ha-techunah/"

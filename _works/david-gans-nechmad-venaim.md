@@ -8,7 +8,7 @@ date_year: "1613"
 seo:
   type: WebPage
 permalink: /works/david-gans-nechmad-venaim/
-description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs, with the author's own preface and approbations restored from the surviving 1612 prospectus."
+description: "A Hebrew textbook of astronomy by a man who visited Tycho Brahe's observatory, with the author's own preface restored from a single surviving prospectus."
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf"
 redirect_from:
   - "/works/david-gans-nechmad-ve-naim/"

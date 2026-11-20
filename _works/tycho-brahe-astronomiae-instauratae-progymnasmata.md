@@ -8,7 +8,7 @@ date_year: "1602"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-astronomiae-instauratae-progymnasmata/
-description: "Brahe's fullest observational program — solar and lunar theory, the best pre-telescopic star catalogue, and the new star of 1572 — left unfinished and carried to press by Kepler."
+description: "Solar and lunar theory, the best star catalogue before the telescope, and the new star of 1572, left unfinished and carried to press by Kepler."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Progymnasmata.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Progymnasmata_Footnotes.pdf"
 grade: "citation"

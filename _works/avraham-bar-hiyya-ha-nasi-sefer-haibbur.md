@@ -8,7 +8,7 @@ date_year: "1122"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/
-description: "The earliest systematic Hebrew treatise on the science of the calendar — the model later calendar scholars copied for centuries, written in twelfth-century Barcelona."
+description: "The earliest systematic Hebrew treatise on the science of the calendar, and the model later calendar scholars followed for centuries."
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur_Footnotes.pdf"
 grade: "reading"

@@ -8,7 +8,7 @@ date_year: "1665"
 seo:
   type: WebPage
 permalink: /works/giovanni-battista-riccioli-astronomia-reformata/
-description: "Riccioli's two-tome sequel to the Almagestum Novum — telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables, and marshalled against a moving Earth."
+description: "Telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables and marshalled against a moving Earth."
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata_Footnotes.pdf"
 grade: "citation"

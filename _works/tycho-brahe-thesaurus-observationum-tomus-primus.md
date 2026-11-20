@@ -8,7 +8,7 @@ date_year: "1923"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-primus/
-description: "The first English translation of Tycho Brahe's observation logs from 1563 to 1585, as edited by J. L. E. Dreyer: the raw record behind the most accurate naked-eye astronomy ever made."
+description: "Tycho's observation logs from 1563 to 1585, from his first recorded observation at sixteen: the raw record behind the best naked-eye astronomy ever made."
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus_Footnotes.pdf"
 grade: "reading"

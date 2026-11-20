@@ -8,7 +8,7 @@ date_year: "1288"
 seo:
   type: WebPage
 permalink: /works/jacob-ben-machir-ibn-tibbon-roba-yisrael/
-description: "The quadrans novus — an improved astronomical quadrant of the author's own invention — described in sixteen gates. It passed into Latin and was cited by Renaissance astronomers."
+description: "An improved astronomical quadrant of the author's own invention, in sixteen gates. It passed into Latin and was cited by Renaissance astronomers."
 pdf: "https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael.pdf"
 footnotes: "https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael_Footnotes.pdf"
 grade: "reading"

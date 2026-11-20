@@ -8,7 +8,7 @@ date_year: "1629"
 seo:
   type: WebPage
 permalink: /works/joseph-solomon-delmedigo-sefer-elim/
-description: "Twelve major questions and seventy minor ones on mathematics, astronomy and physics — an early Hebrew witness to logarithms and post-Copernican astronomy."
+description: "Seventy questions on mathematics, astronomy and physics from a student of Galileo: an early Hebrew witness to logarithms and post-Copernican astronomy."
 pdf: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim.pdf"
 footnotes: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim_Footnotes.pdf"
 grade: "reading"

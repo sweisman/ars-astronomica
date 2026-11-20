@@ -8,7 +8,7 @@ date_year: "1611"
 seo:
   type: WebPage
 permalink: /works/christoph-clavius-opera-mathematica-tomus-tertius/
-description: "Volume Three: Clavius's commentary on Sacrobosco's Sphere — the most influential Renaissance astronomy textbook — together with his full treatise on the astrolabe."
+description: "The most influential Renaissance astronomy textbook, a commentary on Sacrobosco's Sphere, with a full treatise on the astrolabe."
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius_Footnotes.pdf"
 grade: "reading"

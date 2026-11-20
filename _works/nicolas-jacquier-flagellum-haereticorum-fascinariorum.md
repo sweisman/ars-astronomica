@@ -12,6 +12,7 @@ description: "The first complete English translation of Nicolas Jacquier's Flage
 pdf: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum.pdf"
 footnotes: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Gallica / Bibliothèque nationale de France — ark:/12148/bpt6k1093221 BnF, dép. Philosophie, histoire, sciences de l'homme, D-39257"
 source_url: "https://gallica.bnf.fr/ark:/12148/bpt6k1093221"
 translator_version: "2"
@@ -44,4 +45,7 @@ The translation is made from the composite demonological volume printed at
 Frankfurt in 1581, from the Bibliothèque nationale de France, and covers
 Jacquier's own preliminaries and treatise. The compiler's dedication and index
 to the whole volume are left out, as they belong to the collection rather than
-to Jacquier's text.
+to Jacquier's text. Two companion pieces from that volume, Thomas Erastus's
+[*De Lamiis*](/works/thomas-erastus-de-lamiis/) and Martín de Arles's
+[*Tractatus de Superstitionibus*](/works/martin-de-arles-tractatus-de-superstitionibus/), are also in this corpus, as is
+Bartolomeo Spina's [*Quaestio de Strigibus*](/works/bartolomeo-spina-quaestio-de-strigibus/).

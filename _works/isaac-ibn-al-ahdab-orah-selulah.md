@@ -3,7 +3,7 @@ layout: work
 title: "Orah Selulah"
 author: "R. Isaac ibn al-Aḥdab"
 author_slug: "isaac-ibn-al-ahdab"
-date_label: "c. 1396 (composed in Syracuse, Sicily; this is a later manuscript copy)"
+date_label: "c. 1396"
 date_year: "1396"
 seo:
   type: WebPage
@@ -12,6 +12,7 @@ description: "Tables for the true conjunctions and oppositions of Sun and Moon �
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Orah_Selulah.pdf"
 footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Orah_Selulah_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Gallica / BnF — Hébreu 1086"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b105395090"
 translator_version: "2"

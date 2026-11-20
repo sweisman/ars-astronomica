@@ -12,6 +12,7 @@ description: "The first English translation of Govaert Wendelen's Eclipses lunar
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Eclipses_Lunares.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Eclipses_Lunares_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10873761 shelfmark Res/4 Astr.p. 491"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10873761"
 translator_version: "2"
@@ -41,4 +42,6 @@ tables on fresh, well-dated observations.
 
 ## About this edition
 
-The source is the 1644 printing, from the Bavarian State Library.
+The source is the 1644 printing, from the Bavarian State Library. Wendelen's
+[*Loxias*](/works/govaert-wendelen-loxias/) and
+[*Arcanorum Caelestium Lampas*](/works/govaert-wendelen-arcanorum-caelestium-lampas/) are also in this corpus.

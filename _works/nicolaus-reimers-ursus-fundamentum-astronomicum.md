@@ -12,6 +12,7 @@ description: "The first English translation of Ursus's Fundamentum astronomicum 
 pdf: "https://books.arsastronomica.com/Nicolaus_Reimers_Ursus_Fundamentum_Astronomicum.pdf"
 footnotes: "https://books.arsastronomica.com/Nicolaus_Reimers_Ursus_Fundamentum_Astronomicum_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Det Kongelige Bibliotek, Copenhagen, digitised for Early European Books ProQuest; distributed through the Internet Archive as `den-kbd-all-130017588436-001`"
 source_url: "https://archive.org/details/den-kbd-all-130017588436-001"
 translator_version: "2"

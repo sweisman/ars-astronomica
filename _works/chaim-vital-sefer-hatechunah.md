@@ -3,8 +3,7 @@ layout: work
 title: "Sefer HaTechunah"
 author: "Chaim Vital"
 author_slug: "chaim-vital"
-date_label: "1866 (first printing of the work; this copy is far earlier — see **Date** below)"
-date_year: "1866"
+date_label: "late 16th c."
 seo:
   type: WebPage
 permalink: /works/chaim-vital-sefer-hatechunah/
@@ -15,6 +14,7 @@ redirect_from:
 footnotes: "https://books.arsastronomica.com/Chaim_Vital_Sefer_HaTechunah_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First English translation"
 source_title: "Chester Beatty Library"
 source_url: "https://viewer.cbl.ie/viewer/image/Heb_762/5/LOG_0000/"
 translator_version: "2"
@@ -65,6 +65,3 @@ the printed tradition — a modern resetting of the first printing (Jerusalem,
 1866) — together with the notes its own editors and annotators left at hard
 places. The print has nowhere been allowed to alter the manuscript's text: where
 the two differ, both readings stand.
-
-This work is **citation grade**: read complete against the manuscript rather
-than sampled.

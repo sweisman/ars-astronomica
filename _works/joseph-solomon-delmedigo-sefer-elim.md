@@ -12,6 +12,7 @@ description: "Twelve major questions and seventy minor ones on mathematics, astr
 pdf: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim.pdf"
 footnotes: "https://books.arsastronomica.com/Joseph_Solomon_Delmedigo_Sefer_Elim_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Internet Archive — seferelim00delmuoft"
 source_url: "https://archive.org/details/seferelim00delmuoft"
 translator_version: "2"
@@ -33,7 +34,7 @@ know.
 
 The content is dense with geometric demonstrations, worked numeric problems,
 and astronomical and trigonometric tables. Two things make it notable in Hebrew
-letters: it is an early Hebrew witness to logarithms, then barely a decade old in
+letters: it is an early Hebrew witness to logarithms, then barely fifteen years old in
 any language, and it engages post-Copernican astronomy directly rather than at
 second hand — Delmedigo had studied at Padua, where he attended Galileo.
 

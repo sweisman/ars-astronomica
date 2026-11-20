@@ -12,6 +12,7 @@ description: "Why the setting Sun looks flattened: Scheiner's geometrical accoun
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Universitätsbibliothek Freiburg — *diglit* `scheiner1617`"
 source_url: "https://dl.ub.uni-freiburg.de/diglit/scheiner1617"
 translator_version: "2"

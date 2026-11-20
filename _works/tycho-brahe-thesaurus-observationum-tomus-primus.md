@@ -12,6 +12,7 @@ description: "The first English translation of Tycho Brahe's observation logs fr
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Internet Archive — `operaomniaedidit10brahuoft`"
 source_url: "https://archive.org/details/operaomniaedidit10brahuoft"
 translator_version: "2"
@@ -49,4 +50,6 @@ each position in a table.
 The source is volume X of Dreyer's *Tychonis Brahe Dani Opera Omnia*
 (Copenhagen, 1923), the first of its volumes of observations. The next volume,
 covering 1586 to 1589, is
-[*Thesaurus Observationum, Tomus Secundus*](/works/tycho-brahe-thesaurus-observationum-tomus-secundus/).
+[*Thesaurus Observationum, Tomus Secundus*](/works/tycho-brahe-thesaurus-observationum-tomus-secundus/),
+and [*Tomus Tertius*](/works/tycho-brahe-thesaurus-observationum-tomus-tertius/) and
+[*Tomus Quartus*](/works/tycho-brahe-thesaurus-observationum-tomus-quartus/) carry the record on to 1601.

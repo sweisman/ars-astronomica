@@ -8,13 +8,14 @@ date_year: "1613"
 seo:
   type: WebPage
 permalink: /works/david-gans-nechmad-venaim/
-description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs, with the author's own preface and approbations restored from the lost 1612 prospectus."
+description: "A Hebrew textbook of Ptolemaic astronomy by a man who had visited Tycho Brahe at his observatory — 305 numbered paragraphs, with the author's own preface and approbations restored from the surviving 1612 prospectus."
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf"
 redirect_from:
   - "/works/david-gans-nechmad-ve-naim/"
 footnotes: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE32709375, shelfmark 35 V 1770 catalog NNL_ALEPH990011964030205171"
 translator_version: "2"
 ---
@@ -82,8 +83,3 @@ bracketed front and back by editorial notice, so that no reader can mistake the
 1612 leaves for part of the 1743 printing; the modern edition's section numbers
 are kept so passages can be cited; and nothing within the insertion is reordered
 or abridged, the gap at §§1–2 being the damage to the prospectus's first leaf.
-
-The work is accompanied here by a separate volume of editorial footnotes.
-
-This work is **citation grade**: read complete against the source rather than
-sampled.

@@ -13,13 +13,15 @@ pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Ref
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich — title-info 141744"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/141744"
 translator_version: "2"
 ---
 
 A mature reckoning with the heavens as the telescope was revealing them — a
-sequel to the vast *Almagestum Novum* (1651), built on further years of
+sequel to the vast
+[*Almagestum Novum*](/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-prior/) (1651), built on further years of
 observation at Bologna with the collaborator Grimaldi, with fresh measurements
 and corrected parameters at center stage.
 
@@ -59,8 +61,3 @@ misleading.
 The translated source is the 1665 printing in two tomes, which opens with a
 dedicatory title page and epistle and supplies two separate indexes — one of the
 books, and a fuller one of books and chapters following the prolegomena.
-
-The work is accompanied here by a separate volume of editorial footnotes.
-
-This work is **citation grade**: read complete against the source rather
-than sampled.

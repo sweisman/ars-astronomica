@@ -12,6 +12,7 @@ description: "An English translation of Ernesto Bozzano's Phénomènes psychique
 pdf: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort.pdf"
 footnotes: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Scribd"
 source_url: "https://www.scribd.com/document/695940648/Les-phenomenes-psychiques-au-moment-de-la-mort"
 translator_version: "2"

@@ -3,7 +3,7 @@ layout: work
 title: "Astronomia Danica"
 author: "Longomontanus"
 author_slug: "longomontanus"
-date_label: "1622 (first edition; this scan is the revised 1640 second edition — see Edition)"
+date_label: "1622"
 date_year: "1622"
 seo:
   type: WebPage
@@ -13,6 +13,7 @@ pdf: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica.pdf"
 footnotes: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First English translation"
 source_title: "Internet Archive — astronomiadanica00long"
 source_url: "https://archive.org/details/astronomiadanica00long"
 translator_version: "2"

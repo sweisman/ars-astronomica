@@ -12,6 +12,7 @@ description: "Gassendi's six-book life of Tycho Brahe — Hven, the instruments,
 pdf: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita.pdf"
 footnotes: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Internet Archive — den-kbd-pil-130018157889-001"
 source_url: "https://archive.org/details/den-kbd-pil-130018157889-001"
 translator_version: "2"
@@ -55,4 +56,6 @@ predecessors were.
 
 The translated source is the 1654 printing, which includes a summary of the
 printing privilege, the author's preface, and a list of errata in the preface to be
-corrected by the reader.
+corrected by the reader. Gassendi's textbook of astronomy, the
+[*Institutio Astronomica*](/works/pierre-gassendi-institutio-astronomica/), is
+also in this corpus.

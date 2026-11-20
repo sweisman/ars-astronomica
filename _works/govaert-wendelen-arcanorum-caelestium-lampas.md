@@ -12,6 +12,7 @@ description: "The first English translation of Govaert Wendelen's Arcanorum cael
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Arcanorum_Caelestium_Lampas.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Arcanorum_Caelestium_Lampas_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10132909 shelfmark Phys.m. 216#Beibd.1, a tract bound into another volume"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10132909"
 translator_version: "2"
@@ -40,4 +41,5 @@ publishing.
 ## About this edition
 
 The source is a copy in the Bavarian State Library, a tract bound into another
-volume.
+volume. Wendelen's [*Loxias*](/works/govaert-wendelen-loxias/) and
+[*Eclipses Lunares*](/works/govaert-wendelen-eclipses-lunares/) are also in this corpus.

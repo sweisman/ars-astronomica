@@ -12,6 +12,7 @@ description: "The first complete English translation of the first part of Riccio
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Prior.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Almagestum_Novum_Tomus_Primus_Pars_Prior_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich, shelfmark Rar 9471:1/1 — title-info 140180 the multivolume anchor, child record 140182"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/140180"
 translator_version: "2"
@@ -39,8 +40,9 @@ use.
 
 ## About this edition
 
-The source is the Bologna printing of 1651. The second part of the first volume,
-with the comets, the systems of the world and the 126 arguments on the Earth's
-motion, is a separate volume. Riccioli's later
+The source is the Bologna printing of 1651. The
+[second part](/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-posterior/)
+of the first volume, with the comets, the systems of the world and the 126
+arguments on the Earth's motion, is a separate volume. Riccioli's later
 [*Astronomia Reformata*](/works/giovanni-battista-riccioli-astronomia-reformata/)
-is also in this collection.
+is also in this corpus.

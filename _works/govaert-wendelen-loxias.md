@@ -12,6 +12,7 @@ description: "The first English translation of Govaert Wendelen's Loxias (1626):
 pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Google Books `D0Jgtk0h1HEC` — copy of the Hendrik Conscience Heritage Library, Antwerp; digitized 2022-12-12; full view"
 source_url: "https://www.google.com/books/edition/Loxias_seu_De_obliquitate_solis_diatriba/D0Jgtk0h1HEC"
 translator_version: "2"
@@ -40,4 +41,6 @@ obliquity changes.
 ## About this edition
 
 The source is the 1626 printing, from a copy in the Hendrik Conscience Heritage
-Library, Antwerp, digitized by Google Books.
+Library, Antwerp, digitized by Google Books. Wendelen's
+[*Arcanorum Caelestium Lampas*](/works/govaert-wendelen-arcanorum-caelestium-lampas/) and
+[*Eclipses Lunares*](/works/govaert-wendelen-eclipses-lunares/) are also in this corpus.

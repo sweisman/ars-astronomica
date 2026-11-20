@@ -13,6 +13,7 @@ pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol.p
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb11348805"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb11348805"
 translator_version: "2"

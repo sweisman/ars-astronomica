@@ -9,6 +9,13 @@ permalink: /updates/
 
 # Updates
 
+**2026-11-20**
+
+- Added three works by Johannes Hevelius: the *Selenographia* (1647), the first lunar atlas drawn from systematic telescopic observation; the *Cometographia* (1668), the major survey of comets before Newton; and the first part of the *Machina Coelestis* (1673), his illustrated account of the instruments of the largest observatory in Europe after Uraniborg.
+- Added the *Institutio Astronomica* (Pierre Gassendi, 1647), the standard astronomy textbook of its generation, which sets the Ptolemaic, Copernican and Tychonic systems side by side.
+- Added the second part of Riccioli's *Almagestum Novum* (1651), Books VIII–X, with its 126 arguments for and against the Earth's motion.
+- Each work's page now says when this is the first English translation, or the first complete one.
+
 **2026-11-03**
 
 - Added four works on the instruments of computation and observation around Tycho Brahe: his own *Triangulorum Planorum et Sphaericorum Praxis Arithmetica* (1591), the working manual of trigonometry behind the Uraniborg observations; the *Fundamentum Astronomicum* (Nicolaus Reimers Ursus, 1588), whose world system Tycho accused Ursus of stealing from him; and the *Observationes Hassiacae* (ed. Willebrord Snellius, 1618), the Kassel observations of Landgrave Wilhelm IV, the other great body of precision observation from before the telescope.
@@ -18,13 +25,13 @@ permalink: /updates/
 
 - Added the *Thesaurus Observationum*, Tomus Tertius and Tomus Quartus (Tycho Brahe, ed. J. L. E. Dreyer, 1925–1926), continuing the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
 
+<!-- The most recent entries live in the README and are spliced in above
+     this archive by publish.py. Age an entry out by moving it here. -->
+
 **2026-10-25**
 
 - Added four works on witchcraft and superstition: *Quaestio de Strigibus* (Bartolomeo Spina, 1523), the Dominican answer to the sceptics; *Tractatus de Superstitionibus* (Martín de Arles, c. 1510), a Navarrese archdeacon's field report on the popular religion of his own parishes; *Flagellum Haereticorum Fascinariorum* (Nicolas Jacquier, 1458), the first sustained inquisitorial defence of the reality of the witches' sabbath; and *De Lamiis* (Thomas Erastus, 1578), a Heidelberg physician's dialogue on what witches can and cannot actually do.
 - Added three works by Govaert Wendelen: *Loxias* (1626), on the obliquity of the ecliptic; *Arcanorum Caelestium Lampas* (1643), four astronomical claims hidden in Latin hexameters and then revealed by anagram; and *Eclipses Lunares* (1644), seventy years of lunar-eclipse observations laid down as the foundation for his *Tabulae Atlanticae*.
-
-<!-- The most recent entries live in the README and are spliced in above
-     this archive by publish.py. Age an entry out by moving it here. -->
 
 **2026-10-19**
 

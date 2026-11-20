@@ -14,6 +14,7 @@ redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-ha-kochavim/"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_HaKochavim_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 22072"
 source_url: "https://hebrewbooks.org/22072"
 translator_version: "2"

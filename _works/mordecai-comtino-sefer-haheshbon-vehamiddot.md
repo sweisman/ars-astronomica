@@ -3,7 +3,7 @@ layout: work
 title: "Sefer HaḤeshbon VeHaMiddot"
 author: "R. Mordecai Comtino"
 author_slug: "mordecai-comtino"
-date_label: "15th c. (composition; this is a later manuscript copy)"
+date_label: "15th c."
 seo:
   type: WebPage
 permalink: /works/mordecai-comtino-sefer-haheshbon-vehamiddot/
@@ -13,6 +13,7 @@ redirect_from:
   - "/works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/"
 footnotes: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 26r–65r"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
 translator_version: "2"

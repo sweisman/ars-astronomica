@@ -12,6 +12,7 @@ description: "The earliest systematic Hebrew treatise on the science of the cale
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 21292"
 source_url: "https://hebrewbooks.org/21292"
 translator_version: "2"

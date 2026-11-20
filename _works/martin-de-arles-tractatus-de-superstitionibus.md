@@ -12,6 +12,7 @@ description: "The first English translation of Martín de Arles's Tractatus de s
 pdf: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus.pdf"
 footnotes: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Gallica / Bibliothèque nationale de France — ark:/12148/bpt6k1093221 BnF, dép. Philosophie, histoire, sciences de l'homme, D-39257"
 source_url: "https://gallica.bnf.fr/ark:/12148/bpt6k1093221"
 translator_version: "2"
@@ -43,5 +44,6 @@ devotion from superstition using evidence the author had gathered himself.
 The translation is made from the treatise as printed in the composite
 demonological volume issued at Frankfurt in 1581, from the Bibliothèque nationale
 de France. Two of its companion pieces in that volume, Nicolas Jacquier's
-*Flagellum haereticorum fascinariorum* and Thomas Erastus's *De lamiis*, are
-translated separately in this series.
+[*Flagellum Haereticorum Fascinariorum*](/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/) and Thomas Erastus's
+[*De Lamiis*](/works/thomas-erastus-de-lamiis/), are also in this corpus, as is Bartolomeo
+Spina's [*Quaestio de Strigibus*](/works/bartolomeo-spina-quaestio-de-strigibus/).

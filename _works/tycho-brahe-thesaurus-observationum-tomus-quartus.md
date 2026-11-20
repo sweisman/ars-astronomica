@@ -12,6 +12,7 @@ description: "The first English translation of Tycho Brahe's observation logs fo
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Quartus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "TIB Hannover Technische Informationsbibliothek, record 833138502, shelfmark Astr. 109513"
 source_url: "https://goobi.tib.eu/viewer/image/833138502/1/"
 translator_version: "2"

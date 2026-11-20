@@ -13,6 +13,7 @@ pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.
 seo_title: "Eratosthenes Batavus (1617): Snellius Measures the Earth"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "e-rara / ETH-Bibliothek Zürich, Rar 4426"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205"
 translator_version: "2"

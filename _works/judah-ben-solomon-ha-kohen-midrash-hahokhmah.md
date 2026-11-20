@@ -3,7 +3,7 @@ layout: work
 title: "Midrash HaḤokhmah"
 author: "R. Judah ben Solomon ha-Kohen"
 author_slug: "judah-ben-solomon-ha-kohen"
-date_label: "c. 1247 (Hebrew self-translation from the author's earlier Arabic; this is a 14th-c. manuscript copy)"
+date_label: "c. 1247"
 date_year: "1247"
 seo:
   type: WebPage
@@ -14,6 +14,7 @@ redirect_from:
   - "/works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/"
 footnotes: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "NLI Ktiv Palatina partner collection — DocId PNX_MANUSCRIPTS990000837360205171-1"
 source_url: "https://iiif.nli.org.il/IIIFv21/990000837360205171/manifest"
 translator_version: "2"

@@ -3,7 +3,7 @@ layout: work
 title: "Astronomiae Instauratae Mechanica"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
-date_label: "1598 (Wandsbek private printing; first publicly issued 1602 — see Edition)"
+date_label: "1598"
 date_year: "1598"
 seo:
   type: WebPage

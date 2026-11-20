@@ -12,6 +12,7 @@ description: "The first English translation of Tycho Brahe's observation logs fo
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Internet Archive — `operaomniaedidit12brahuoft`"
 source_url: "https://archive.org/details/operaomniaedidit12brahuoft"
 translator_version: "2"

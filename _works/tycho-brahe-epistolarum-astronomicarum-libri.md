@@ -12,6 +12,7 @@ description: "Before journals existed, astronomers argued by letter — Brahe's 
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Epistolarum_Astronomicarum_Libri_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Internet Archive — tychonisbrahedan00brah"
 source_url: "https://archive.org/details/tychonisbrahedan00brah"
 translator_version: "2"

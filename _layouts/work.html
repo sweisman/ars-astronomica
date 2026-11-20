@@ -53,6 +53,8 @@ comma, since the required ones above them are always present.
 {%- comment -%} date_label and source_title come from PDF metadata and may carry inline Markdown. {%- endcomment -%}
 <p><strong>{{ page.author }}</strong>{% if page.date_label %} &middot; {{ page.date_label | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% endif %}</p>
 
+{% if page.first_translation %}<p><em>{{ page.first_translation }}</em></p>{% endif %}
+
 <p>
   <a href="{{ page.pdf }}">Read the translation (PDF)</a>
   {% if page.footnotes %} &middot; <a href="{{ page.footnotes }}">Editorial footnotes (PDF)</a>{% endif %}

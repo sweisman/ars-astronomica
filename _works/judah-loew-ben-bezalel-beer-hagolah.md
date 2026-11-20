@@ -13,6 +13,7 @@ pdf: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf"
 footnotes: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First complete English translation"
 source_title: "Sefaria — Be'er HaGolah"
 source_url: "https://www.sefaria.org/Be%27er_HaGolah"
 translator_version: "2"
@@ -51,8 +52,4 @@ read, the other bringing the new science into Hebrew directly.
 
 ## About this edition
 
-The translation is made from the Sefaria text of *Be'er HaGolah*. The work is
-accompanied here by a separate volume of editorial footnotes.
-
-This work is **citation grade**: read complete against the source rather
-than sampled.
+The translation is made from the Sefaria text of *Be'er HaGolah*.

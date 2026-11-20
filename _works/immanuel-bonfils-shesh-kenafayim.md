@@ -12,6 +12,7 @@ description: "Six sets of tables — the 'wings' — for computing sun and moon,
 pdf: "https://books.arsastronomica.com/Immanuel_Bonfils_Shesh_Kenafayim.pdf"
 footnotes: "https://books.arsastronomica.com/Immanuel_Bonfils_Shesh_Kenafayim_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "University of Pennsylvania — Kislak Center, LJS 204 Digital Scriptorium DS129"
 source_url: "https://search.digital-scriptorium.org/catalog/DS129"
 translator_version: "2"

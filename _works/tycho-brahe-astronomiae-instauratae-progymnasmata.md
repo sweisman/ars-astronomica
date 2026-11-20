@@ -3,8 +3,8 @@ layout: work
 title: "Astronomiae Instauratae Progymnasmata"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
-date_label: "1610"
-date_year: "1610"
+date_label: "1602"
+date_year: "1602"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-astronomiae-instauratae-progymnasmata/
@@ -13,6 +13,7 @@ pdf: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Progy
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae_Progymnasmata_Footnotes.pdf"
 grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
+first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich — Rar 4153 DOI 10.3931/e-rara-315, object ID 84169"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-315"
 translator_version: "2"

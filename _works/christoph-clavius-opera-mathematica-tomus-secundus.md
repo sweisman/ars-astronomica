@@ -12,6 +12,7 @@ description: "Volume Two: Clavius's applied-mathematics curriculum — surveying
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Secundus.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Secundus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496545"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496545"
 translator_version: "2"

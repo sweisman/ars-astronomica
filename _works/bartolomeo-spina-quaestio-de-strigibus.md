@@ -12,6 +12,7 @@ description: "The first complete English translation of Bartolomeo Spina's Quaes
 pdf: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus.pdf"
 footnotes: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Bayerische Staatsbibliothek, Munich — shelfmark 4 Phys.m. 85 m, digital object `bsb10166744` URN urn:nbn:de:bvb:12-bsb10166744-2"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10166744"
 translator_version: "2"
@@ -45,4 +46,8 @@ and so whether it was a crime at all.
 
 The source is the Rome collected edition of 1576, from the Bavarian State
 Library, translated in full: the *Quaestio*, the *De praeeminentia* and the four
-*Apologiae*. No digitization of the 1523 Venice first edition was located.
+*Apologiae*. No digitization of the 1523 Venice first edition was located. Three other works on witchcraft are in
+this corpus: Nicolas Jacquier's
+[*Flagellum Haereticorum Fascinariorum*](/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/), Thomas Erastus's
+[*De Lamiis*](/works/thomas-erastus-de-lamiis/) and Martín de Arles's
+[*Tractatus de Superstitionibus*](/works/martin-de-arles-tractatus-de-superstitionibus/).

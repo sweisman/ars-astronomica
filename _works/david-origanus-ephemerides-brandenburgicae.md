@@ -12,6 +12,7 @@ description: "The first English translation of David Origanus's Brandenburg Ephe
 pdf: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae.pdf"
 footnotes: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb11218440"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb11218440"
 translator_version: "2"

@@ -12,6 +12,7 @@ description: "Kircher's twelve-book anatomy of the interior of the Earth — vol
 pdf: "https://books.arsastronomica.com/Athanasius_Kircher_Mundus_Subterraneus.pdf"
 footnotes: "https://books.arsastronomica.com/Athanasius_Kircher_Mundus_Subterraneus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Internet Archive — athanasiikircher12kirc"
 source_url: "https://archive.org/details/athanasiikircher12kirc"
 translator_version: "2"

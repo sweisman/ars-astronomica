@@ -12,6 +12,7 @@ description: "Volume Five: the architect of the Gregorian calendar explains it i
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quintus.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Quintus_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496548"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496548"
 translator_version: "2"

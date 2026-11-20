@@ -12,13 +12,14 @@ description: "The collected Latin works of Portugal's royal cosmographer, gather
 pdf: "https://books.arsastronomica.com/Pedro_Nunes_Opera.pdf"
 footnotes: "https://books.arsastronomica.com/Pedro_Nunes_Opera_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Internet Archive — `bub_gb_N7WJTq-MwDQC`"
 source_url: "https://archive.org/details/bub_gb_N7WJTq-MwDQC"
 translator_version: "2"
 ---
 
 The collected Latin works of Pedro Nunes (1502–1578), Cosmógrafo-Mor of Portugal
-and the leading mathematician of the age of discoveries, gathered at Basel in
+and the leading mathematician of the age of discoveries, gathered at Coimbra in
 1573 in an edition the author himself saw through the press. He was seventy-one,
 and this is the form in which he wanted his work to stand.
 
@@ -68,7 +69,7 @@ from an observation any careful watcher can make.
 
 ## About this edition
 
-The translated source is the 1573 Basel printing, the last and fullest gathering
+The translated source is the 1573 Coimbra printing, the last and fullest gathering
 of Nunes's Latin works and the one he prepared himself. The full title page runs
 to a paragraph, naming each treatise in turn; the volume is cited in the
 scholarship simply as his *Opera*.

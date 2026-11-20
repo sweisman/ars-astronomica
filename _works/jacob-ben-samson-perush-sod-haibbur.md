@@ -3,7 +3,7 @@ layout: work
 title: "Perush Sod HaIbbur"
 author: "Jacob ben Samson (attrib.)"
 author_slug: "jacob-ben-samson"
-date_label: "c. 1123 (composition; this is a later manuscript copy)"
+date_label: "c. 1123"
 date_year: "1123"
 seo:
   type: WebPage
@@ -14,6 +14,7 @@ redirect_from:
   - "/works/jacob-ben-samson-perush-sod-ha-ibbur/"
 footnotes: "https://books.arsastronomica.com/Jacob_ben_Samson_attrib_Perush_Sod_HaIbbur_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "OPenn UPenn-hosted digitization of the British Library manuscript — British Library Add MS 11639, ff. 511r–545v"
 source_url: "https://openn.library.upenn.edu/Data/0047/"
 translator_version: "2"
@@ -51,7 +52,7 @@ astronomy looked like when it was pursued inside it.
 
 ## About this edition
 
-The attribution is to Jacob bar Samson, an early-twelfth-century French scholar
+The attribution is to Jacob ben Samson, an early-twelfth-century French scholar
 of Rashi's school and an early Ashkenazi authority on the calendar; the corpus
 entry marks it *attrib.* accordingly. The text survives within the North French
 Hebrew Miscellany (British Library Add MS 11639), copied in northern France in

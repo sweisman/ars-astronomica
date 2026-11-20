@@ -12,6 +12,7 @@ description: "The first English translation of the Observationes Hassiacae (1618
 pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Observationes_Hassiacae.pdf"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Observationes_Hassiacae_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "A composite of two copies of the same edition. Pages 1–128: Bayerische Staatsbibliothek, 4 Eph.astr. 121 — bsb10501735"
 source_url: "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10501735-6"
 translator_version: "2"
@@ -42,4 +43,4 @@ The Bavarian State Library copy ends at printed page 116, although its title pag
 announces the Nuremberg observations, so this edition takes that second sequence
 from the copy in the ETH-Bibliothek Zürich. Snellius's own
 [*Eratosthenes Batavus*](/works/willebrord-snellius-eratosthenes-batavus/) is
-also in this collection.
+also in this corpus.

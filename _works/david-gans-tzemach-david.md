@@ -3,7 +3,7 @@ layout: work
 title: "Tzemach David"
 author: "David Gans"
 author_slug: "david-gans"
-date_label: "1592 (first composed/printed Prague, שנ\"ב; this is a later reprint)"
+date_label: "1592"
 date_year: "1592"
 seo:
   type: WebPage
@@ -12,6 +12,7 @@ description: "The first history book printed in Hebrew (Prague, 1592) — Jewish
 pdf: "https://books.arsastronomica.com/David_Gans_Tzemach_David.pdf"
 footnotes: "https://books.arsastronomica.com/David_Gans_Tzemach_David_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE90688593 record labeled \"Vol.1-3\""
 translator_version: "2"
 ---

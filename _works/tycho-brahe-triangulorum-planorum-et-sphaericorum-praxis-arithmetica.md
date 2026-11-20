@@ -3,7 +3,7 @@ layout: work
 title: "Triangulorum Planorum et Sphaericorum Praxis Arithmetica"
 author: "Tycho Brahe"
 author_slug: "tycho-brahe"
-date_label: "1591 (date on the manuscript; first issued 1886 — see Edition)"
+date_label: "1591"
 date_year: "1591"
 seo:
   type: WebPage
@@ -12,6 +12,7 @@ description: "The first English translation of Tycho Brahe's working manual of t
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Triangulorum_Planorum_et_Sphaericorum_Praxis_Arithmetica.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Triangulorum_Planorum_et_Sphaericorum_Praxis_Arithmetica_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek, 4 Math.p. 50 g — bsb11505776"
 source_url: "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11505776-7"
 translator_version: "2"

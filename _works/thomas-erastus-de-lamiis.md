@@ -12,6 +12,7 @@ description: "The first English translation of Thomas Erastus's Disputatio de la
 pdf: "https://books.arsastronomica.com/Thomas_Erastus_De_Lamiis.pdf"
 footnotes: "https://books.arsastronomica.com/Thomas_Erastus_De_Lamiis_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Gallica / Bibliothèque nationale de France — ark:/12148/bpt6k1093221 BnF, dép. Philosophie, histoire, sciences de l'homme, D-39257"
 source_url: "https://gallica.bnf.fr/ark:/12148/bpt6k1093221"
 translator_version: "2"
@@ -41,6 +42,7 @@ difference between what a demon can do and what nature permits.
 The translation is made from the composite demonological volume printed at
 Frankfurt in 1581 by Nikolaus Basse, from the Bibliothèque nationale de France.
 There the disputation sits, pointedly, beside the inquisitors it contradicts. Two
-of them, Nicolas Jacquier's *Flagellum haereticorum fascinariorum* and Martín de
-Arles's *Tractatus de superstitionibus*, are translated separately in this
-series.
+of them, Nicolas Jacquier's
+[*Flagellum Haereticorum Fascinariorum*](/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/) and Martín de Arles's
+[*Tractatus de Superstitionibus*](/works/martin-de-arles-tractatus-de-superstitionibus/), are also in this corpus, as is Bartolomeo
+Spina's [*Quaestio de Strigibus*](/works/bartolomeo-spina-quaestio-de-strigibus/).

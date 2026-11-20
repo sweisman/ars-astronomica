@@ -14,6 +14,7 @@ redirect_from:
   - "/works/avraham-ibn-ezra-keli-ha-nechoshet/"
 footnotes: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 20850"
 source_url: "https://hebrewbooks.org/20850"
 translator_version: "2"

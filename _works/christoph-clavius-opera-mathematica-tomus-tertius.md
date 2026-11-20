@@ -12,6 +12,7 @@ description: "Volume Three: Clavius's commentary on Sacrobosco's Sphere — the 
 pdf: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Clavius_Opera_Mathematica_Tomus_Tertius_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496546"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496546"
 translator_version: "2"

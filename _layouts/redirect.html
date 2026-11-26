@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{%- comment -%}
+  Overrides jekyll-redirect-from's built-in stub, which is identical except for
+  a <meta name="robots" content="noindex">. With noindex, Google files the old
+  URL as "Excluded by 'noindex' tag" and drops it; without it, the instant meta
+  refresh is read as a permanent redirect and the old URL's standing passes to
+  the new one. GitHub Pages cannot serve a real 301, so this is the closest
+  available.
+{%- endcomment -%}
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting&hellip;</title>
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <script>location="{{ page.redirect.to }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <h1>Redirecting&hellip;</h1>
+  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+</html>

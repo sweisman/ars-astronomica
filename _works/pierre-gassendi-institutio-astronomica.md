@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10049361 shelfmark 4 Astr.u. 64"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10049361"
-translator_version: "2"
 more_by_author:
   - title: "Tychonis Brahei Vita"
     url: "/works/pierre-gassendi-tychonis-brahei-vita/"

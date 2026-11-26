@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Library of Congress, Rare Book and Special Collections Division Rosenwald / rbctos, item 2017gen14228"
 source_url: "https://www.loc.gov/item/2017gen14228/"
-translator_version: "2"
 more_by_author:
   - title: "Machina Coelestis, Pars Prior"
     url: "/works/johannes-hevelius-machina-coelestis-pars-prior/"

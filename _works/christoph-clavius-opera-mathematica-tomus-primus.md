@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First complete English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496544"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496544"
-translator_version: "2"
 more_by_author:
   - title: "Opera Mathematica, Tomus Secundus (practical geometry, arithmetic, algebra)"
     url: "/works/christoph-clavius-opera-mathematica-tomus-secundus/"

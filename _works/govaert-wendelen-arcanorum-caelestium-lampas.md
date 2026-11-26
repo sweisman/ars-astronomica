@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10132909 shelfmark Phys.m. 216#Beibd.1, a tract bound into another volume"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10132909"
-translator_version: "2"
 more_by_author:
   - title: "Eclipses Lunares"
     url: "/works/govaert-wendelen-eclipses-lunares/"

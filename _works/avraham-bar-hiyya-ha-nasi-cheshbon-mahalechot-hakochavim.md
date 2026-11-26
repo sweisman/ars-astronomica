@@ -19,7 +19,6 @@ grade: "reading"
 first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 22072"
 source_url: "https://hebrewbooks.org/22072"
-translator_version: "2"
 more_by_author:
   - title: "Sefer HaIbbur"
     url: "/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/"

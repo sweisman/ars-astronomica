@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "e-rara / ETH-Bibliothek Zürich, Rar 4426"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205"
-translator_version: "2"
 more_by_author:
   - title: "Observationes Hassiacae"
     url: "/works/willebrord-snellius-observationes-hassiacae/"

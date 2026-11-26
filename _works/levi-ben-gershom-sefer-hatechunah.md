@@ -16,7 +16,6 @@ footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah_F
 grade: "reading"
 source_title: "Gallica / BnF — MS Hébreu 724, ff. 1r–257v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10544205n"
-translator_version: "2"
 more_by_author:
   - title: "Milchamot HaShem"
     url: "/works/levi-ben-gershom-milchamot-hashem/"

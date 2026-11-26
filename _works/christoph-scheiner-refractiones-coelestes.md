@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Universitätsbibliothek Freiburg — *diglit* `scheiner1617`"
 source_url: "https://dl.ub.uni-freiburg.de/diglit/scheiner1617"
-translator_version: "2"
 more_by_author:
   - title: "Rosa Ursina sive Sol"
     url: "/works/christoph-scheiner-rosa-ursina-sive-sol/"

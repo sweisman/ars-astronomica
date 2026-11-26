@@ -16,7 +16,6 @@ footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Astronomiae_Instauratae
 grade: "reading"
 source_title: "Internet Archive — gri_tychonisbrah00brah"
 source_url: "https://archive.org/details/gri_tychonisbrah00brah"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Progymnasmata"
     url: "/works/tycho-brahe-astronomiae-instauratae-progymnasmata/"

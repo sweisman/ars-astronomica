@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Gallica / BnF — Hébreu 1086"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b105395090"
-translator_version: "2"
 more_by_author:
   - title: "Keli Ḥemda"
     url: "/works/isaac-ibn-al-ahdab-keli-hemda/"

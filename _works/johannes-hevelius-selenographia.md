@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Austrian National Library Österreichische Nationalbibliothek, Austrian Books Online — `+Z197066105`"
 source_url: "http://data.onb.ac.at/ABO/%2BZ197066105"
-translator_version: "2"
 more_by_author:
   - title: "Cometographia"
     url: "/works/johannes-hevelius-cometographia/"

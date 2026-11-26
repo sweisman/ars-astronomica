@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich, shelfmark Rar 9471:1/2 — title-info 140180 the multivolume anchor, child record 141030"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/140180"
-translator_version: "2"
 more_by_author:
   - title: "Almagestum Novum, Tomus Primus, Pars Prior"
     url: "/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-prior/"

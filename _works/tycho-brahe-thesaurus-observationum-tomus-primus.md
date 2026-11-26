@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Internet Archive — `operaomniaedidit10brahuoft`"
 source_url: "https://archive.org/details/operaomniaedidit10brahuoft"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
     url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"

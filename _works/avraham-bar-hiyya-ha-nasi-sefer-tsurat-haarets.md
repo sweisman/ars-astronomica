@@ -18,7 +18,6 @@ footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsu
 grade: "reading"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
-translator_version: "2"
 more_by_author:
   - title: "Cheshbon Mahalechot HaKochavim"
     url: "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/"

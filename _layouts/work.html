@@ -41,10 +41,6 @@ that may carry inline Markdown, date_label and source_title, are rendered.
     {% else %}{{ source_html }}{% endif %}
   </dd>
   {% endif %}
-  {% if page.translator_version %}
-  <dt>Translator version</dt>
-  <dd>{{ page.translator_version | escape }}</dd>
-  {% endif %}
 </dl>
 
 {% if page.more_by_author %}

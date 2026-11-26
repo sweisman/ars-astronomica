@@ -16,7 +16,6 @@ footnotes: "https://books.arsastronomica.com/David_Gans_Tzemach_David_Footnotes.
 grade: "reading"
 first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE90688593 record labeled \"Vol.1-3\""
-translator_version: "2"
 more_by_author:
   - title: "Nechmad VeNa'im"
     url: "/works/david-gans-nechmad-venaim/"

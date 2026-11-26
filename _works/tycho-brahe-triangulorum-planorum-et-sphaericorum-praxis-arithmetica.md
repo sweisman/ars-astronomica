@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek, 4 Math.p. 50 g — bsb11505776"
 source_url: "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11505776-7"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
     url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"

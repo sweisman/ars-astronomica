@@ -18,7 +18,6 @@ grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich — title-info 141744"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/141744"
-translator_version: "2"
 more_by_author:
   - title: "Almagestum Novum, Tomus Primus, Pars Posterior"
     url: "/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-posterior/"

@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10496547"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10496547"
-translator_version: "2"
 more_by_author:
   - title: "Opera Mathematica, Tomus Primus (Euclid, Theodosius, trigonometry)"
     url: "/works/christoph-clavius-opera-mathematica-tomus-primus/"

@@ -18,7 +18,6 @@ grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb11348805"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb11348805"
-translator_version: "2"
 more_by_author:
   - title: "Refractiones Coelestes"
     url: "/works/christoph-scheiner-refractiones-coelestes/"

@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "A composite of two copies of the same edition. Pages 1–128: Bayerische Staatsbibliothek, 4 Eph.astr. 121 — bsb10501735"
 source_url: "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10501735-6"
-translator_version: "2"
 more_by_author:
   - title: "Eratosthenes Batavus"
     url: "/works/willebrord-snellius-eratosthenes-batavus/"

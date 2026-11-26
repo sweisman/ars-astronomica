@@ -16,7 +16,6 @@ footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem_F
 grade: "reading"
 source_title: "Internet Archive — sefermilamothash00leviuoft"
 source_url: "https://archive.org/details/sefermilamothash00leviuoft"
-translator_version: "2"
 more_by_author:
   - title: "Sefer HaTechunah"
     url: "/works/levi-ben-gershom-sefer-hatechunah/"

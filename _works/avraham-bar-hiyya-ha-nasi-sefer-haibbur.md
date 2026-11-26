@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 21292"
 source_url: "https://hebrewbooks.org/21292"
-translator_version: "2"
 more_by_author:
   - title: "Cheshbon Mahalechot HaKochavim"
     url: "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/"

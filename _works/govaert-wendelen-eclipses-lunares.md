@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb10873761 shelfmark Res/4 Astr.p. 491"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10873761"
-translator_version: "2"
 more_by_author:
   - title: "Arcanorum Caelestium Lampas"
     url: "/works/govaert-wendelen-arcanorum-caelestium-lampas/"

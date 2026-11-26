@@ -18,7 +18,6 @@ grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First complete English translation"
 source_title: "Internet Archive — bub_gb_2f-EqKxRN34C"
 source_url: "https://archive.org/details/bub_gb_2f-EqKxRN34C"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
     url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"

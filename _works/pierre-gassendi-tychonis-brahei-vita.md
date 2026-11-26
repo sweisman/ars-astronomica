@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "Internet Archive — den-kbd-pil-130018157889-001"
 source_url: "https://archive.org/details/den-kbd-pil-130018157889-001"
-translator_version: "2"
 more_by_author:
   - title: "Institutio Astronomica"
     url: "/works/pierre-gassendi-institutio-astronomica/"

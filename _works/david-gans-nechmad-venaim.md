@@ -19,7 +19,6 @@ grade: "citation"
 grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE32709375, shelfmark 35 V 1770 catalog NNL_ALEPH990011964030205171"
-translator_version: "2"
 more_by_author:
   - title: "Tzemach David"
     url: "/works/david-gans-tzemach-david/"

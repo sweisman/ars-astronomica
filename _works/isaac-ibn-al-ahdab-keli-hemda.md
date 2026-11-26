@@ -15,7 +15,6 @@ footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda_Footn
 grade: "reading"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 208r–215v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
-translator_version: "2"
 more_by_author:
   - title: "Orah Selulah"
     url: "/works/isaac-ibn-al-ahdab-orah-selulah/"

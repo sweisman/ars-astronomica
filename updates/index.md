@@ -74,7 +74,7 @@ permalink: /updates/
 
 - Added seven works to the corpus: *Midrash HaḤokhmah* (Judah ben Solomon ha-Kohen), Tomes I–IV of Clavius's *Opera Mathematica*, and *Refractiones Coelestes* and *Rosa Ursina sive Sol* (Scheiner).
 - *Sefer HaBris HaShalem* (Hurwitz) was retitled from its earlier heading, *Sefer HaBrit HaShalem*.
-- Every work has been reissued. The translator version is unchanged, but proper names and technical vocabulary are now held to one consistent form across the whole corpus; earlier printings let variants through.
+- Every work has been reissued. Proper names and technical vocabulary are now held to one consistent form across the whole corpus; earlier printings let variants through.
 
 **2026-07-05**
 
@@ -84,6 +84,6 @@ permalink: /updates/
 
 **2026-06-29**
 
-- All translations are now at **version 2**, regenerated with the corrected pipeline. Version 1 turned out to be an intermediate stage and has been superseded.
+- All translations have been regenerated with the corrected pipeline. The earlier texts turned out to be an intermediate stage and have been superseded.
 - Added new works to the corpus -- most recently *Sefer Tsurat HaArets*, *Kitsur HaMelakhat HaMispar*, and *Sefer Elim*.
 - Draft editorial footnotes are now available for download from a **footnotes** link beneath each work's title.

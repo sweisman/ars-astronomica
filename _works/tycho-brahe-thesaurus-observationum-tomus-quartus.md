@@ -17,7 +17,6 @@ grade: "reading"
 first_translation: "First English translation"
 source_title: "TIB Hannover Technische Informationsbibliothek, record 833138502, shelfmark Astr. 109513"
 source_url: "https://goobi.tib.eu/viewer/image/833138502/1/"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
     url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"

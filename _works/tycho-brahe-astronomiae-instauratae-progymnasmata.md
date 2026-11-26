@@ -18,7 +18,6 @@ grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich — Rar 4153 DOI 10.3931/e-rara-315, object ID 84169"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-315"
-translator_version: "2"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
     url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"

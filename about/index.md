@@ -23,7 +23,7 @@ It is useful to distinguish between two standards for this kind of work.
 
 Eight works in this corpus are citation grade: the Maharal's *Be'er HaGolah*, David Gans's *Nechmad VeNa'im*, Riccioli's *Astronomia Reformata*, R. Chaim Vital's *Sefer HaTechunah*, Tycho Brahe's *Astronomiae Instauratae Progymnasmata* and *De Mundi Aetherei Recentioribus Phaenomenis*, Scheiner's *Rosa Ursina sive Sol* and Longomontanus's *Astronomia Danica*, each read complete against its source. The rest are reading grade and are not offered as more. Where a passage in them carries scholarly weight, it should be checked against the original source, which is linked from every work's page.
 
-Grade is independent of the translator version recorded in the corpus table. The version tracks the rules that produced the English; the grade records how thoroughly the result was checked afterwards. *Be'er HaGolah* reached citation grade at an unchanged translator version -- the text was not retranslated, but independently re-read and adjudicated.
+Grade records how thoroughly a translation was checked, not how it was produced. *Be'er HaGolah* reached citation grade without being retranslated -- the text was independently re-read and adjudicated.
 
 The distinction matters because errors in machine-assisted translation are not necessarily visible in the finished prose. A system that misreads a word may still produce fluent English, and a bad reading can look just as natural as a good one. Fluency therefore says little by itself about reliability. The more important question is how the translation was checked.
 

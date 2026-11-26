@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Phénomènes psychiques au moment de la mort"
-author: "Ernesto Bozzano"
+work_author: "Ernesto Bozzano"
 author_slug: "ernesto-bozzano"
+author_url: "/authors/ernesto-bozzano/"
 date_label: "1923"
 date_year: "1923"
 seo:
   type: WebPage
 permalink: /works/ernesto-bozzano-phenomenes-psychiques-au-moment-de-la-mort/
 description: "Three studies classifying the phenomena reported at deathbeds: apparitions of the dead, objects moving at the moment of death, and music no one played."
+seo_title: "Phénomènes psychiques au moment de la mort (1923) by Ernesto Bozzano: English Translation"
 pdf: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort.pdf"
 footnotes: "https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First complete English translation"
 source_title: "Scribd"
 source_url: "https://www.scribd.com/document/695940648/Les-phenomenes-psychiques-au-moment-de-la-mort"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/ernesto-bozzano-phenomenes-psychiques-au-moment-de-la-mort/#book\",\"name\":\"Phénomènes psychiques au moment de la mort\",\"url\":\"https://arsastronomica.com/works/ernesto-bozzano-phenomenes-psychiques-au-moment-de-la-mort/\",\"inLanguage\":\"en\",\"description\":\"Three studies classifying the phenomena reported at deathbeds: apparitions of the dead, objects moving at the moment of death, and music no one played.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Phénomènes psychiques au moment de la mort\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/ernesto-bozzano/#person\"},\"datePublished\":\"1923\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Ernesto_Bozzano_Phenomenes_psychiques_au_moment_de_la_mort.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/ernesto-bozzano/#person\",\"name\":\"Ernesto Bozzano\",\"url\":\"https://arsastronomica.com/authors/ernesto-bozzano/\"},\"isBasedOn\":\"https://www.scribd.com/document/695940648/Les-phenomenes-psychiques-au-moment-de-la-mort\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ernesto Bozzano\",\"item\":\"https://arsastronomica.com/authors/ernesto-bozzano/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Phénomènes psychiques au moment de la mort\",\"item\":\"https://arsastronomica.com/works/ernesto-bozzano-phenomenes-psychiques-au-moment-de-la-mort/\"}]}]}"
 ---
 
 Ernesto Bozzano (1862–1943) of Genoa was among the most prolific psychical

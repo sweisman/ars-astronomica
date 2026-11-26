@@ -1,19 +1,26 @@
 ---
 layout: work
 title: "Keli Ḥemda"
-author: "R. Isaac ibn al-Aḥdab"
+work_author: "R. Isaac ibn al-Aḥdab"
 author_slug: "isaac-ibn-al-ahdab"
+author_url: "/authors/isaac-ibn-al-ahdab/"
 date_label: "late 14th c. (composition; this is a later manuscript copy)"
 seo:
   type: WebPage
 permalink: /works/isaac-ibn-al-ahdab-keli-hemda/
 description: "How to make and use the equatorium, an instrument that finds planetary positions geometrically rather than by table."
+seo_title: "Keli Ḥemda (late 14th c.) by Isaac ibn al-Aḥdab: English Translation"
 pdf: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda.pdf"
 footnotes: "https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda_Footnotes.pdf"
 grade: "reading"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 208r–215v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
 translator_version: "2"
+more_by_author:
+  - title: "Orah Selulah"
+    url: "/works/isaac-ibn-al-ahdab-orah-selulah/"
+    date: "c. 1396"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/isaac-ibn-al-ahdab-keli-hemda/#book\",\"name\":\"Keli Ḥemda\",\"url\":\"https://arsastronomica.com/works/isaac-ibn-al-ahdab-keli-hemda/\",\"inLanguage\":\"en\",\"description\":\"How to make and use the equatorium, an instrument that finds planetary positions geometrically rather than by table.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Keli Ḥemda\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/isaac-ibn-al-ahdab/#person\"}},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Isaac_ibn_al-Ahdab_Keli_Hemda.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/isaac-ibn-al-ahdab/#person\",\"name\":\"R. Isaac ibn al-Aḥdab\",\"url\":\"https://arsastronomica.com/authors/isaac-ibn-al-ahdab/\"},\"isBasedOn\":\"https://gallica.bnf.fr/ark:/12148/btv1b10539303j\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Isaac ibn al-Aḥdab\",\"item\":\"https://arsastronomica.com/authors/isaac-ibn-al-ahdab/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Keli Ḥemda\",\"item\":\"https://arsastronomica.com/works/isaac-ibn-al-ahdab-keli-hemda/\"}]}]}"
 ---
 
 Isaac ibn al-Aḥdab's *Keli Ḥemda* ("The Precious Instrument") — a description of

@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Sefer HaIbbur"
-author: "R. Avraham bar Ḥiyya ha-Nasi"
+work_author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
+author_url: "/authors/avraham-bar-hiyya-ha-nasi/"
 date_label: "c. 1122"
 date_year: "1122"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/
 description: "The earliest systematic Hebrew treatise on the science of the calendar, and the model later calendar scholars followed for centuries."
+seo_title: "Sefer HaIbbur (c. 1122) by Avraham bar Ḥiyya ha-Nasi: English Translation"
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,14 @@ first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 21292"
 source_url: "https://hebrewbooks.org/21292"
 translator_version: "2"
+more_by_author:
+  - title: "Cheshbon Mahalechot HaKochavim"
+    url: "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/"
+    date: "c. 1136"
+  - title: "Sefer Tsurat HaArets"
+    url: "/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/"
+    date: "c. 1132"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/#book\",\"name\":\"Sefer HaIbbur\",\"url\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/\",\"inLanguage\":\"en\",\"description\":\"The earliest systematic Hebrew treatise on the science of the calendar, and the model later calendar scholars followed for centuries.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Sefer HaIbbur\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\"},\"datePublished\":\"1122\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_HaIbbur.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\",\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"url\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},\"isBasedOn\":\"https://hebrewbooks.org/21292\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"item\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sefer HaIbbur\",\"item\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/\"}]}]}"
 ---
 
 The earliest systematic Hebrew treatise on the science of the calendar, written in

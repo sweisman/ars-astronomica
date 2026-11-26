@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{%- comment -%}
+An author's page. The life and the list of works are the page body, written by
+publish.py from content/authors/ in the private repo; this adds only the frame.
+{%- endcomment -%}
+<nav aria-label="Breadcrumb">
+  <a href="{{ "/" | relative_url }}">Ars Astronomica</a> &rsaquo;
+  <a href="{{ "/authors/" | relative_url }}">Authors</a> &rsaquo;
+  <span>{{ page.title | escape }}</span>
+</nav>
+
+<h1>{{ page.title | escape }}</h1>
+
+{% if page.dates or page.aka %}
+<p>
+  {%- if page.dates %}<strong>{{ page.dates | escape }}</strong>{% endif %}
+  {%- if page.dates and page.aka %} &middot; {% endif %}
+  {%- if page.aka %}Also known as {{ page.aka | escape }}{% endif -%}
+</p>
+{% endif %}
+
+{{ content }}
+
+<p><a href="{{ "/authors/" | relative_url }}">&larr; All authors</a></p>

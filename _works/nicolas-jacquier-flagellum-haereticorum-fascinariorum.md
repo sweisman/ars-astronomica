@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Flagellum Haereticorum Fascinariorum"
-author: "Nicolas Jacquier"
+work_author: "Nicolas Jacquier"
 author_slug: "nicolas-jacquier"
+author_url: "/authors/nicolas-jacquier/"
 date_label: "1458"
 date_year: "1458"
 seo:
   type: WebPage
 permalink: /works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/
 description: "An inquisitor argues, against the Canon Episcopi, that the witches' sabbath is bodily, real and heretical."
+seo_title: "Flagellum Haereticorum Fascinariorum (1458) by Nicolas Jacquier: English Translation"
 pdf: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum.pdf"
 footnotes: "https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First complete English translation"
 source_title: "Gallica / Bibliothèque nationale de France — ark:/12148/bpt6k1093221 BnF, dép. Philosophie, histoire, sciences de l'homme, D-39257"
 source_url: "https://gallica.bnf.fr/ark:/12148/bpt6k1093221"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/#book\",\"name\":\"Flagellum Haereticorum Fascinariorum\",\"url\":\"https://arsastronomica.com/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/\",\"inLanguage\":\"en\",\"description\":\"An inquisitor argues, against the Canon Episcopi, that the witches' sabbath is bodily, real and heretical.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Flagellum Haereticorum Fascinariorum\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/nicolas-jacquier/#person\"},\"datePublished\":\"1458\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Nicolas_Jacquier_Flagellum_Haereticorum_Fascinariorum.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/nicolas-jacquier/#person\",\"name\":\"Nicolas Jacquier\",\"url\":\"https://arsastronomica.com/authors/nicolas-jacquier/\"},\"isBasedOn\":\"https://gallica.bnf.fr/ark:/12148/bpt6k1093221\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Nicolas Jacquier\",\"item\":\"https://arsastronomica.com/authors/nicolas-jacquier/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Flagellum Haereticorum Fascinariorum\",\"item\":\"https://arsastronomica.com/works/nicolas-jacquier-flagellum-haereticorum-fascinariorum/\"}]}]}"
 ---
 
 Nicolas Jacquier (d. 1472) was a Dominican inquisitor who had sat on the Arras

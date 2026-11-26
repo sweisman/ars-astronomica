@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Sefer Tsurat HaArets"
-author: "R. Avraham bar Ḥiyya ha-Nasi"
+work_author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
+author_url: "/authors/avraham-bar-hiyya-ha-nasi/"
 date_label: "c. 1132 (composed; first printed 1546 — see Edition)"
 date_year: "1132"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/
 description: "One of the first scientific works written in Hebrew rather than Arabic: the shape of the cosmos, the paths of Sun and Moon, and the inhabited world."
+seo_title: "Sefer Tsurat HaArets (c. 1132) by Avraham bar Ḥiyya ha-Nasi: English Translation"
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_HaArets.pdf"
 redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-ha-arets/"
@@ -17,6 +19,14 @@ grade: "reading"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
 translator_version: "2"
+more_by_author:
+  - title: "Cheshbon Mahalechot HaKochavim"
+    url: "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/"
+    date: "c. 1136"
+  - title: "Sefer HaIbbur"
+    url: "/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/"
+    date: "c. 1122"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/#book\",\"name\":\"Sefer Tsurat HaArets\",\"url\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/\",\"inLanguage\":\"en\",\"description\":\"One of the first scientific works written in Hebrew rather than Arabic: the shape of the cosmos, the paths of Sun and Moon, and the inhabited world.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Sefer Tsurat HaArets\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\"},\"datePublished\":\"1132\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_HaArets.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\",\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"url\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},\"isBasedOn\":\"https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"item\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sefer Tsurat HaArets\",\"item\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/\"}]}]}"
 ---
 
 A foundational work of medieval cosmology that lays out the shape of the cosmos

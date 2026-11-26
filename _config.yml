@@ -15,11 +15,32 @@ plugins:
 twitter:
   username: ArsAstronomica
   card: summary_large_image
-# One page per work, so each book has its own indexable URL. Pages are
-# generated from the private repo by publish.py; do not edit _works/ by hand.
+# The profiles that are the same entity as this site, for jekyll-seo-tag's
+# structured data. No `logo` here on purpose: with one set, the plugin adds a
+# publisher to every page and names it after that page's author. The front
+# page's own structured data, written by publish.py, carries the logo.
+social:
+  name: Ars Astronomica
+  links:
+    - https://x.com/ArsAstronomica
+# One page per work and one per author, so each has its own indexable URL.
+# Pages are generated from the private repo by publish.py, which also sets
+# each one's permalink; do not edit _works/ or _authors/ by hand.
 collections:
   works:
     output: true
+  authors:
+    output: true
+# The front page is index.md. README.md is the same text for readers of the
+# GitHub repo, and serving it too would publish a second, unstyled copy of the
+# front page at /README.md.
+exclude:
+  - README.md
+  - LICENSE
+# The redirect stubs are all the plugin needs to emit; /redirects.json is a
+# machine-readable map of them that nothing here reads.
+redirect_from:
+  json: false
 defaults:
   - scope:
       path: ""

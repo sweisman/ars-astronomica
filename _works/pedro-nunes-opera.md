@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Opera (Coimbra, 1573)"
-author: "Pedro Nunes"
+work_author: "Pedro Nunes"
 author_slug: "pedro-nunes"
+author_url: "/authors/pedro-nunes/"
 date_label: "1573"
 date_year: "1573"
 seo:
   type: WebPage
 permalink: /works/pedro-nunes-opera/
 description: "The mathematics of sailing a constant bearing, the twilight treatise that introduced the nonius, and a demolition of Oronce Finé."
+seo_title: "Opera (1573) by Pedro Nunes: English Translation"
 pdf: "https://books.arsastronomica.com/Pedro_Nunes_Opera.pdf"
 footnotes: "https://books.arsastronomica.com/Pedro_Nunes_Opera_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First English translation"
 source_title: "Internet Archive — `bub_gb_N7WJTq-MwDQC`"
 source_url: "https://archive.org/details/bub_gb_N7WJTq-MwDQC"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/pedro-nunes-opera/#book\",\"name\":\"Opera (Coimbra, 1573)\",\"url\":\"https://arsastronomica.com/works/pedro-nunes-opera/\",\"inLanguage\":\"en\",\"description\":\"The mathematics of sailing a constant bearing, the twilight treatise that introduced the nonius, and a demolition of Oronce Finé.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Opera (Coimbra, 1573)\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/pedro-nunes/#person\"},\"datePublished\":\"1573\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Pedro_Nunes_Opera.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/pedro-nunes/#person\",\"name\":\"Pedro Nunes\",\"url\":\"https://arsastronomica.com/authors/pedro-nunes/\"},\"isBasedOn\":\"https://archive.org/details/bub_gb_N7WJTq-MwDQC\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pedro Nunes\",\"item\":\"https://arsastronomica.com/authors/pedro-nunes/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Opera (Coimbra, 1573)\",\"item\":\"https://arsastronomica.com/works/pedro-nunes-opera/\"}]}]}"
 ---
 
 The collected Latin works of Pedro Nunes (1502–1578), Cosmógrafo-Mor of Portugal

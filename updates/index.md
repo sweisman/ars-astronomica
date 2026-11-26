@@ -87,5 +87,3 @@ permalink: /updates/
 - All translations are now at **version 2**, regenerated with the corrected pipeline. Version 1 turned out to be an intermediate stage and has been superseded.
 - Added new works to the corpus -- most recently *Sefer Tsurat HaArets*, *Kitsur HaMelakhat HaMispar*, and *Sefer Elim*.
 - Draft editorial footnotes are now available for download from a **footnotes** link beneath each work's title.
-
-<p><a href="/">&larr; Ars Astronomica</a></p>

@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Tychonis Brahei Vita"
-author: "Pierre Gassendi"
+work_author: "Pierre Gassendi"
 author_slug: "pierre-gassendi"
+author_url: "/authors/pierre-gassendi/"
 date_label: "1654"
 date_year: "1654"
 seo:
   type: WebPage
 permalink: /works/pierre-gassendi-tychonis-brahei-vita/
 description: "Tycho Brahe's life, from Hven and its instruments to the final Prague years, with shorter lives of Copernicus, Peurbach and Regiomontanus."
+seo_title: "Tychonis Brahei Vita (1654) by Pierre Gassendi: English Translation"
 pdf: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita.pdf"
 footnotes: "https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,11 @@ first_translation: "First English translation"
 source_title: "Internet Archive — den-kbd-pil-130018157889-001"
 source_url: "https://archive.org/details/den-kbd-pil-130018157889-001"
 translator_version: "2"
+more_by_author:
+  - title: "Institutio Astronomica"
+    url: "/works/pierre-gassendi-institutio-astronomica/"
+    date: "1647"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/pierre-gassendi-tychonis-brahei-vita/#book\",\"name\":\"Tychonis Brahei Vita\",\"url\":\"https://arsastronomica.com/works/pierre-gassendi-tychonis-brahei-vita/\",\"inLanguage\":\"en\",\"description\":\"Tycho Brahe's life, from Hven and its instruments to the final Prague years, with shorter lives of Copernicus, Peurbach and Regiomontanus.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Tychonis Brahei Vita\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/pierre-gassendi/#person\"},\"datePublished\":\"1654\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Pierre_Gassendi_Tychonis_Brahei_Vita.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/pierre-gassendi/#person\",\"name\":\"Pierre Gassendi\",\"url\":\"https://arsastronomica.com/authors/pierre-gassendi/\"},\"isBasedOn\":\"https://archive.org/details/den-kbd-pil-130018157889-001\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pierre Gassendi\",\"item\":\"https://arsastronomica.com/authors/pierre-gassendi/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tychonis Brahei Vita\",\"item\":\"https://arsastronomica.com/works/pierre-gassendi-tychonis-brahei-vita/\"}]}]}"
 ---
 
 A life of the Danish astronomer Tycho Brahe (1546–1601): his fabled observatory

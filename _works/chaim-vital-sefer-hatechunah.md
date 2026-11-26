@@ -1,13 +1,15 @@
 ---
 layout: work
 title: "Sefer HaTechunah"
-author: "Chaim Vital"
+work_author: "Chaim Vital"
 author_slug: "chaim-vital"
+author_url: "/authors/chaim-vital/"
 date_label: "late 16th c."
 seo:
   type: WebPage
 permalink: /works/chaim-vital-sefer-hatechunah/
 description: "The astronomy of the Ari's foremost disciple, edited from the earliest known manuscript, with the printed tradition collated beside it."
+seo_title: "Sefer HaTechunah (late 16th c.) by Chaim Vital: English Translation"
 pdf: "https://books.arsastronomica.com/Chaim_Vital_Sefer_HaTechunah.pdf"
 redirect_from:
   - "/works/chaim-vital-sefer-ha-techunah/"
@@ -18,6 +20,7 @@ first_translation: "First English translation"
 source_title: "Chester Beatty Library"
 source_url: "https://viewer.cbl.ie/viewer/image/Heb_762/5/LOG_0000/"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/chaim-vital-sefer-hatechunah/#book\",\"name\":\"Sefer HaTechunah\",\"url\":\"https://arsastronomica.com/works/chaim-vital-sefer-hatechunah/\",\"inLanguage\":\"en\",\"description\":\"The astronomy of the Ari's foremost disciple, edited from the earliest known manuscript, with the printed tradition collated beside it.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Sefer HaTechunah\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/chaim-vital/#person\"}},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Chaim_Vital_Sefer_HaTechunah.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/chaim-vital/#person\",\"name\":\"Chaim Vital\",\"url\":\"https://arsastronomica.com/authors/chaim-vital/\"},\"isBasedOn\":\"https://viewer.cbl.ie/viewer/image/Heb_762/5/LOG_0000/\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Chaim Vital\",\"item\":\"https://arsastronomica.com/authors/chaim-vital/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sefer HaTechunah\",\"item\":\"https://arsastronomica.com/works/chaim-vital-sefer-hatechunah/\"}]}]}"
 ---
 
 R. Chaim Vital (1542–1620) is remembered as the foremost disciple of R. Isaac

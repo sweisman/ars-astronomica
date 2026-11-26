@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Nechmad VeNa'im"
-author: "David Gans"
+work_author: "David Gans"
 author_slug: "david-gans"
+author_url: "/authors/david-gans/"
 date_label: "c. 1613"
 date_year: "1613"
 seo:
   type: WebPage
 permalink: /works/david-gans-nechmad-venaim/
 description: "A Hebrew textbook of astronomy by a man who visited Tycho Brahe's observatory, with the author's own preface restored from a single surviving prospectus."
+seo_title: "Nechmad VeNa'im (c. 1613) by David Gans: English Translation"
 pdf: "https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf"
 redirect_from:
   - "/works/david-gans-nechmad-ve-naim/"
@@ -18,6 +20,11 @@ grade_url: "https://arsastronomica.com/about/#reading-grade-not-citation-grade"
 first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE32709375, shelfmark 35 V 1770 catalog NNL_ALEPH990011964030205171"
 translator_version: "2"
+more_by_author:
+  - title: "Tzemach David"
+    url: "/works/david-gans-tzemach-david/"
+    date: "1592"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/david-gans-nechmad-venaim/#book\",\"name\":\"Nechmad VeNa'im\",\"url\":\"https://arsastronomica.com/works/david-gans-nechmad-venaim/\",\"inLanguage\":\"en\",\"description\":\"A Hebrew textbook of astronomy by a man who visited Tycho Brahe's observatory, with the author's own preface restored from a single surviving prospectus.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Nechmad VeNa'im\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/david-gans/#person\"},\"datePublished\":\"1613\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/David_Gans_Nechmad_VeNaim.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/david-gans/#person\",\"name\":\"David Gans\",\"url\":\"https://arsastronomica.com/authors/david-gans/\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"David Gans\",\"item\":\"https://arsastronomica.com/authors/david-gans/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Nechmad VeNa'im\",\"item\":\"https://arsastronomica.com/works/david-gans-nechmad-venaim/\"}]}]}"
 ---
 
 A Hebrew textbook of astronomy that presents the Ptolemaic model of the heavens

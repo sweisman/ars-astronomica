@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Ephemerides Brandenburgicae"
-author: "David Origanus"
+work_author: "David Origanus"
 author_slug: "david-origanus"
+author_url: "/authors/david-origanus/"
 date_label: "1609"
 date_year: "1609"
 seo:
   type: WebPage
 permalink: /works/david-origanus-ephemerides-brandenburgicae/
 description: "Sixty years of daily positions of the Sun, Moon and planets, computed on both Tychonic and Copernican foundations."
+seo_title: "Ephemerides Brandenburgicae (1609) by David Origanus: English Translation"
 pdf: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae.pdf"
 footnotes: "https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb11218440"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb11218440"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/david-origanus-ephemerides-brandenburgicae/#book\",\"name\":\"Ephemerides Brandenburgicae\",\"url\":\"https://arsastronomica.com/works/david-origanus-ephemerides-brandenburgicae/\",\"inLanguage\":\"en\",\"description\":\"Sixty years of daily positions of the Sun, Moon and planets, computed on both Tychonic and Copernican foundations.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Ephemerides Brandenburgicae\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/david-origanus/#person\"},\"datePublished\":\"1609\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/David_Origanus_Ephemerides_Brandenburgicae.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/david-origanus/#person\",\"name\":\"David Origanus\",\"url\":\"https://arsastronomica.com/authors/david-origanus/\"},\"isBasedOn\":\"https://www.digitale-sammlungen.de/en/view/bsb11218440\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"David Origanus\",\"item\":\"https://arsastronomica.com/authors/david-origanus/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ephemerides Brandenburgicae\",\"item\":\"https://arsastronomica.com/works/david-origanus-ephemerides-brandenburgicae/\"}]}]}"
 ---
 
 David Origanus (David Tost, 1558–1628) taught Greek and mathematics at the

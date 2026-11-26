@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Quaestio de Strigibus"
-author: "Bartolomeo Spina"
+work_author: "Bartolomeo Spina"
 author_slug: "bartolomeo-spina"
+author_url: "/authors/bartolomeo-spina/"
 date_label: "1523"
 date_year: "1523"
 seo:
   type: WebPage
 permalink: /works/bartolomeo-spina-quaestio-de-strigibus/
 description: "The Dominican case that witches fly bodily to their gatherings and must be burned as heretics, with four replies to a jurist who doubted it."
+seo_title: "Quaestio de Strigibus (1523) by Bartolomeo Spina: English Translation"
 pdf: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus.pdf"
 footnotes: "https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First complete English translation"
 source_title: "Bayerische Staatsbibliothek, Munich — shelfmark 4 Phys.m. 85 m, digital object `bsb10166744` URN urn:nbn:de:bvb:12-bsb10166744-2"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb10166744"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/bartolomeo-spina-quaestio-de-strigibus/#book\",\"name\":\"Quaestio de Strigibus\",\"url\":\"https://arsastronomica.com/works/bartolomeo-spina-quaestio-de-strigibus/\",\"inLanguage\":\"en\",\"description\":\"The Dominican case that witches fly bodily to their gatherings and must be burned as heretics, with four replies to a jurist who doubted it.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Quaestio de Strigibus\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/bartolomeo-spina/#person\"},\"datePublished\":\"1523\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Bartolomeo_Spina_Quaestio_de_Strigibus.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/bartolomeo-spina/#person\",\"name\":\"Bartolomeo Spina\",\"url\":\"https://arsastronomica.com/authors/bartolomeo-spina/\"},\"isBasedOn\":\"https://www.digitale-sammlungen.de/en/view/bsb10166744\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Bartolomeo Spina\",\"item\":\"https://arsastronomica.com/authors/bartolomeo-spina/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Quaestio de Strigibus\",\"item\":\"https://arsastronomica.com/works/bartolomeo-spina-quaestio-de-strigibus/\"}]}]}"
 ---
 
 Bartolomeo Spina (c. 1474–1546) was a Dominican theologian who would become

@@ -1,13 +1,14 @@
 ---
 layout: work
 title: "Mishnat HaMiddot"
-author: "Unknown"
+work_author: "Unknown"
 author_slug: "unknown"
 date_label: "c. 150–850 CE"
 seo:
   type: WebPage
 permalink: /works/unknown-mishnat-hamiddot/
 description: "The earliest known Hebrew geometry: terse rules of measurement, each with a figure and a worked example, and an early value for π. Its date is disputed."
+seo_title: "Mishnat HaMiddot (c. 150–850 CE): English Translation"
 pdf: "https://books.arsastronomica.com/Unknown_Mishnat_HaMiddot.pdf"
 redirect_from:
   - "/works/unknown-mishnat-ha-middot/"
@@ -16,6 +17,7 @@ grade: "reading"
 source_title: "HebrewBooks.org — ID 39044"
 source_url: "https://hebrewbooks.org/39044"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/unknown-mishnat-hamiddot/#book\",\"name\":\"Mishnat HaMiddot\",\"url\":\"https://arsastronomica.com/works/unknown-mishnat-hamiddot/\",\"inLanguage\":\"en\",\"description\":\"The earliest known Hebrew geometry: terse rules of measurement, each with a figure and a worked example, and an early value for π. Its date is disputed.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Mishnat HaMiddot\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Unknown_Mishnat_HaMiddot.pdf\",\"encodingFormat\":\"application/pdf\"},\"isBasedOn\":\"https://hebrewbooks.org/39044\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Works\",\"item\":\"https://arsastronomica.com/works/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Mishnat HaMiddot\",\"item\":\"https://arsastronomica.com/works/unknown-mishnat-hamiddot/\"}]}]}"
 ---
 
 The earliest known Hebrew treatise on geometry — a concise practical manual of

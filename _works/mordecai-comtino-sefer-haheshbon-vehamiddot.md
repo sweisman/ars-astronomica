@@ -1,13 +1,15 @@
 ---
 layout: work
 title: "Sefer HaḤeshbon VeHaMiddot"
-author: "R. Mordecai Comtino"
+work_author: "R. Mordecai Comtino"
 author_slug: "mordecai-comtino"
+author_url: "/authors/mordecai-comtino/"
 date_label: "15th c."
 seo:
   type: WebPage
 permalink: /works/mordecai-comtino-sefer-haheshbon-vehamiddot/
 description: "Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites."
+seo_title: "Sefer HaḤeshbon VeHaMiddot (15th c.) by Mordecai Comtino: English Translation"
 pdf: "https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot.pdf"
 redirect_from:
   - "/works/mordecai-comtino-sefer-ha-heshbon-ve-ha-middot/"
@@ -17,6 +19,7 @@ first_translation: "First complete English translation"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 26r–65r"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/mordecai-comtino-sefer-haheshbon-vehamiddot/#book\",\"name\":\"Sefer HaḤeshbon VeHaMiddot\",\"url\":\"https://arsastronomica.com/works/mordecai-comtino-sefer-haheshbon-vehamiddot/\",\"inLanguage\":\"en\",\"description\":\"Arithmetic and practical geometry from fifteenth-century Constantinople, by a Rabbanite scholar who taught Karaites.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Sefer HaḤeshbon VeHaMiddot\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/mordecai-comtino/#person\"}},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Mordecai_Comtino_Sefer_HaHeshbon_VeHaMiddot.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/mordecai-comtino/#person\",\"name\":\"R. Mordecai Comtino\",\"url\":\"https://arsastronomica.com/authors/mordecai-comtino/\"},\"isBasedOn\":\"https://gallica.bnf.fr/ark:/12148/btv1b10539303j\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Mordecai Comtino\",\"item\":\"https://arsastronomica.com/authors/mordecai-comtino/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sefer HaḤeshbon VeHaMiddot\",\"item\":\"https://arsastronomica.com/works/mordecai-comtino-sefer-haheshbon-vehamiddot/\"}]}]}"
 ---
 
 An instructional treatise on arithmetic and practical geometry by Mordecai ben

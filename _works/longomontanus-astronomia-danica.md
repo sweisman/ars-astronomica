@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Astronomia Danica"
-author: "Longomontanus"
+work_author: "Longomontanus"
 author_slug: "longomontanus"
+author_url: "/authors/longomontanus/"
 date_label: "1622"
 date_year: "1622"
 seo:
   type: WebPage
 permalink: /works/longomontanus-astronomia-danica/
 description: "The fullest account of the Tychonic system, by the assistant who computed at Tycho's side, with tables, trigonometry, new stars and comets."
+seo_title: "Astronomia Danica (1622) by Longomontanus: English Translation"
 pdf: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica.pdf"
 footnotes: "https://books.arsastronomica.com/Longomontanus_Astronomia_Danica_Footnotes.pdf"
 grade: "citation"
@@ -17,6 +19,7 @@ first_translation: "First English translation"
 source_title: "Internet Archive — astronomiadanica00long"
 source_url: "https://archive.org/details/astronomiadanica00long"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/longomontanus-astronomia-danica/#book\",\"name\":\"Astronomia Danica\",\"url\":\"https://arsastronomica.com/works/longomontanus-astronomia-danica/\",\"inLanguage\":\"en\",\"description\":\"The fullest account of the Tychonic system, by the assistant who computed at Tycho's side, with tables, trigonometry, new stars and comets.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Astronomia Danica\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/longomontanus/#person\"},\"datePublished\":\"1622\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Longomontanus_Astronomia_Danica.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/longomontanus/#person\",\"name\":\"Longomontanus\",\"url\":\"https://arsastronomica.com/authors/longomontanus/\"},\"isBasedOn\":\"https://archive.org/details/astronomiadanica00long\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Longomontanus\",\"item\":\"https://arsastronomica.com/authors/longomontanus/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Astronomia Danica\",\"item\":\"https://arsastronomica.com/works/longomontanus-astronomia-danica/\"}]}]}"
 ---
 
 A comprehensive textbook of astronomy and the definitive technical account of

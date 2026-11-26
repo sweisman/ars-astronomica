@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Cheshbon Mahalechot HaKochavim"
-author: "R. Avraham bar Ḥiyya ha-Nasi"
+work_author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
+author_url: "/authors/avraham-bar-hiyya-ha-nasi/"
 date_label: "c. 1136"
 date_year: "1136"
 seo:
   type: WebPage
 permalink: /works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/
 description: "Twenty gates of mathematical astronomy in Hebrew, from arithmetic and chords to the planets' courses and the conversion of Hebrew, Muslim and Roman eras."
+seo_title: "Cheshbon Mahalechot HaKochavim (c. 1136) by Avraham bar Ḥiyya ha-Nasi: English Translation"
 pdf: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_HaKochavim.pdf"
 redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-ha-kochavim/"
@@ -18,6 +20,14 @@ first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 22072"
 source_url: "https://hebrewbooks.org/22072"
 translator_version: "2"
+more_by_author:
+  - title: "Sefer HaIbbur"
+    url: "/works/avraham-bar-hiyya-ha-nasi-sefer-haibbur/"
+    date: "c. 1122"
+  - title: "Sefer Tsurat HaArets"
+    url: "/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-haarets/"
+    date: "c. 1132"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/#book\",\"name\":\"Cheshbon Mahalechot HaKochavim\",\"url\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/\",\"inLanguage\":\"en\",\"description\":\"Twenty gates of mathematical astronomy in Hebrew, from arithmetic and chords to the planets' courses and the conversion of Hebrew, Muslim and Roman eras.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Cheshbon Mahalechot HaKochavim\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\"},\"datePublished\":\"1136\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Cheshbon_Mahalechot_HaKochavim.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/#person\",\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"url\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},\"isBasedOn\":\"https://hebrewbooks.org/22072\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Avraham bar Ḥiyya ha-Nasi\",\"item\":\"https://arsastronomica.com/authors/avraham-bar-hiyya-ha-nasi/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cheshbon Mahalechot HaKochavim\",\"item\":\"https://arsastronomica.com/works/avraham-bar-hiyya-ha-nasi-cheshbon-mahalechot-hakochavim/\"}]}]}"
 ---
 
 A medieval Hebrew treatise on mathematical astronomy and the computation of

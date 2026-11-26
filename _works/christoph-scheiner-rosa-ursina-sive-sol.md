@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Rosa Ursina sive Sol"
-author: "Christoph Scheiner"
+work_author: "Christoph Scheiner"
 author_slug: "christoph-scheiner"
+author_url: "/authors/christoph-scheiner/"
 date_label: "1630"
 date_year: "1630"
 seo:
   type: WebPage
 permalink: /works/christoph-scheiner-rosa-ursina-sive-sol/
 description: "The first comprehensive treatise on sunspots: proof that the Sun rotates, the tilt of its axis, and a quarrel with Galileo over who saw the spots first."
+seo_title: "Rosa Ursina sive Sol (1630) by Christoph Scheiner: English Translation"
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol_Footnotes.pdf"
 grade: "citation"
@@ -17,6 +19,11 @@ first_translation: "First English translation"
 source_title: "Bayerische Staatsbibliothek / MDZ — bsb11348805"
 source_url: "https://www.digitale-sammlungen.de/en/view/bsb11348805"
 translator_version: "2"
+more_by_author:
+  - title: "Refractiones Coelestes"
+    url: "/works/christoph-scheiner-refractiones-coelestes/"
+    date: "1617"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/christoph-scheiner-rosa-ursina-sive-sol/#book\",\"name\":\"Rosa Ursina sive Sol\",\"url\":\"https://arsastronomica.com/works/christoph-scheiner-rosa-ursina-sive-sol/\",\"inLanguage\":\"en\",\"description\":\"The first comprehensive treatise on sunspots: proof that the Sun rotates, the tilt of its axis, and a quarrel with Galileo over who saw the spots first.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Rosa Ursina sive Sol\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/christoph-scheiner/#person\"},\"datePublished\":\"1630\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Christoph_Scheiner_Rosa_Ursina_sive_Sol.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/christoph-scheiner/#person\",\"name\":\"Christoph Scheiner\",\"url\":\"https://arsastronomica.com/authors/christoph-scheiner/\"},\"isBasedOn\":\"https://www.digitale-sammlungen.de/en/view/bsb11348805\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Christoph Scheiner\",\"item\":\"https://arsastronomica.com/authors/christoph-scheiner/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Rosa Ursina sive Sol\",\"item\":\"https://arsastronomica.com/works/christoph-scheiner-rosa-ursina-sive-sol/\"}]}]}"
 ---
 
 *Rosa Ursina* is the first comprehensive treatise on sunspots and a foundational

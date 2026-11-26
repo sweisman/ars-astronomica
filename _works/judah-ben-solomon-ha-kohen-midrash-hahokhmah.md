@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Midrash HaḤokhmah"
-author: "R. Judah ben Solomon ha-Kohen"
+work_author: "R. Judah ben Solomon ha-Kohen"
 author_slug: "judah-ben-solomon-ha-kohen"
+author_url: "/authors/judah-ben-solomon-ha-kohen/"
 date_label: "c. 1247"
 date_year: "1247"
 seo:
   type: WebPage
 permalink: /works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/
 description: "An encyclopedia of logic, natural science and astronomy, translated by its author from his own Arabic for Hebrew readers."
+seo_title: "Midrash HaḤokhmah (c. 1247) by Judah ben Solomon ha-Kohen: English Translation"
 pdf: "https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah.pdf"
 redirect_from:
   - "/works/judah-ben-solomon-ha-kohen-midrash-ha-hokhmah/"
@@ -18,6 +20,7 @@ first_translation: "First complete English translation"
 source_title: "NLI Ktiv Palatina partner collection — DocId PNX_MANUSCRIPTS990000837360205171-1"
 source_url: "https://iiif.nli.org.il/IIIFv21/990000837360205171/manifest"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/#book\",\"name\":\"Midrash HaḤokhmah\",\"url\":\"https://arsastronomica.com/works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/\",\"inLanguage\":\"en\",\"description\":\"An encyclopedia of logic, natural science and astronomy, translated by its author from his own Arabic for Hebrew readers.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Midrash HaḤokhmah\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/judah-ben-solomon-ha-kohen/#person\"},\"datePublished\":\"1247\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Judah_ben_Solomon_ha-Kohen_Midrash_HaHokhmah.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/judah-ben-solomon-ha-kohen/#person\",\"name\":\"R. Judah ben Solomon ha-Kohen\",\"url\":\"https://arsastronomica.com/authors/judah-ben-solomon-ha-kohen/\"},\"isBasedOn\":\"https://iiif.nli.org.il/IIIFv21/990000837360205171/manifest\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Judah ben Solomon ha-Kohen\",\"item\":\"https://arsastronomica.com/authors/judah-ben-solomon-ha-kohen/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Midrash HaḤokhmah\",\"item\":\"https://arsastronomica.com/works/judah-ben-solomon-ha-kohen-midrash-hahokhmah/\"}]}]}"
 ---
 
 The first scientific encyclopedia written in Hebrew. *Midrash HaḤokhmah* —

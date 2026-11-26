@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Be'er HaGolah"
-author: "R. Judah Loew ben Bezalel (Maharal)"
+work_author: "R. Judah Loew ben Bezalel (Maharal)"
 author_slug: "judah-loew-ben-bezalel"
+author_url: "/authors/judah-loew-ben-bezalel/"
 date_label: "1598"
 date_year: "1598"
 seo:
   type: WebPage
 permalink: /works/judah-loew-ben-bezalel-beer-hagolah/
 description: "A defence of the Aggadah against critics who read its stories as absurd and its science as discredited, in seven 'wells' sunk toward one spring."
+seo_title: "Be'er HaGolah (1598) by Judah Loew ben Bezalel: English Translation"
 pdf: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf"
 footnotes: "https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah_Footnotes.pdf"
 grade: "citation"
@@ -17,6 +19,7 @@ first_translation: "First complete English translation"
 source_title: "Sefaria — Be'er HaGolah"
 source_url: "https://www.sefaria.org/Be%27er_HaGolah"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/judah-loew-ben-bezalel-beer-hagolah/#book\",\"name\":\"Be'er HaGolah\",\"url\":\"https://arsastronomica.com/works/judah-loew-ben-bezalel-beer-hagolah/\",\"inLanguage\":\"en\",\"description\":\"A defence of the Aggadah against critics who read its stories as absurd and its science as discredited, in seven 'wells' sunk toward one spring.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Be'er HaGolah\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/judah-loew-ben-bezalel/#person\"},\"datePublished\":\"1598\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Judah_Loew_ben_Bezalel_Beer_HaGolah.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/judah-loew-ben-bezalel/#person\",\"name\":\"R. Judah Loew ben Bezalel (Maharal)\",\"url\":\"https://arsastronomica.com/authors/judah-loew-ben-bezalel/\"},\"isBasedOn\":\"https://www.sefaria.org/Be%27er_HaGolah\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Judah Loew ben Bezalel (Maharal)\",\"item\":\"https://arsastronomica.com/authors/judah-loew-ben-bezalel/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Be'er HaGolah\",\"item\":\"https://arsastronomica.com/works/judah-loew-ben-bezalel-beer-hagolah/\"}]}]}"
 ---
 
 Maharal's defense of the Aggadah — the non-legal portions of the Talmud —

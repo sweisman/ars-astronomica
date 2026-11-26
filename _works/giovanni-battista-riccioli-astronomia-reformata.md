@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Astronomia Reformata"
-author: "Giovanni Battista Riccioli"
+work_author: "Giovanni Battista Riccioli"
 author_slug: "giovanni-battista-riccioli"
+author_url: "/authors/giovanni-battista-riccioli/"
 date_label: "1665"
 date_year: "1665"
 seo:
   type: WebPage
 permalink: /works/giovanni-battista-riccioli-astronomia-reformata/
 description: "Telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables and marshalled against a moving Earth."
+seo_title: "Astronomia Reformata (1665) by Giovanni Battista Riccioli: English Translation"
 pdf: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata.pdf"
 footnotes: "https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata_Footnotes.pdf"
 grade: "citation"
@@ -17,6 +19,14 @@ first_translation: "First complete English translation"
 source_title: "e-rara ETH-Bibliothek Zürich — title-info 141744"
 source_url: "https://www.e-rara.ch/zut/content/titleinfo/141744"
 translator_version: "2"
+more_by_author:
+  - title: "Almagestum Novum, Tomus Primus, Pars Posterior"
+    url: "/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-posterior/"
+    date: "1651"
+  - title: "Almagestum Novum, Tomus Primus, Pars Prior"
+    url: "/works/giovanni-battista-riccioli-almagestum-novum-tomus-primus-pars-prior/"
+    date: "1651"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/giovanni-battista-riccioli-astronomia-reformata/#book\",\"name\":\"Astronomia Reformata\",\"url\":\"https://arsastronomica.com/works/giovanni-battista-riccioli-astronomia-reformata/\",\"inLanguage\":\"en\",\"description\":\"Telescopic observations of Saturn, Jupiter and the fixed stars, reduced to tables and marshalled against a moving Earth.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Astronomia Reformata\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/giovanni-battista-riccioli/#person\"},\"datePublished\":\"1665\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Giovanni_Battista_Riccioli_Astronomia_Reformata.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/giovanni-battista-riccioli/#person\",\"name\":\"Giovanni Battista Riccioli\",\"url\":\"https://arsastronomica.com/authors/giovanni-battista-riccioli/\"},\"isBasedOn\":\"https://www.e-rara.ch/zut/content/titleinfo/141744\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Giovanni Battista Riccioli\",\"item\":\"https://arsastronomica.com/authors/giovanni-battista-riccioli/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Astronomia Reformata\",\"item\":\"https://arsastronomica.com/works/giovanni-battista-riccioli-astronomia-reformata/\"}]}]}"
 ---
 
 A mature reckoning with the heavens as the telescope was revealing them — a

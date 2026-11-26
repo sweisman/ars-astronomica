@@ -1,22 +1,28 @@
 ---
 layout: work
 title: "Eratosthenes Batavus"
-author: "Willebrord Snellius"
+work_author: "Willebrord Snellius"
 author_slug: "willebrord-snellius"
+author_url: "/authors/willebrord-snellius/"
 date_label: "1617"
 date_year: "1617"
 seo:
   type: WebPage
 permalink: /works/willebrord-snellius-eratosthenes-batavus/
 description: "How the Earth was measured by chaining triangles across Holland, the survey that founded modern geodesy."
-pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf"
 seo_title: "Eratosthenes Batavus (1617): Snellius Measures the Earth"
+pdf: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf"
 footnotes: "https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus_Footnotes.pdf"
 grade: "reading"
 first_translation: "First English translation"
 source_title: "e-rara / ETH-Bibliothek Zürich, Rar 4426"
 source_url: "https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205"
 translator_version: "2"
+more_by_author:
+  - title: "Observationes Hassiacae"
+    url: "/works/willebrord-snellius-observationes-hassiacae/"
+    date: "1618"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/willebrord-snellius-eratosthenes-batavus/#book\",\"name\":\"Eratosthenes Batavus\",\"url\":\"https://arsastronomica.com/works/willebrord-snellius-eratosthenes-batavus/\",\"inLanguage\":\"en\",\"description\":\"How the Earth was measured by chaining triangles across Holland, the survey that founded modern geodesy.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Eratosthenes Batavus\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/willebrord-snellius/#person\"},\"datePublished\":\"1617\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Willebrord_Snellius_Eratosthenes_Batavus.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/willebrord-snellius/#person\",\"name\":\"Willebrord Snellius\",\"url\":\"https://arsastronomica.com/authors/willebrord-snellius/\"},\"isBasedOn\":\"https://www.e-rara.ch/zut/doi/10.3931/e-rara-2205\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Willebrord Snellius\",\"item\":\"https://arsastronomica.com/authors/willebrord-snellius/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Eratosthenes Batavus\",\"item\":\"https://arsastronomica.com/works/willebrord-snellius-eratosthenes-batavus/\"}]}]}"
 ---
 
 The founding text of modern geodesy. In 1615 Snellius measured the arc of the

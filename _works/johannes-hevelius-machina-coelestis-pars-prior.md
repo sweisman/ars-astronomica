@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Machina Coelestis, Pars Prior"
-author: "Johannes Hevelius"
+work_author: "Johannes Hevelius"
 author_slug: "johannes-hevelius"
+author_url: "/authors/johannes-hevelius/"
 date_label: "1673"
 date_year: "1673"
 seo:
   type: WebPage
 permalink: /works/johannes-hevelius-machina-coelestis-pars-prior/
 description: "The instruments of Europe's largest observatory after Uraniborg, whose defence of naked-eye sights drew Hooke's attack and Halley's visit."
+seo_title: "Machina Coelestis, Pars Prior (1673) by Johannes Hevelius: English Translation"
 pdf: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior.pdf"
 footnotes: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,14 @@ first_translation: "First complete English translation"
 source_title: "Internet Archive — `Machinacoelesti1Heve` Smithsonian Libraries, Dibner Library; call no. 39088002601383"
 source_url: "https://archive.org/details/Machinacoelesti1Heve"
 translator_version: "2"
+more_by_author:
+  - title: "Cometographia"
+    url: "/works/johannes-hevelius-cometographia/"
+    date: "1668"
+  - title: "Selenographia"
+    url: "/works/johannes-hevelius-selenographia/"
+    date: "1647"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/johannes-hevelius-machina-coelestis-pars-prior/#book\",\"name\":\"Machina Coelestis, Pars Prior\",\"url\":\"https://arsastronomica.com/works/johannes-hevelius-machina-coelestis-pars-prior/\",\"inLanguage\":\"en\",\"description\":\"The instruments of Europe's largest observatory after Uraniborg, whose defence of naked-eye sights drew Hooke's attack and Halley's visit.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Machina Coelestis, Pars Prior\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/johannes-hevelius/#person\"},\"datePublished\":\"1673\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/johannes-hevelius/#person\",\"name\":\"Johannes Hevelius\",\"url\":\"https://arsastronomica.com/authors/johannes-hevelius/\"},\"isBasedOn\":\"https://archive.org/details/Machinacoelesti1Heve\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Johannes Hevelius\",\"item\":\"https://arsastronomica.com/authors/johannes-hevelius/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Machina Coelestis, Pars Prior\",\"item\":\"https://arsastronomica.com/works/johannes-hevelius-machina-coelestis-pars-prior/\"}]}]}"
 ---
 
 Johannes Hevelius, a Danzig brewer and city councillor, built on the roofs of

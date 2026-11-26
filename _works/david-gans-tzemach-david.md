@@ -1,20 +1,27 @@
 ---
 layout: work
 title: "Tzemach David"
-author: "David Gans"
+work_author: "David Gans"
 author_slug: "david-gans"
+author_url: "/authors/david-gans/"
 date_label: "1592"
 date_year: "1592"
 seo:
   type: WebPage
 permalink: /works/david-gans-tzemach-david/
 description: "The first history book printed in Hebrew: Jewish history in one part, world history in the other, and a preface defending the study of the gentile past."
+seo_title: "Tzemach David (1592) by David Gans: English Translation"
 pdf: "https://books.arsastronomica.com/David_Gans_Tzemach_David.pdf"
 footnotes: "https://books.arsastronomica.com/David_Gans_Tzemach_David_Footnotes.pdf"
 grade: "reading"
 first_translation: "First complete English translation"
 source_title: "National Library of Israel — Rosetta IE90688593 record labeled \"Vol.1-3\""
 translator_version: "2"
+more_by_author:
+  - title: "Nechmad VeNa'im"
+    url: "/works/david-gans-nechmad-venaim/"
+    date: "c. 1613"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/david-gans-tzemach-david/#book\",\"name\":\"Tzemach David\",\"url\":\"https://arsastronomica.com/works/david-gans-tzemach-david/\",\"inLanguage\":\"en\",\"description\":\"The first history book printed in Hebrew: Jewish history in one part, world history in the other, and a preface defending the study of the gentile past.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Tzemach David\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/david-gans/#person\"},\"datePublished\":\"1592\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/David_Gans_Tzemach_David.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/david-gans/#person\",\"name\":\"David Gans\",\"url\":\"https://arsastronomica.com/authors/david-gans/\"}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"David Gans\",\"item\":\"https://arsastronomica.com/authors/david-gans/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tzemach David\",\"item\":\"https://arsastronomica.com/works/david-gans-tzemach-david/\"}]}]}"
 ---
 
 A Hebrew historical chronicle in two parts by David Gans: the first traces Jewish

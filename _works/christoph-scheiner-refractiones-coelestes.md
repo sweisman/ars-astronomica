@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Refractiones Coelestes"
-author: "Christoph Scheiner"
+work_author: "Christoph Scheiner"
 author_slug: "christoph-scheiner"
+author_url: "/authors/christoph-scheiner/"
 date_label: "1617"
 date_year: "1617"
 seo:
   type: WebPage
 permalink: /works/christoph-scheiner-refractiones-coelestes/
 description: "Why the setting Sun looks flattened: a geometrical account of refraction near the horizon, and the corrections it forces on solar measurements."
+seo_title: "Refractiones Coelestes (1617) by Christoph Scheiner: English Translation"
 pdf: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes.pdf"
 footnotes: "https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,11 @@ first_translation: "First English translation"
 source_title: "Universitätsbibliothek Freiburg — *diglit* `scheiner1617`"
 source_url: "https://dl.ub.uni-freiburg.de/diglit/scheiner1617"
 translator_version: "2"
+more_by_author:
+  - title: "Rosa Ursina sive Sol"
+    url: "/works/christoph-scheiner-rosa-ursina-sive-sol/"
+    date: "1630"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/christoph-scheiner-refractiones-coelestes/#book\",\"name\":\"Refractiones Coelestes\",\"url\":\"https://arsastronomica.com/works/christoph-scheiner-refractiones-coelestes/\",\"inLanguage\":\"en\",\"description\":\"Why the setting Sun looks flattened: a geometrical account of refraction near the horizon, and the corrections it forces on solar measurements.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Refractiones Coelestes\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/christoph-scheiner/#person\"},\"datePublished\":\"1617\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Christoph_Scheiner_Refractiones_Coelestes.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/christoph-scheiner/#person\",\"name\":\"Christoph Scheiner\",\"url\":\"https://arsastronomica.com/authors/christoph-scheiner/\"},\"isBasedOn\":\"https://dl.ub.uni-freiburg.de/diglit/scheiner1617\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Christoph Scheiner\",\"item\":\"https://arsastronomica.com/authors/christoph-scheiner/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Refractiones Coelestes\",\"item\":\"https://arsastronomica.com/works/christoph-scheiner-refractiones-coelestes/\"}]}]}"
 ---
 
 *Refractiones coelestes* addresses atmospheric refraction and the apparent

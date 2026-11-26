@@ -113,5 +113,3 @@ Geometric figures, instrument schematics, concentric-sphere charts, and other di
 Tycho's _De Mundi Aetherei_, for example, contains 93 such figures, ranging from constructions in spherical astronomy to diagrams of the comet's proposed eccentric orbit within the solar sphere.
 
 For inquiries about producing a high-quality illustrated print edition of any of these works, please get in touch using the contact details on the front page.
-
-<p><a href="/">&larr; Ars Astronomica</a></p>

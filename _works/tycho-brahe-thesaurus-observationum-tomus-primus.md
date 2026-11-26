@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Thesaurus Observationum, Tomus Primus"
-author: "Tycho Brahe"
+work_author: "Tycho Brahe"
 author_slug: "tycho-brahe"
+author_url: "/authors/tycho-brahe/"
 date_label: "1923"
 date_year: "1923"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-primus/
 description: "Tycho's observation logs from 1563 to 1585, from his first recorded observation at sixteen: the raw record behind the best naked-eye astronomy ever made."
+seo_title: "Thesaurus Observationum, Tomus Primus (1923) by Tycho Brahe: English Translation"
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,32 @@ first_translation: "First English translation"
 source_title: "Internet Archive — `operaomniaedidit10brahuoft`"
 source_url: "https://archive.org/details/operaomniaedidit10brahuoft"
 translator_version: "2"
+more_by_author:
+  - title: "Astronomiae Instauratae Mechanica"
+    url: "/works/tycho-brahe-astronomiae-instauratae-mechanica/"
+    date: "1598"
+  - title: "Astronomiae Instauratae Progymnasmata"
+    url: "/works/tycho-brahe-astronomiae-instauratae-progymnasmata/"
+    date: "1602"
+  - title: "De Mundi Aetherei Recentioribus Phaenomenis"
+    url: "/works/tycho-brahe-de-mundi-aetherei-recentioribus-phaenomenis/"
+    date: "1588"
+  - title: "Epistolarum Astronomicarum Libri"
+    url: "/works/tycho-brahe-epistolarum-astronomicarum-libri/"
+    date: "1596"
+  - title: "Thesaurus Observationum, Tomus Secundus"
+    url: "/works/tycho-brahe-thesaurus-observationum-tomus-secundus/"
+    date: "1924"
+  - title: "Thesaurus Observationum, Tomus Tertius"
+    url: "/works/tycho-brahe-thesaurus-observationum-tomus-tertius/"
+    date: "1925"
+  - title: "Thesaurus Observationum, Tomus Quartus"
+    url: "/works/tycho-brahe-thesaurus-observationum-tomus-quartus/"
+    date: "1926"
+  - title: "Triangulorum Planorum et Sphaericorum Praxis Arithmetica"
+    url: "/works/tycho-brahe-triangulorum-planorum-et-sphaericorum-praxis-arithmetica/"
+    date: "1591"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-primus/#book\",\"name\":\"Thesaurus Observationum, Tomus Primus\",\"url\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-primus/\",\"inLanguage\":\"en\",\"description\":\"Tycho's observation logs from 1563 to 1585, from his first recorded observation at sixteen: the raw record behind the best naked-eye astronomy ever made.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Thesaurus Observationum, Tomus Primus\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\"},\"datePublished\":\"1923\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Primus.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\",\"name\":\"Tycho Brahe\",\"url\":\"https://arsastronomica.com/authors/tycho-brahe/\"},\"isBasedOn\":\"https://archive.org/details/operaomniaedidit10brahuoft\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tycho Brahe\",\"item\":\"https://arsastronomica.com/authors/tycho-brahe/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thesaurus Observationum, Tomus Primus\",\"item\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-primus/\"}]}]}"
 ---
 
 For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho

@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Tractatus de Superstitionibus"
-author: "Martín de Arles"
+work_author: "Martín de Arles"
 author_slug: "martin-de-arles"
+author_url: "/authors/martin-de-arles/"
 date_label: "c. 1510"
 date_year: "1510"
 seo:
   type: WebPage
 permalink: /works/martin-de-arles-tractatus-de-superstitionibus/
 description: "A Navarrese archdeacon catalogues the charms, lucky days and divinations he met in his own parishes, and judges each one."
+seo_title: "Tractatus de Superstitionibus (c. 1510) by Martín de Arles: English Translation"
 pdf: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus.pdf"
 footnotes: "https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus_Footnotes.pdf"
 grade: "reading"
@@ -16,6 +18,7 @@ first_translation: "First English translation"
 source_title: "Gallica / Bibliothèque nationale de France — ark:/12148/bpt6k1093221 BnF, dép. Philosophie, histoire, sciences de l'homme, D-39257"
 source_url: "https://gallica.bnf.fr/ark:/12148/bpt6k1093221"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/martin-de-arles-tractatus-de-superstitionibus/#book\",\"name\":\"Tractatus de Superstitionibus\",\"url\":\"https://arsastronomica.com/works/martin-de-arles-tractatus-de-superstitionibus/\",\"inLanguage\":\"en\",\"description\":\"A Navarrese archdeacon catalogues the charms, lucky days and divinations he met in his own parishes, and judges each one.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Tractatus de Superstitionibus\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/martin-de-arles/#person\"},\"datePublished\":\"1510\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Martin_de_Arles_Tractatus_de_Superstitionibus.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/martin-de-arles/#person\",\"name\":\"Martín de Arles\",\"url\":\"https://arsastronomica.com/authors/martin-de-arles/\"},\"isBasedOn\":\"https://gallica.bnf.fr/ark:/12148/bpt6k1093221\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Martín de Arles\",\"item\":\"https://arsastronomica.com/authors/martin-de-arles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tractatus de Superstitionibus\",\"item\":\"https://arsastronomica.com/works/martin-de-arles-tractatus-de-superstitionibus/\"}]}]}"
 ---
 
 Martín de Arles y Andosilla (c. 1451–1521) was a professor of theology and

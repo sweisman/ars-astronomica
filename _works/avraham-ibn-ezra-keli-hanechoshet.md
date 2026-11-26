@@ -1,14 +1,16 @@
 ---
 layout: work
 title: "Keli HaNechoshet"
-author: "R. Avraham ibn Ezra"
+work_author: "R. Avraham ibn Ezra"
 author_slug: "avraham-ibn-ezra"
+author_url: "/authors/avraham-ibn-ezra/"
 date_label: "c. 1148"
 date_year: "1148"
 seo:
   type: WebPage
 permalink: /works/avraham-ibn-ezra-keli-hanechoshet/
 description: "The earliest surviving Hebrew treatise on the astrolabe: how to build the instrument and use it, with a star catalogue. A matching astrolabe surfaced in 2024."
+seo_title: "Keli HaNechoshet (c. 1148) by Avraham ibn Ezra: English Translation"
 pdf: "https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet.pdf"
 redirect_from:
   - "/works/avraham-ibn-ezra-keli-ha-nechoshet/"
@@ -18,6 +20,7 @@ first_translation: "First complete English translation"
 source_title: "HebrewBooks.org — ID 20850"
 source_url: "https://hebrewbooks.org/20850"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/avraham-ibn-ezra-keli-hanechoshet/#book\",\"name\":\"Keli HaNechoshet\",\"url\":\"https://arsastronomica.com/works/avraham-ibn-ezra-keli-hanechoshet/\",\"inLanguage\":\"en\",\"description\":\"The earliest surviving Hebrew treatise on the astrolabe: how to build the instrument and use it, with a star catalogue. A matching astrolabe surfaced in 2024.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Keli HaNechoshet\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/avraham-ibn-ezra/#person\"},\"datePublished\":\"1148\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Avraham_ibn_Ezra_Keli_HaNechoshet.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/avraham-ibn-ezra/#person\",\"name\":\"R. Avraham ibn Ezra\",\"url\":\"https://arsastronomica.com/authors/avraham-ibn-ezra/\"},\"isBasedOn\":\"https://hebrewbooks.org/20850\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Avraham ibn Ezra\",\"item\":\"https://arsastronomica.com/authors/avraham-ibn-ezra/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Keli HaNechoshet\",\"item\":\"https://arsastronomica.com/works/avraham-ibn-ezra-keli-hanechoshet/\"}]}]}"
 ---
 
 The earliest surviving Hebrew treatise on the astrolabe, composed in the

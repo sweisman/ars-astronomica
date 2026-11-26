@@ -1,20 +1,27 @@
 ---
 layout: work
 title: "Milchamot HaShem"
-author: "R. Levi ben Gershom"
+work_author: "R. Levi ben Gershom"
 author_slug: "levi-ben-gershom"
+author_url: "/authors/levi-ben-gershom/"
 date_label: "c. 1329"
 date_year: "1329"
 seo:
   type: WebPage
 permalink: /works/levi-ben-gershom-milchamot-hashem/
 description: "On the soul, prophecy, divine knowledge, providence, the heavens and creation, dissenting from Maimonides wherever reason demands."
+seo_title: "Milchamot HaShem (c. 1329) by Levi ben Gershom: English Translation"
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem.pdf"
 footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem_Footnotes.pdf"
 grade: "reading"
 source_title: "Internet Archive — sefermilamothash00leviuoft"
 source_url: "https://archive.org/details/sefermilamothash00leviuoft"
 translator_version: "2"
+more_by_author:
+  - title: "Sefer HaTechunah"
+    url: "/works/levi-ben-gershom-sefer-hatechunah/"
+    date: "c. 1328"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/levi-ben-gershom-milchamot-hashem/#book\",\"name\":\"Milchamot HaShem\",\"url\":\"https://arsastronomica.com/works/levi-ben-gershom-milchamot-hashem/\",\"inLanguage\":\"en\",\"description\":\"On the soul, prophecy, divine knowledge, providence, the heavens and creation, dissenting from Maimonides wherever reason demands.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Milchamot HaShem\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/levi-ben-gershom/#person\"},\"datePublished\":\"1329\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/levi-ben-gershom/#person\",\"name\":\"R. Levi ben Gershom (Gersonides)\",\"url\":\"https://arsastronomica.com/authors/levi-ben-gershom/\"},\"isBasedOn\":\"https://archive.org/details/sefermilamothash00leviuoft\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Levi ben Gershom (Gersonides)\",\"item\":\"https://arsastronomica.com/authors/levi-ben-gershom/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Milchamot HaShem\",\"item\":\"https://arsastronomica.com/works/levi-ben-gershom-milchamot-hashem/\"}]}]}"
 ---
 
 *The Wars of the Lord* is the philosophical and theological masterwork of Levi

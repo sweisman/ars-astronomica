@@ -1,20 +1,23 @@
 ---
 layout: work
 title: "Sefer HaBris HaShalem"
-author: "R. Pinchas Eliyahu Hurwitz"
+work_author: "R. Pinchas Eliyahu Hurwitz"
 author_slug: "pinchas-eliyahu-hurwitz"
+author_url: "/authors/pinchas-eliyahu-hurwitz/"
 date_label: "1797"
 date_year: "1797"
 seo:
   type: WebPage
 permalink: /works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/
 description: "Enlightenment science in one part, Lurianic Kabbalah in the other, including early Jewish writing on life on other worlds."
+seo_title: "Sefer HaBris HaShalem (1797) by Pinchas Eliyahu Hurwitz: English Translation"
 pdf: "https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem.pdf"
 footnotes: "https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem_Footnotes.pdf"
 grade: "reading"
 source_title: "HebrewBooks.org — ID 43670"
 source_url: "https://hebrewbooks.org/43670"
 translator_version: "2"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/#book\",\"name\":\"Sefer HaBris HaShalem\",\"url\":\"https://arsastronomica.com/works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/\",\"inLanguage\":\"en\",\"description\":\"Enlightenment science in one part, Lurianic Kabbalah in the other, including early Jewish writing on life on other worlds.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Sefer HaBris HaShalem\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/pinchas-eliyahu-hurwitz/#person\"},\"datePublished\":\"1797\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Pinchas_Eliyahu_Hurwitz_Sefer_HaBris_HaShalem.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/pinchas-eliyahu-hurwitz/#person\",\"name\":\"R. Pinchas Eliyahu Hurwitz\",\"url\":\"https://arsastronomica.com/authors/pinchas-eliyahu-hurwitz/\"},\"isBasedOn\":\"https://hebrewbooks.org/43670\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Pinchas Eliyahu Hurwitz\",\"item\":\"https://arsastronomica.com/authors/pinchas-eliyahu-hurwitz/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sefer HaBris HaShalem\",\"item\":\"https://arsastronomica.com/works/pinchas-eliyahu-hurwitz-sefer-habris-hashalem/\"}]}]}"
 ---
 
 A sweeping Hebrew encyclopedia of science and mysticism, among the most

@@ -3,57 +3,25 @@ layout: default
 ---
 
 {%- comment -%}
-Structured data. Strings go through `jsonify` so titles containing quotes or
-Hebrew cannot break the document. Optional members carry their own leading
-comma, since the required ones above them are always present.
+Everything here comes from front matter written by publish.py, structured data
+included (the default layout emits it). Plain-text values are escaped; the two
+that may carry inline Markdown, date_label and source_title, are rendered.
 {%- endcomment -%}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Book",
-  "name": {{ page.title | jsonify }},
-  "url": {{ page.url | absolute_url | jsonify }},
-  "author": { "@type": "Person", "name": {{ page.author | jsonify }} },
-  "translator": { "@type": "Person", "name": "Scott Weisman" },
-  "publisher": { "@type": "Organization", "name": "Ars Astronomica", "url": {{ "/" | absolute_url | jsonify }} },
-  "inLanguage": "en",
-  "description": {{ page.description | jsonify }}
-  {%- if page.date_year %},
-  "datePublished": {{ page.date_year | jsonify }}
-  {%- endif %}
-  {%- if page.source_url %},
-  "isBasedOn": {{ page.source_url | jsonify }}
-  {%- endif %}
-  {%- if page.pdf %},
-  "encoding": {
-    "@type": "MediaObject",
-    "contentUrl": {{ page.pdf | jsonify }},
-    "encodingFormat": "application/pdf"
-  }
-  {%- endif %}
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Ars Astronomica", "item": {{ "/" | absolute_url | jsonify }} },
-    { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
-  ]
-}
-</script>
-
 <nav aria-label="Breadcrumb">
-  <a href="{{ "/" | relative_url }}">Ars Astronomica</a> &rsaquo; <span>{{ page.title }}</span>
+  <a href="{{ "/" | relative_url }}">Ars Astronomica</a> &rsaquo;
+  {% if page.author_url %}<a href="{{ page.author_url | relative_url }}">{{ page.work_author | escape }}</a>
+  {% else %}<a href="{{ "/works/" | relative_url }}">Works</a>{% endif %} &rsaquo;
+  <span>{{ page.title | escape }}</span>
 </nav>
 
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title | escape }}</h1>
 
-{%- comment -%} date_label and source_title come from PDF metadata and may carry inline Markdown. {%- endcomment -%}
-<p><strong>{{ page.author }}</strong>{% if page.date_label %} &middot; {{ page.date_label | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% endif %}</p>
+<p>
+  <strong>{% if page.author_url %}<a href="{{ page.author_url | relative_url }}">{{ page.work_author | escape }}</a>{% else %}{{ page.work_author | escape }}{% endif %}</strong>
+  {%- if page.date_label %} &middot; {{ page.date_label | markdownify | remove: "<p>" | remove: "</p>" | strip }}{% endif %}
+</p>
 
-{% if page.first_translation %}<p><em>{{ page.first_translation }}</em></p>{% endif %}
+<p><em>{% if page.first_translation %}{{ page.first_translation }}, by{% else %}English translation by{% endif %} Scott Weisman</em></p>
 
 <p>
   <a href="{{ page.pdf }}">Read the translation (PDF)</a>
@@ -75,8 +43,17 @@ comma, since the required ones above them are always present.
   {% endif %}
   {% if page.translator_version %}
   <dt>Translator version</dt>
-  <dd>{{ page.translator_version }}</dd>
+  <dd>{{ page.translator_version | escape }}</dd>
   {% endif %}
 </dl>
 
-<p><a href="{{ "/" | relative_url }}">&larr; All works in the corpus</a></p>
+{% if page.more_by_author %}
+<h2>More by {{ page.work_author | escape }}</h2>
+<ul>
+  {% for other in page.more_by_author %}
+  <li><a href="{{ other.url | relative_url }}"><em>{{ other.title | escape }}</em></a>{% if other.date != "" %} ({{ other.date | escape }}){% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<p><a href="{{ "/works/" | relative_url }}">&larr; All works in the corpus</a></p>

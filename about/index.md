@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About the translations"
-description: "How the translations are made, how their quality is measured, the distinction between reading-grade and citation-grade texts, and the editorial standards for fidelity and readability."
+description: "How the translations are made, how quality is measured, what separates reading-grade from citation-grade texts, and the standards for fidelity and readability."
 seo:
   type: WebPage
 permalink: /about/

@@ -14,6 +14,7 @@ seo_title: "Sefer HaTechunah (c. 1328) by Levi ben Gershom: English Translation"
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah.pdf"
 footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Sefer_HaTechunah_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Gallica / BnF — MS Hébreu 724, ff. 1r–257v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10544205n"
 more_by_author:

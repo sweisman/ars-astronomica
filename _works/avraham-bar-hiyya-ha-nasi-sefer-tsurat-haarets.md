@@ -4,7 +4,7 @@ title: "Sefer Tsurat HaArets"
 work_author: "R. Avraham bar Ḥiyya ha-Nasi"
 author_slug: "avraham-bar-hiyya-ha-nasi"
 author_url: "/authors/avraham-bar-hiyya-ha-nasi/"
-date_label: "c. 1132 (composed; first printed 1546 — see Edition)"
+date_label: "c. 1132"
 date_year: "1132"
 seo:
   type: WebPage
@@ -16,6 +16,7 @@ redirect_from:
   - "/works/avraham-bar-hiyya-ha-nasi-sefer-tsurat-ha-arets/"
 footnotes: "https://books.arsastronomica.com/Avraham_bar_Hiyya_ha-Nasi_Sefer_Tsurat_HaArets_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "NYPL Digital Collections Dorot Jewish Division — item ce668260-c766-0132-045a-58d385a7b928"
 source_url: "https://digitalcollections.nypl.org/items/ce668260-c766-0132-045a-58d385a7b928"
 more_by_author:

@@ -12,7 +12,7 @@ A scholarly imprint producing first English translations of historical Hebrew an
 
 These texts span centuries, and most have never appeared in English. One -- Gersonides' 136-chapter mathematical astronomy -- was never printed and survives only in manuscript. They cite and answer one another, addressing the same cosmological questions, yet until now no one could read them side by side in a single language.
 
-**[Browse all 61 works](/works/)** · **[Browse the 34 authors](/authors/)**
+**[Browse all 62 works](/works/)** · **[Browse the 35 authors](/authors/)**
 
 ## Highlights
 

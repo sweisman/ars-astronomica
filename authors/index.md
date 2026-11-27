@@ -2,16 +2,16 @@
 layout: default
 title: "Authors"
 seo_title: "Authors in English Translation | Ars Astronomica"
-description: "The 34 authors in the Ars Astronomica corpus, each with a short life and their works in English translation."
+description: "The 35 authors in the Ars Astronomica corpus, each with a short life and their works in English translation."
 seo:
   type: WebPage
 permalink: /authors/
-jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"url\":\"https://arsastronomica.com/authors/\",\"name\":\"Authors\",\"description\":\"The 34 authors in the Ars Astronomica corpus, each with a short life and their works in English translation.\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Authors\",\"item\":\"https://arsastronomica.com/authors/\"}]}]}"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"url\":\"https://arsastronomica.com/authors/\",\"name\":\"Authors\",\"description\":\"The 35 authors in the Ars Astronomica corpus, each with a short life and their works in English translation.\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Authors\",\"item\":\"https://arsastronomica.com/authors/\"}]}]}"
 ---
 
 # Authors
 
-The 34 authors whose works are in the corpus. [Browse by work instead](/works/).
+The 35 authors whose works are in the corpus. [Browse by work instead](/works/).
 
 - **[Athanasius Kircher](/authors/athanasius-kircher/)** (1602–1680). German Jesuit polymath in Rome whose illustrated folios ranged from magnetism and music to Egypt, China and the interior of the Earth. 1 work.
 - **[R. Avraham bar Ḥiyya ha-Nasi](/authors/avraham-bar-hiyya-ha-nasi/)** (c. 1070–c. 1136). Mathematician and astronomer of Barcelona, among the first to write science in Hebrew rather than Arabic. 3 works.
@@ -26,6 +26,7 @@ The 34 authors whose works are in the corpus. [Browse by work instead](/works/).
 - **[Ernesto Bozzano](/authors/ernesto-bozzano/)** (1862–1943). Italian psychical researcher of Genoa who spent fifty years collecting and classifying reported cases. 1 work.
 - **[Giovanni Battista Riccioli](/authors/giovanni-battista-riccioli/)** (1598–1671). Jesuit astronomer of Bologna whose New Almagest weighed every argument about the Earth's motion and named the craters of the Moon. 3 works.
 - **[Govaert Wendelen](/authors/govaert-wendelen/)** (1580–1667). Flemish priest and astronomer, a careful observer who corresponded with Riccioli, Gassendi and Mersenne. 3 works.
+- **[Helisaeus Roeslin](/authors/helisaeus-roeslin/)** (1545–1616). Physician and astrologer in Alsace who set the rival systems of the world side by side in 1597 and added a geo-heliocentric one of his own. 1 work.
 - **[R. Immanuel Bonfils](/authors/immanuel-bonfils/)** (c. 1300–1377). Astronomer of Tarascon in Provence whose Six Wings were used across the Jewish world and translated into Latin and Greek. 1 work.
 - **[R. Isaac ibn al-Aḥdab](/authors/isaac-ibn-al-ahdab/)** (c. 1350–c. 1430). Castilian-born astronomer, mathematician and poet who settled in Sicily, where he compiled tables for the Sun and Moon. 2 works.
 - **[R. Jacob ben Machir ibn Tibbon](/authors/jacob-ben-machir-ibn-tibbon/)** (c. 1236–c. 1305). Astronomer and translator of Montpellier, known in Latin as Profatius, who invented the new quadrant. 1 work.

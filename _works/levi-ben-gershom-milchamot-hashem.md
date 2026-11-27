@@ -14,6 +14,7 @@ seo_title: "Milchamot HaShem (c. 1329) by Levi ben Gershom: English Translation"
 pdf: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem.pdf"
 footnotes: "https://books.arsastronomica.com/Levi_ben_Gershom_Milchamot_HaShem_Footnotes.pdf"
 grade: "reading"
+first_translation: "First complete English translation"
 source_title: "Internet Archive — sefermilamothash00leviuoft"
 source_url: "https://archive.org/details/sefermilamothash00leviuoft"
 more_by_author:

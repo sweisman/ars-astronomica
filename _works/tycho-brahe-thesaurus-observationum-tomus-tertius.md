@@ -4,18 +4,17 @@ title: "Thesaurus Observationum, Tomus Tertius"
 work_author: "Tycho Brahe"
 author_slug: "tycho-brahe"
 author_url: "/authors/tycho-brahe/"
-date_label: "1925"
-date_year: "1925"
+date_label: "1590–1595"
 seo:
   type: WebPage
 permalink: /works/tycho-brahe-thesaurus-observationum-tomus-tertius/
 description: "Tycho's observation logs for 1590 to 1595, the last full years of the Hven observatory."
-seo_title: "Thesaurus Observationum, Tomus Tertius (1925) by Tycho Brahe: English Translation"
+seo_title: "Thesaurus Observationum, Tomus Tertius (1590–1595) by Tycho Brahe: English Translation"
 pdf: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf"
 footnotes: "https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius_Footnotes.pdf"
 grade: "reading"
 first_translation: "First English translation"
-source_title: "Internet Archive — `operaomniaedidit12brahuoft`"
+source_title: "Internet Archive — operaomniaedidit12brahuoft"
 source_url: "https://archive.org/details/operaomniaedidit12brahuoft"
 more_by_author:
   - title: "Astronomiae Instauratae Mechanica"
@@ -32,17 +31,17 @@ more_by_author:
     date: "1596"
   - title: "Thesaurus Observationum, Tomus Primus"
     url: "/works/tycho-brahe-thesaurus-observationum-tomus-primus/"
-    date: "1923"
+    date: "1563–1585"
   - title: "Thesaurus Observationum, Tomus Secundus"
     url: "/works/tycho-brahe-thesaurus-observationum-tomus-secundus/"
-    date: "1924"
+    date: "1586–1589"
   - title: "Thesaurus Observationum, Tomus Quartus"
     url: "/works/tycho-brahe-thesaurus-observationum-tomus-quartus/"
-    date: "1926"
+    date: "1596–1601"
   - title: "Triangulorum Planorum et Sphaericorum Praxis Arithmetica"
     url: "/works/tycho-brahe-triangulorum-planorum-et-sphaericorum-praxis-arithmetica/"
     date: "1591"
-jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/#book\",\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"url\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/\",\"inLanguage\":\"en\",\"description\":\"Tycho's observation logs for 1590 to 1595, the last full years of the Hven observatory.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\"},\"datePublished\":\"1925\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\",\"name\":\"Tycho Brahe\",\"url\":\"https://arsastronomica.com/authors/tycho-brahe/\"},\"isBasedOn\":\"https://archive.org/details/operaomniaedidit12brahuoft\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tycho Brahe\",\"item\":\"https://arsastronomica.com/authors/tycho-brahe/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"item\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/\"}]}]}"
+jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/#book\",\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"url\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/\",\"inLanguage\":\"en\",\"description\":\"Tycho's observation logs for 1590 to 1595, the last full years of the Hven observatory.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\"}},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Tycho_Brahe_Thesaurus_Observationum_Tomus_Tertius.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/tycho-brahe/#person\",\"name\":\"Tycho Brahe\",\"url\":\"https://arsastronomica.com/authors/tycho-brahe/\"},\"isBasedOn\":\"https://archive.org/details/operaomniaedidit12brahuoft\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Tycho Brahe\",\"item\":\"https://arsastronomica.com/authors/tycho-brahe/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thesaurus Observationum, Tomus Tertius\",\"item\":\"https://arsastronomica.com/works/tycho-brahe-thesaurus-observationum-tomus-tertius/\"}]}]}"
 ---
 
 For twenty-one years on the island of Hven, and afterwards in Bohemia, Tycho

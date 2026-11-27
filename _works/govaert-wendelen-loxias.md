@@ -15,7 +15,7 @@ pdf: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias.pdf"
 footnotes: "https://books.arsastronomica.com/Govaert_Wendelen_Loxias_Footnotes.pdf"
 grade: "reading"
 first_translation: "First English translation"
-source_title: "Google Books `D0Jgtk0h1HEC` — copy of the Hendrik Conscience Heritage Library, Antwerp; digitized 2022-12-12; full view"
+source_title: "Google Books D0Jgtk0h1HEC — copy of the Hendrik Conscience Heritage Library, Antwerp; digitized 2022-12-12; full view"
 source_url: "https://www.google.com/books/edition/Loxias_seu_De_obliquitate_solis_diatriba/D0Jgtk0h1HEC"
 more_by_author:
   - title: "Arcanorum Caelestium Lampas"

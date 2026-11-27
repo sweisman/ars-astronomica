@@ -15,7 +15,7 @@ pdf: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_
 footnotes: "https://books.arsastronomica.com/Johannes_Hevelius_Machina_Coelestis_Pars_Prior_Footnotes.pdf"
 grade: "reading"
 first_translation: "First complete English translation"
-source_title: "Internet Archive — `Machinacoelesti1Heve` Smithsonian Libraries, Dibner Library; call no. 39088002601383"
+source_title: "Internet Archive — Machinacoelesti1Heve Smithsonian Libraries, Dibner Library; call no. 39088002601383"
 source_url: "https://archive.org/details/Machinacoelesti1Heve"
 more_by_author:
   - title: "Cometographia"

@@ -4,7 +4,7 @@ title: "Roba' Yisrael"
 work_author: "R. Jacob ben Machir ibn Tibbon"
 author_slug: "jacob-ben-machir-ibn-tibbon"
 author_url: "/authors/jacob-ben-machir-ibn-tibbon/"
-date_label: "c. 1288 (composition; this is a later manuscript copy)"
+date_label: "c. 1288"
 date_year: "1288"
 seo:
   type: WebPage
@@ -14,6 +14,7 @@ seo_title: "Roba' Yisrael (c. 1288) by Jacob ben Machir ibn Tibbon: English Tran
 pdf: "https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael.pdf"
 footnotes: "https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael_Footnotes.pdf"
 grade: "reading"
+first_translation: "First English translation"
 source_title: "Gallica / BnF — Hébreu 1031, ff. 131r–147v"
 source_url: "https://gallica.bnf.fr/ark:/12148/btv1b10539303j"
 jsonld: "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Book\",\"@id\":\"https://arsastronomica.com/works/jacob-ben-machir-ibn-tibbon-roba-yisrael/#book\",\"name\":\"Roba' Yisrael\",\"url\":\"https://arsastronomica.com/works/jacob-ben-machir-ibn-tibbon-roba-yisrael/\",\"inLanguage\":\"en\",\"description\":\"An improved astronomical quadrant of the author's own invention, in sixteen gates. It passed into Latin and was cited by Renaissance astronomers.\",\"translator\":{\"@type\":\"Person\",\"name\":\"Scott Weisman\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Ars Astronomica\",\"url\":\"https://arsastronomica.com/\"},\"isAccessibleForFree\":true,\"license\":\"https://creativecommons.org/licenses/by-nc-nd/4.0/\",\"translationOfWork\":{\"@type\":\"Book\",\"name\":\"Roba' Yisrael\",\"author\":{\"@id\":\"https://arsastronomica.com/authors/jacob-ben-machir-ibn-tibbon/#person\"},\"datePublished\":\"1288\"},\"encoding\":{\"@type\":\"MediaObject\",\"contentUrl\":\"https://books.arsastronomica.com/Jacob_ben_Machir_ibn_Tibbon_Roba_Yisrael.pdf\",\"encodingFormat\":\"application/pdf\"},\"author\":{\"@type\":\"Person\",\"@id\":\"https://arsastronomica.com/authors/jacob-ben-machir-ibn-tibbon/#person\",\"name\":\"R. Jacob ben Machir ibn Tibbon\",\"url\":\"https://arsastronomica.com/authors/jacob-ben-machir-ibn-tibbon/\"},\"isBasedOn\":\"https://gallica.bnf.fr/ark:/12148/btv1b10539303j\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Ars Astronomica\",\"item\":\"https://arsastronomica.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"R. Jacob ben Machir ibn Tibbon\",\"item\":\"https://arsastronomica.com/authors/jacob-ben-machir-ibn-tibbon/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Roba' Yisrael\",\"item\":\"https://arsastronomica.com/works/jacob-ben-machir-ibn-tibbon-roba-yisrael/\"}]}]}"

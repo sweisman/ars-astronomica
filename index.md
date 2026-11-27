@@ -35,6 +35,10 @@ These are **reading-grade** editions: complete and accurate in substance, good e
 
 ## Updates
 
+**2026-11-27**
+
+- Added *De Opere Dei Creationis* (Helisaeus Roeslin, 1597): a complete account of the created world in numbered theses, closing with the systems of Ptolemy, Copernicus, Ursus and Tycho set beside the author's own.
+
 **2026-11-20**
 
 - Added three works by Johannes Hevelius: the *Selenographia* (1647), the first lunar atlas drawn from systematic telescopic observation; the *Cometographia* (1668), the major survey of comets before Newton; and the first part of the *Machina Coelestis* (1673), his illustrated account of the instruments of the largest observatory in Europe after Uraniborg.
@@ -46,10 +50,6 @@ These are **reading-grade** editions: complete and accurate in substance, good e
 
 - Added four works on the instruments of computation and observation around Tycho Brahe: his own *Triangulorum Planorum et Sphaericorum Praxis Arithmetica* (1591), the working manual of trigonometry behind the Uraniborg observations; the *Fundamentum Astronomicum* (Nicolaus Reimers Ursus, 1588), whose world system Tycho accused Ursus of stealing from him; and the *Observationes Hassiacae* (ed. Willebrord Snellius, 1618), the Kassel observations of Landgrave Wilhelm IV, the other great body of precision observation from before the telescope.
 - Added the first part of Giovanni Battista Riccioli's *Almagestum Novum* (1651), Books I–VII, with the map of the Moon whose crater names astronomers still use.
-
-**2026-10-29**
-
-- Added the *Thesaurus Observationum*, Tomus Tertius and Tomus Quartus (Tycho Brahe, ed. J. L. E. Dreyer, 1925–1926), continuing the record of what Tycho and his assistants observed over twenty-one years on Hven and afterwards in Bohemia.
 
 [Earlier updates](https://arsastronomica.com/updates/)
 
